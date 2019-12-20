@@ -1,0 +1,79 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:adsum:whitakerLat">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:wordsxml.v1"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T06:26:56.429929</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:adsum"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440208177880"/>
+    <oac:Body rdf:about="urn:uuid:idm140440208177880">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>ads</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="3">verb</pofs>
+            <conj>5th</conj>
+            <var>1st</var>
+            <tense>present</tense>
+            <voice>active</voice>
+            <mood>indicative</mood>
+            <pers>1st</pers>
+            <num>singular</num>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">adsum, adesse, adfui, adfuturus</hdwd>
+            <pofs order="3">verb</pofs>
+            <freq order="6">very frequent</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <dict>
+            <hdwd xml:lang="lat">adsum, adesse, arfui, arfuturus</hdwd>
+            <pofs order="3">verb</pofs>
+            <age order="2">early</age>
+            <freq order="4">common</freq>
+            <src>Lewis+Short</src>
+          </dict>
+          <mean>be near, be present, be in attendance, arrive, appear; aid (w/DAT);</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440215153832"/>
+    <oac:Body rdf:about="urn:uuid:idm140440215153832">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>adsum</stem>
+            </term>
+            <pofs order="3">verb</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <tense>present</tense>
+            <voice>active</voice>
+            <mood>imperative</mood>
+            <pers>2nd</pers>
+            <num>singular</num>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">adsumo, adsumere, adsumpsi, adsumptus</hdwd>
+            <pofs order="3">verb</pofs>
+            <conj>3rd</conj>
+            <kind>transitive</kind>
+            <freq order="6">very frequent</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>take (to/up/on/from), adopt/raise, use; assume/receive; insert/add; usurp/claim</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>

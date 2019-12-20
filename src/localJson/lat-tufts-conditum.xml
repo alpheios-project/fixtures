@@ -1,0 +1,375 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:conditum:whitakerLat">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:wordsxml.v1"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T06:16:15.450664</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:conditum"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440208124120"/>
+    <oac:Body rdf:about="urn:uuid:idm140440208124120">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <case order="7">nominative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <case order="1">vocative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>masculine</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>supine</pofs>
+            <conj>3rd</conj>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">condo, condere, condidi, conditus</hdwd>
+            <pofs order="3">verb</pofs>
+            <conj>3rd</conj>
+            <kind>transitive</kind>
+            <freq order="6">very frequent</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>put/insert (into); store up/put away, preserve, bottle (wine); bury/inter; sink</mean>
+          <mean>build/found, make; shut (eyes); conceal/hide/keep safe; put together, compose;</mean>
+          <mean>restore; sheathe (sword); plunge/bury (weapon in enemy); put out of sight;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440217484520"/>
+    <oac:Body rdf:about="urn:uuid:idm140440217484520">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>4th</var>
+            <case order="7">nominative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>4th</var>
+            <case order="1">vocative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>4th</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>masculine</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>verb participle</pofs>
+            <conj>3rd</conj>
+            <var>4th</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <tense>perfect</tense>
+            <voice>passive</voice>
+            <mood>participle</mood>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs>supine</pofs>
+            <conj>3rd</conj>
+            <var>4th</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">condio, condire, condivi, conditus</hdwd>
+            <pofs order="3">verb</pofs>
+            <conj>4th</conj>
+            <kind>transitive</kind>
+            <freq order="4">common</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>preserve/pickle; embalm/mummify; spice; season/flavor/render pleasant/give zest</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440209844168"/>
+    <oac:Body rdf:about="urn:uuid:idm140440209844168">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>2nd</decl>
+            <var>2nd</var>
+            <case order="7">nominative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>2nd</decl>
+            <var>2nd</var>
+            <case order="1">vocative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>2nd</decl>
+            <var>2nd</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>2nd</decl>
+            <var>2nd</var>
+            <case order="6">genitive</case>
+            <num>plural</num>
+            <gend>neuter</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">conditum, conditi</hdwd>
+            <pofs order="5">noun</pofs>
+            <decl>2nd</decl>
+            <gend>neuter</gend>
+            <freq order="2">uncommon</freq>
+            <src>Lewis+Short</src>
+          </dict>
+          <mean>aromatic/spiced wine; seasoned food (pl.) (OLD);</mean>
+          <mean>secret, something hidden/concealed;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440209259768"/>
+    <oac:Body rdf:about="urn:uuid:idm140440209259768">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>4th</decl>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>masculine</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>4th</decl>
+            <var>1st</var>
+            <case order="6">genitive</case>
+            <num>plural</num>
+            <gend>masculine</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">conditus, conditus</hdwd>
+            <pofs order="5">noun</pofs>
+            <decl>4th</decl>
+            <gend>masculine</gend>
+            <area>government</area>
+            <freq order="1">very rare</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>founding (of a city); establishment; preparing (L+S); preserving fruit; hiding;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440209404680"/>
+    <oac:Body rdf:about="urn:uuid:idm140440209404680">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="4">adjective</pofs>
+            <decl>1st</decl>
+            <var>1st</var>
+            <case order="7">nominative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <comp>positive</comp>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="4">adjective</pofs>
+            <decl>1st</decl>
+            <var>1st</var>
+            <case order="1">vocative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <comp>positive</comp>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="4">adjective</pofs>
+            <decl>1st</decl>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>masculine</gend>
+            <comp>positive</comp>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>condit</stem>
+              <suff>um</suff>
+            </term>
+            <pofs order="4">adjective</pofs>
+            <decl>1st</decl>
+            <var>1st</var>
+            <case order="4">accusative</case>
+            <num>singular</num>
+            <gend>neuter</gend>
+            <comp>positive</comp>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">conditus, condita, conditum</hdwd>
+            <pofs order="4">adjective</pofs>
+            <freq order="4">common</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>preserved, kept in store; hidden, concealed, secret; sunken (eyes);</mean>
+          <dict>
+            <hdwd xml:lang="lat">conditus, condita -um, conditior -or -us, conditissimus -a -um</hdwd>
+            <pofs order="4">adjective</pofs>
+            <freq order="4">common</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>seasoned, spiced up, flavored, savory; polished, ornamented (discourse/style);</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>

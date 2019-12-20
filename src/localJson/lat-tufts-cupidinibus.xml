@@ -1,0 +1,120 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:cupidinibus:whitakerLat">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:wordsxml.v1"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T06:14:18.628862</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:cupidinibus"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440220979832"/>
+    <oac:Body rdf:about="urn:uuid:idm140440220979832">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="2">locative</case>
+            <num>plural</num>
+            <gend>masculine</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="5">dative</case>
+            <num>plural</num>
+            <gend>masculine</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="3">ablative</case>
+            <num>plural</num>
+            <gend>masculine</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">Cupido, Cupidinis</hdwd>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <gend>masculine</gend>
+            <area>religion</area>
+            <freq order="4">common</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>Cupid, son of Venus; personification of carnal desire;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440220847528"/>
+    <oac:Body rdf:about="urn:uuid:idm140440220847528">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="2">locative</case>
+            <num>plural</num>
+            <gend>common</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="5">dative</case>
+            <num>plural</num>
+            <gend>common</gend>
+          </infl>
+          <infl>
+            <term xml:lang="lat">
+              <stem>cupidin</stem>
+              <suff>ibus</suff>
+            </term>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <var>1st</var>
+            <case order="3">ablative</case>
+            <num>plural</num>
+            <gend>common</gend>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">cupido, cupidinis</hdwd>
+            <pofs order="5">noun</pofs>
+            <decl>3rd</decl>
+            <gend>common</gend>
+            <freq order="5">frequent</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>desire/love/wish/longing (passionate); lust; greed, appetite; desire for gain;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>

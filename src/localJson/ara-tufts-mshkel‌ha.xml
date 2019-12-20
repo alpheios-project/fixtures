@@ -1,0 +1,298 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:مشکل‌ها:aramorph">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:aramorph.v2"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T11:03:31.624940</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Morphology provided by Buckwalter Arabic Morphological Analyzer Version 2.0 from QAMUS LLC (www.qamus.org).</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:مشکل‌ها"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140154429296160"/>
+    <oac:Body rdf:about="urn:uuid:idm140154429296160">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUN</morph>
+            <xmpl>problem/difficulty</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+              <suff>ُ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNu/CASE_DEF_NOM</morph>
+            <xmpl>problem/difficulty + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+              <suff>َ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNa/CASE_DEF_ACC</morph>
+            <xmpl>problem/difficulty + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+              <suff>ٌ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNN/CASE_INDEF_NOM</morph>
+            <xmpl>problem/difficulty + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+              <suff>ٍ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNK/CASE_INDEF_GEN</morph>
+            <xmpl>problem/difficulty + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشْكِل</stem>
+              <suff>ِ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNi/CASE_DEF_GEN</morph>
+            <xmpl>problem/difficulty + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">مُشْكِل</hdwd>
+            <pofs order="9">noun</pofs>
+          </dict>
+          <mean>problem/difficulty</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140154429398352"/>
+    <oac:Body rdf:about="urn:uuid:idm140154429398352">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJ</morph>
+            <xmpl>variegated</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ُ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJu/CASE_DEF_NOM</morph>
+            <xmpl>variegated + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>َ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJa/CASE_DEF_ACC</morph>
+            <xmpl>variegated + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٌ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJN/CASE_INDEF_NOM</morph>
+            <xmpl>variegated + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٍ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJK/CASE_INDEF_GEN</morph>
+            <xmpl>variegated + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ِ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJi/CASE_DEF_GEN</morph>
+            <xmpl>variegated + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">مُشَكَّل</hdwd>
+            <pofs order="0">adjective</pofs>
+          </dict>
+          <mean>variegated</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140154429399488"/>
+    <oac:Body rdf:about="urn:uuid:idm140154429399488">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJ</morph>
+            <xmpl>composed/formed</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ُ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJu/CASE_DEF_NOM</morph>
+            <xmpl>composed/formed + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>َ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJa/CASE_DEF_ACC</morph>
+            <xmpl>composed/formed + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٌ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJN/CASE_INDEF_NOM</morph>
+            <xmpl>composed/formed + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٍ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJK/CASE_INDEF_GEN</morph>
+            <xmpl>composed/formed + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ِ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJi/CASE_DEF_GEN</morph>
+            <xmpl>composed/formed + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">مُشَكَّل</hdwd>
+            <pofs order="0">adjective</pofs>
+          </dict>
+          <mean>composed/formed</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140154429367728"/>
+    <oac:Body rdf:about="urn:uuid:idm140154429367728">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJ</morph>
+            <xmpl>diacriticized (with short vowels and diacritics)</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ُ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJu/CASE_DEF_NOM</morph>
+            <xmpl>diacriticized (with short vowels and diacritics) + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>َ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJa/CASE_DEF_ACC</morph>
+            <xmpl>diacriticized (with short vowels and diacritics) + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٌ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJN/CASE_INDEF_NOM</morph>
+            <xmpl>diacriticized (with short vowels and diacritics) + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ٍ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJK/CASE_INDEF_GEN</morph>
+            <xmpl>diacriticized (with short vowels and diacritics) + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>مُشَكَّل</stem>
+              <suff>ِ</suff>
+            </term>
+            <pofs order="0">adjective</pofs>
+            <morph>ADJi/CASE_DEF_GEN</morph>
+            <xmpl>diacriticized (with short vowels and diacritics) + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">مُشَكَّل</hdwd>
+            <pofs order="0">adjective</pofs>
+          </dict>
+          <mean>diacriticized (with short vowels and diacritics)</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140154432856160"/>
+    <oac:Body rdf:about="urn:uuid:idm140154432856160">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>ها</stem>
+            </term>
+            <pofs order="0">interjection</pofs>
+            <morph>INTERJ</morph>
+            <xmpl>look/now</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">ها</hdwd>
+            <pofs order="0">interjection</pofs>
+          </dict>
+          <mean>look/now</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>
