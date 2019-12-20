@@ -1,0 +1,48 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:aberis:whitakerLat">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:wordsxml.v1"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T06:26:03.921572</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:aberis"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440213343208"/>
+    <oac:Body rdf:about="urn:uuid:idm140440213343208">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry>
+          <infl>
+            <term xml:lang="lat">
+              <stem>ab</stem>
+              <suff>eris</suff>
+            </term>
+            <pofs order="3">verb</pofs>
+            <conj>5th</conj>
+            <var>1st</var>
+            <tense>future</tense>
+            <voice>active</voice>
+            <mood>indicative</mood>
+            <pers>2nd</pers>
+            <num>singular</num>
+          </infl>
+          <dict>
+            <hdwd xml:lang="lat">absum, abesse, abfui, abfuturus</hdwd>
+            <pofs order="3">verb</pofs>
+            <freq order="3">lesser</freq>
+            <src>Lewis+Short</src>
+          </dict>
+          <dict>
+            <hdwd xml:lang="lat">absum, abesse, afui, afuturus</hdwd>
+            <pofs order="3">verb</pofs>
+            <freq order="6">very frequent</freq>
+            <src>Ox.Lat.Dict.</src>
+          </dict>
+          <mean>be away/absent/distant/missing; be free/removed from; be lacking; be distinct;</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>

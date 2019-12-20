@@ -1,0 +1,285 @@
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <oac:Annotation xmlns:oac="http://www.openannotation.org/ns/" rdf:about="urn:TuftsMorphologyService:ترجمة:aramorph">
+    <dcterms:creator xmlns:dcterms="http://purl.org/dc/terms/">
+      <foaf:Agent xmlns:foaf="http://xmlns.com/foaf/0.1/" rdf:about="net.alpheios:tools:aramorph.v2"/>
+    </dcterms:creator>
+    <dcterms:created xmlns:dcterms="http://purl.org/dc/terms/">2019-12-20T11:02:29.269130</dcterms:created>
+    <dc:rights xmlns:dc="http://purl.org/dc/elements/1.1/">Morphology provided by Buckwalter Arabic Morphological Analyzer Version 2.0 from QAMUS LLC (www.qamus.org).</dc:rights>
+    <oac:hasTarget>
+      <rdf:Description rdf:about="urn:word:ترجمة"/>
+    </oac:hasTarget>
+    <dc:title xmlns:dc="http://purl.org/dc/elements/1.1/"/>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440212663240"/>
+    <oac:Body rdf:about="urn:uuid:idm140440212663240">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةٌ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_NOM</morph>
+            <xmpl>biography + [fem.sg.] + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةُ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_NOM</morph>
+            <xmpl>biography + [fem.sg.] + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةً</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_ACC</morph>
+            <xmpl>biography + [fem.sg.] + [indef.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةٍ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_GEN</morph>
+            <xmpl>biography + [fem.sg.] + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةَ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_ACC</morph>
+            <xmpl>biography + [fem.sg.] + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َة</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG</morph>
+            <xmpl>biography + [fem.sg.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةِ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_GEN</morph>
+            <xmpl>biography + [fem.sg.] + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">تَرْجَمَة</hdwd>
+            <pofs order="9">noun</pofs>
+          </dict>
+          <mean>biography</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440209752264"/>
+    <oac:Body rdf:about="urn:uuid:idm140440209752264">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةٌ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_NOM</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [indef.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةُ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_NOM</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [def.nom.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةً</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_ACC</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [indef.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةٍ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_INDEF_GEN</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [indef.gen.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةَ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_ACC</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [def.acc.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َة</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG</morph>
+            <xmpl>translation/interpretation + [fem.sg.]</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َةِ</suff>
+            </term>
+            <pofs order="9">noun</pofs>
+            <morph>NOUNap/NSUFF_FEM_SG+CASE_DEF_GEN</morph>
+            <xmpl>translation/interpretation + [fem.sg.] + [def.gen.]</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">تَرْجَمَة</hdwd>
+            <pofs order="9">noun</pofs>
+          </dict>
+          <mean>translation/interpretation</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440209585128"/>
+    <oac:Body rdf:about="urn:uuid:idm140440209585128">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <pref>تَ</pref>
+              <stem>رْجُم</stem>
+              <suff>ْهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSrojum/VERB_IMPERFECTo/IVSUFF_MOOD:J+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSrojum/VERB_IMPERFECTo/IVSUFF_MOOD:J+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + revile/stone + [jus.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + revile/stone + [jus.] + it/him</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <pref>تَ</pref>
+              <stem>رْجُم</stem>
+              <suff>ُهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSrojum/VERB_IMPERFECTu/IVSUFF_MOOD:I+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSrojum/VERB_IMPERFECTu/IVSUFF_MOOD:I+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + revile/stone + [ind.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + revile/stone + [ind.] + it/him</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <pref>تَ</pref>
+              <stem>رْجُم</stem>
+              <suff>َهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSrojum/VERB_IMPERFECTa/IVSUFF_MOOD:S+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSrojum/VERB_IMPERFECTa/IVSUFF_MOOD:S+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + revile/stone + [sub.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + revile/stone + [sub.] + it/him</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">رَجَم</hdwd>
+            <pofs order="10">verb</pofs>
+          </dict>
+          <mean>revile/stone</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440212458712"/>
+    <oac:Body rdf:about="urn:uuid:idm140440212458712">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <pref>تُ</pref>
+              <stem>رَجِّم</stem>
+              <suff>ْهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSraj~im/VERB_IMPERFECTo/IVSUFF_MOOD:J+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSraj~im/VERB_IMPERFECTo/IVSUFF_MOOD:J+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + surmise/conjecture + [jus.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + surmise/conjecture + [jus.] + it/him</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <pref>تُ</pref>
+              <stem>رَجِّم</stem>
+              <suff>ُهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSraj~im/VERB_IMPERFECTu/IVSUFF_MOOD:I+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSraj~im/VERB_IMPERFECTu/IVSUFF_MOOD:I+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + surmise/conjecture + [ind.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + surmise/conjecture + [ind.] + it/him</xmpl>
+          </infl>
+          <infl>
+            <term xml:lang="ara">
+              <pref>تُ</pref>
+              <stem>رَجِّم</stem>
+              <suff>َهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>IV3FSraj~im/VERB_IMPERFECTa/IVSUFF_MOOD:S+IVSUFF_DO:3MS</morph>
+            <morph>IV2MSraj~im/VERB_IMPERFECTa/IVSUFF_MOOD:S+IVSUFF_DO:3MS</morph>
+            <xmpl>it/they/she + surmise/conjecture + [sub.] + it/him</xmpl>
+            <xmpl>you [masc.sg.] + surmise/conjecture + [sub.] + it/him</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">رَجَّم</hdwd>
+            <pofs order="10">verb</pofs>
+          </dict>
+          <mean>surmise/conjecture</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+    <oac:hasBody rdf:resource="urn:uuid:idm140440212459368"/>
+    <oac:Body rdf:about="urn:uuid:idm140440212459368">
+      <rdf:type rdf:resource="cnt:ContentAsXML"/>
+      <cnt:rest xmlns:cnt="http://www.w3.org/2008/content#">
+        <entry uri="">
+          <infl>
+            <term xml:lang="ara">
+              <stem>تَرْجَم</stem>
+              <suff>َهُ</suff>
+            </term>
+            <pofs order="10">verb</pofs>
+            <morph>VERB_PERFECTa/PVSUFF_SUBJ:3MS+PVSUFF_DO:3MS</morph>
+            <xmpl>translate/interpret + he/it [verb] + it/him</xmpl>
+          </infl>
+          <dict>
+            <hdwd xml:lang="ara">تَرْجَم</hdwd>
+            <pofs order="10">verb</pofs>
+          </dict>
+          <mean>translate/interpret</mean>
+        </entry>
+      </cnt:rest>
+    </oac:Body>
+  </oac:Annotation>
+</rdf:RDF>
