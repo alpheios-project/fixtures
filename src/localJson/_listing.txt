@@ -41,3 +41,51 @@ curl -o ara-tufts-mshkel‌ha.json "https://morph.alpheios.net/api/v1/analysis/w
 curl -o per-tufts-pass.json "https://morph.alpheios.net/api/v1/analysis/word?word=%D8%A8%DA%AF%D8%B0%D8%B1%D8%AF&engine=hazm&lang=per&clientId=alpheios-reader"
 
 curl -o tufts-default.json "https://morph.alpheios.net/api/v1/analysis/word?word=bla-bla&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+
+curl -o lat-tufts-curru.json "https://morph.alpheios.net/api/v1/analysis/word?word=curru&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-nitido.json "https://morph.alpheios.net/api/v1/analysis/word?word=nitido&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-iugandis.json "https://morph.alpheios.net/api/v1/analysis/word?word=iugandis&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-servet.json "https://morph.alpheios.net/api/v1/analysis/word?word=servet&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-cecinisse.json "https://morph.alpheios.net/api/v1/analysis/word?word=cecinisse&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-marita.json "https://morph.alpheios.net/api/v1/analysis/word?word=marita&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-cursu.json "https://morph.alpheios.net/api/v1/analysis/word?word=cursu&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-colendi.json "https://morph.alpheios.net/api/v1/analysis/word?word=colendi&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-iam.json "https://morph.alpheios.net/api/v1/analysis/word?word=iam&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-possum.json "https://morph.alpheios.net/api/v1/analysis/word?word=possum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-volui.json "https://morph.alpheios.net/api/v1/analysis/word?word=volui&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-nolo.json "https://morph.alpheios.net/api/v1/analysis/word?word=nolo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-maluerimus.json "https://morph.alpheios.net/api/v1/analysis/word?word=maluerimus&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-tuleritis.json "https://morph.alpheios.net/api/v1/analysis/word?word=tuleritis&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-ferent.json "https://morph.alpheios.net/api/v1/analysis/word?word=ferent&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-veneo.json "https://morph.alpheios.net/api/v1/analysis/word?word=veneo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-ineo.json "https://morph.alpheios.net/api/v1/analysis/word?word=ineo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-adeo.json "https://morph.alpheios.net/api/v1/analysis/word?word=adeo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-nequeo.json "https://morph.alpheios.net/api/v1/analysis/word?word=nequeo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-queo.json "https://morph.alpheios.net/api/v1/analysis/word?word=queo&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-praefuistis.json "https://morph.alpheios.net/api/v1/analysis/word?word=praefuistis&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-obsum.json "https://morph.alpheios.net/api/v1/analysis/word?word=obsum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-inerimus.json "https://morph.alpheios.net/api/v1/analysis/word?word=inerimus&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-supersum.json "https://morph.alpheios.net/api/v1/analysis/word?word=supersum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-subsum.json "https://morph.alpheios.net/api/v1/analysis/word?word=subsum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-adfuimus.json "https://morph.alpheios.net/api/v1/analysis/word?word=adfuimus&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-afueras.json "https://morph.alpheios.net/api/v1/analysis/word?word=afueras&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-proderitis.json "https://morph.alpheios.net/api/v1/analysis/word?word=proderitis&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-ierint.json "https://morph.alpheios.net/api/v1/analysis/word?word=ierint&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-ierunt.json "https://morph.alpheios.net/api/v1/analysis/word?word=ierunt&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-iverim.json "https://morph.alpheios.net/api/v1/analysis/word?word=iverim&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+curl -o lat-tufts-ivissem.json "https://morph.alpheios.net/api/v1/analysis/word?word=ivissem&engine=whitakerLat&lang=lat&clientId=alpheios-reader"

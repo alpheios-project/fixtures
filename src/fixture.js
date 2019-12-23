@@ -1,5 +1,3 @@
-import parser from 'fast-xml-parser'
-
 import TuftsDefault from '@/localJson/tufts-default.json'
 
 import GezTuftsHageriye from '@/localJson/gez-tufts-hageriye.json'
@@ -8,23 +6,80 @@ import GrcTuftsEloin from '@/localJson/grc-tufts-eloin.json'
 import GrcTuftsOudemia from '@/localJson/grc-tufts-oudemia.json'
 
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
+import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
+import LatTuftsAdfuimus from '@/localJson/lat-tufts-adfuimus.json'
 import LatTuftsAdsum from '@/localJson/lat-tufts-adsum.json'
+
+import LatTuftsAfueras from '@/localJson/lat-tufts-afueras.json'
+
+
 import LatTuftsAuditum from '@/localJson/lat-tufts-auditum.json'
+import LatTuftsCecinisse from '@/localJson/lat-tufts-cecinisse.json'
+
 import LatTuftsCepit from '@/localJson/lat-tufts-cepit.json'
 
+import LatTuftsColendi from '@/localJson/lat-tufts-colendi.json'
 import LatTuftsConditum from '@/localJson/lat-tufts-conditum.json'
 import LatTuftsCupidinibus from '@/localJson/lat-tufts-cupidinibus.json'
+
+import LatTuftsCursu from '@/localJson/lat-tufts-cursu.json'
+import LatTuftsCurru from '@/localJson/lat-tufts-curru.json'
+
 import LatTuftsEgo from '@/localJson/lat-tufts-ego.json'
 import LatTuftsEst from '@/localJson/lat-tufts-est.json'
+
+
+import LatTuftsIam from '@/localJson/lat-tufts-iam.json'
+import LatTuftsIerint from '@/localJson/lat-tufts-ierint.json'
+import LatTuftsIerunt from '@/localJson/lat-tufts-ierunt.json'
+
+
+
+import LatTuftsIneo from '@/localJson/lat-tufts-ineo.json'
+import LatTuftsInerimus from '@/localJson/lat-tufts-inerimus.json'
+import LatTuftsIverim from '@/localJson/lat-tufts-iverim.json'
+import LatTuftsIvissem from '@/localJson/lat-tufts-ivissem.json'
+
+import LatTuftsIugandis from '@/localJson/lat-tufts-iugandis.json'
+import LatTuftsFerent from '@/localJson/lat-tufts-ferent.json'
+
+import LatTuftsMaluerimus from '@/localJson/lat-tufts-maluerimus.json'
 import LatTuftsMare from '@/localJson/lat-tufts-mare.json'
+import LatTuftsMarita from '@/localJson/lat-tufts-marita.json'
+
 import LatTuftsMellitisque from '@/localJson/lat-tufts-mellitisque.json'
+
+
+import LatTuftsNequeo from '@/localJson/lat-tufts-nequeo.json'
+import LatTuftsNitido from '@/localJson/lat-tufts-nitido.json'
+import LatTuftsNolo from '@/localJson/lat-tufts-nolo.json'
+
+import LatTuftsObsum from '@/localJson/lat-tufts-obsum.json'
 
 import LatTuftsPalmaque from '@/localJson/lat-tufts-palmaque.json'
 import LatTuftsPlacito from '@/localJson/lat-tufts-placito.json'
+
+import LatTuftsPraefuistis from '@/localJson/lat-tufts-praefuistis.json'
+import LatTuftsPossum from '@/localJson/lat-tufts-possum.json'
+import LatTuftsProderitis from '@/localJson/lat-tufts-proderitis.json'
+
+import LatTuftsServet from '@/localJson/lat-tufts-servet.json'
+
 import LatTuftsSubmersasque from '@/localJson/lat-tufts-submersasque.json'
 
 import LatTuftsSui from '@/localJson/lat-tufts-sui.json'
+
+import LatTuftsSubsum from '@/localJson/lat-tufts-subsum.json'
 import LatTuftsSum from '@/localJson/lat-tufts-sum.json'
+import LatTuftsSupersum from '@/localJson/lat-tufts-supersum.json'
+
+import LatTuftsTuleritis from '@/localJson/lat-tufts-tuleritis.json'
+
+
+import LatTuftsVeneo from '@/localJson/lat-tufts-veneo.json'
+import LatTuftsVolui from '@/localJson/lat-tufts-volui.json'
+
+import LatTuftsQueo from '@/localJson/lat-tufts-queo.json'
 
 import AraTuftsTrjmh from '@/localJson/ara-tufts-trjmh.json'
 import AraTuftsMshkelha from '@/localJson/ara-tufts-mshkel‌.json'
@@ -49,20 +104,52 @@ const library = {
     tufts: {
       default: TuftsDefault,
       'aberis': LatTuftsAberis,
+      'adeo': LatTuftsAdeo,
+      'adfuimus': LatTuftsAdfuimus,
       'adsum': LatTuftsAdsum,
+      'afueras': LatTuftsAfueras,
       'auditum': LatTuftsAuditum,
+      'cecinisse': LatTuftsCecinisse,
       'cepit': LatTuftsCepit,
+      'colendi': LatTuftsColendi,
       'conditum': LatTuftsConditum,
       'cupidinibus': LatTuftsCupidinibus,
+      'curru': LatTuftsCurru,
+      'cursu': LatTuftsCursu,
       'ego': LatTuftsEgo,
       'est': LatTuftsEst,
+      'iam': LatTuftsIam,
+      'ierint': LatTuftsIerint,
+      'ierunt': LatTuftsIerunt,
+      'ineo': LatTuftsIneo,
+      'inerimus': LatTuftsInerimus,
+      'iugandis': LatTuftsIugandis,
+      'iverim': LatTuftsIverim,
+      'ivissem': LatTuftsIvissem,
+      'ferent': LatTuftsFerent,
+      'maluerimus': LatTuftsMaluerimus,
       'mare': LatTuftsMare,
+      'marita': LatTuftsMarita,
       'mellitisque': LatTuftsMellitisque,
+      'nequeo': LatTuftsNequeo,
+      'nitido': LatTuftsNitido,
+      'nolo': LatTuftsNolo,
+      'obsum': LatTuftsObsum,
       'palmaque': LatTuftsPalmaque,
-      'placito': LatTuftsPlacito,      
+      'placito': LatTuftsPlacito,     
+      'praefuistis': LatTuftsPraefuistis,
+      'possum': LatTuftsPossum,
+      'proderitis': LatTuftsProderitis,
+      'servet': LatTuftsServet, 
       'submersasque': LatTuftsSubmersasque,
       'sui': LatTuftsSui,
-      'sum': LatTuftsSum
+      'sum': LatTuftsSum,
+      'subsum': LatTuftsSubsum,
+      'supersum': LatTuftsSupersum,
+      'tuleritis': LatTuftsTuleritis,
+      'veneo': LatTuftsVeneo,
+      'volui': LatTuftsVolui,
+      'queo': LatTuftsQueo
     }
   },
   ara: {
