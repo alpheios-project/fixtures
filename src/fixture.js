@@ -30,7 +30,15 @@ import GrcTuftsOi3 from '@/localJson/grc-tufts-oi3.json'
 import GrcTuftsProsfyma from '@/localJson/grc-tufts-prosfyma.json'
 import GrcTuftsKalypso from '@/localJson/grc-tufts-kalypso.json'
 import GrcTuftsPasi from '@/localJson/grc-tufts-pasi.json'
+import GrcTuftsAftin from '@/localJson/grc-tufts-aftin.json'
+import GrcTuftsAfton from '@/localJson/grc-tufts-afton.json'
+import GrcTuftsAftois from '@/localJson/grc-tufts-aftois.json'
 
+import GrcTuftsFyin from '@/localJson/grc-tufts-fyin.json'
+import GrcTuftsTis from '@/localJson/grc-tufts-tis.json'
+import GrcTuftsOde from '@/localJson/grc-tufts-ode.json'
+import GrcTuftsTous from '@/localJson/grc-tufts-tous.json'
+import GrcTuftsDyo from '@/localJson/grc-tufts-dyo.json'
 
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
 import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
@@ -157,7 +165,15 @@ const library = {
       'οἱ': GrcTuftsOi3,
       'πρόσφυμα': GrcTuftsProsfyma,
       'Καλυψώ': GrcTuftsKalypso,
-      'πᾶσι': GrcTuftsPasi
+      'πᾶσι': GrcTuftsPasi,
+      'αὐτὴν': GrcTuftsAftin,
+      'φυήν': GrcTuftsFyin,
+      'τις': GrcTuftsTis,
+      'ὅδε': GrcTuftsOde,
+      'αὑτῶν': GrcTuftsAfton,
+      'τοὺς': GrcTuftsTous,
+      'αὐτοῖς': GrcTuftsAftois,
+      'δύο': GrcTuftsDyo
     }
   },
   lat: {
