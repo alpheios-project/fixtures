@@ -40,6 +40,61 @@ import GrcTuftsOde from '@/localJson/grc-tufts-ode.json'
 import GrcTuftsTous from '@/localJson/grc-tufts-tous.json'
 import GrcTuftsDyo from '@/localJson/grc-tufts-dyo.json'
 
+import GrcTuftsVoulevis from '@/localJson/grc-tufts-voulevis.json'
+import GrcTuftsVoulevesthon from '@/localJson/grc-tufts-voulevesthon.json'
+import GrcTuftsVoulefso from '@/localJson/grc-tufts-voulevefso.json'
+import GrcTuftsAgagois from '@/localJson/grc-tufts-agagois.json'
+import GrcTuftsAgagou from '@/localJson/grc-tufts-agagou.json'
+import GrcTuftsVoulefthis from '@/localJson/grc-tufts-voulefthis.json'
+import GrcTuftsLeloipi from '@/localJson/grc-tufts-leloipi.json'
+
+import GrcTuftsGegrapsai from '@/localJson/grc-tufts-gegrapsai.json'
+import GrcTuftsMemnomai from '@/localJson/grc-tufts-memnomai.json'
+import GrcTuftsEgegrapso from '@/localJson/grc-tufts-egegrapso.json'
+import GrcTuftsTethnixeis from '@/localJson/grc-tufts-tethnixeis.json'
+
+import GrcTuftsEstathi from '@/localJson/grc-tufts-estathi.json'
+import GrcTuftsTethnaton from '@/localJson/grc-tufts-tethnaton.json'
+import GrcTuftsPoieiton from '@/localJson/grc-tufts-poieiton.json'
+
+import GrcTuftsEplei from '@/localJson/grc-tufts-eplei.json'
+import GrcTuftsEpoiou from '@/localJson/grc-tufts-epoiou.json'
+import GrcTuftsEdeonto from '@/localJson/grc-tufts-edeonto.json'
+import GrcTuftsOras from '@/localJson/grc-tufts-oras.json'
+import GrcTuftsChromen from '@/localJson/grc-tufts-chromen.json'
+import GrcTuftsEorasthon from '@/localJson/grc-tufts-eorasthon.json'
+import GrcTuftsChronto from '@/localJson/grc-tufts-chronto.json'
+import GrcTuftsDilois from '@/localJson/grc-tufts-dilois.json'
+import GrcTuftsDilousthon from '@/localJson/grc-tufts-dilousthon.json'
+
+import GrcTuftsEtithetin from '@/localJson/grc-tufts-etithetin.json'
+import GrcTuftsTithesthon from '@/localJson/grc-tufts-tithesthon.json'
+import GrcTuftsEthesan from '@/localJson/grc-tufts-ethesan.json'
+import GrcTuftsEthemetha from '@/localJson/grc-tufts-ethemetha.json'
+import GrcTuftsIin from '@/localJson/grc-tufts-iin.json'
+import GrcTuftsIesthon from '@/localJson/grc-tufts-iesthon.json'
+
+import GrcTuftsDido from '@/localJson/grc-tufts-dido.json'
+import GrcTuftsDidoio from '@/localJson/grc-tufts-didoio.json'
+import GrcTuftsEdoton from '@/localJson/grc-tufts-edoton.json'
+import GrcTuftsDotai from '@/localJson/grc-tufts-dotai.json'
+import GrcTuftsIstatin from '@/localJson/grc-tufts-istatin.json'
+import GrcTuftsIstatai from '@/localJson/grc-tufts-istatai.json'
+import GrcTuftsEstitin from '@/localJson/grc-tufts-estitin.json'
+import GrcTuftsEdynato from '@/localJson/grc-tufts-edynato.json'
+import GrcTuftsEpististhe from '@/localJson/grc-tufts-epististhe.json'
+
+import GrcTuftsEdeiknyte from '@/localJson/grc-tufts-edeiknyte.json'
+import GrcTuftsDeiknytai from '@/localJson/grc-tufts-deiknytai.json'
+import GrcTuftsEston from '@/localJson/grc-tufts-eston.json'
+import GrcTuftsIton from '@/localJson/grc-tufts-iton.json'
+import GrcTuftsFaiis from '@/localJson/grc-tufts-faiis.json'
+import GrcTuftsVito from '@/localJson/grc-tufts-vito.json'
+import GrcTuftsGnoton from '@/localJson/grc-tufts-gnoton.json'
+import GrcTuftsDythi from '@/localJson/grc-tufts-dythi.json'
+import GrcTuftsIdeis from '@/localJson/grc-tufts-ideis.json'
+
+
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
 import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
 import LatTuftsAdfuimus from '@/localJson/lat-tufts-adfuimus.json'
@@ -173,7 +228,54 @@ const library = {
       'αὑτῶν': GrcTuftsAfton,
       'τοὺς': GrcTuftsTous,
       'αὐτοῖς': GrcTuftsAftois,
-      'δύο': GrcTuftsDyo
+      'δύο': GrcTuftsDyo,
+      'βουλεύῃς': GrcTuftsVoulevis,
+      'βουλευέσθων': GrcTuftsVoulevesthon,
+      'βουλεύσω': GrcTuftsVoulefso,
+      'ἀγάγοις': GrcTuftsAgagois,
+      'ἀγαγοῦ': GrcTuftsAgagou,
+      'βουλευθῇς': GrcTuftsVoulefthis,
+      'λελοίπῃ': GrcTuftsLeloipi,
+      'γέγραψαι': GrcTuftsGegrapsai,
+      'μεμνῶμαι': GrcTuftsMemnomai,
+      'ἐγέγραψο': GrcTuftsEgegrapso,
+      'τεθνήξεις': GrcTuftsTethnixeis,
+      'ἕσταθι': GrcTuftsEstathi,
+      'τέθνατον': GrcTuftsTethnaton,
+      'ποιεῖτον': GrcTuftsPoieiton,
+      'ἔπλει': GrcTuftsEplei,
+      'ἐποιοῦ': GrcTuftsEpoiou,
+      'ἐδέοντο': GrcTuftsEdeonto,
+      'ὁρᾷς': GrcTuftsOras,
+      'χρῷμεν': GrcTuftsChromen,
+      'ἑωρᾶσθον': GrcTuftsEorasthon,
+      'χρῷντο': GrcTuftsChronto,
+      'δηλοῖς': GrcTuftsDilois,
+      'δηλοῦσθον': GrcTuftsDilousthon,
+      'ἐτιθέτην': GrcTuftsEtithetin,
+      'τιθέσθων': GrcTuftsTithesthon,
+      'ἔθεσαν': GrcTuftsEthesan,
+      'ἐθέμεθα': GrcTuftsEthemetha,
+      'ἵην': GrcTuftsIin,
+      'ἵεσθον': GrcTuftsIesthon,
+      'διδῷ': GrcTuftsDido,
+      'διδοῖο': GrcTuftsDidoio,
+      'ἔδοτον': GrcTuftsEdoton,
+      'δῶται': GrcTuftsDotai,
+      'ἱστάτην': GrcTuftsIstatin,
+      'ἵσταται': GrcTuftsIstatai,
+      'ἐστήτην': GrcTuftsEstitin,
+      'ἐδύνατο': GrcTuftsEdynato,
+      'ἐπίστησθε': GrcTuftsEpististhe,
+      'ἐδείκνῠτε': GrcTuftsEdeiknyte,
+      'δείκνῠται': GrcTuftsDeiknytai,
+      'ἔστων': GrcTuftsEston,
+      'ἴτων': GrcTuftsIton,
+      'φαίης': GrcTuftsFaiis,
+      'βήτω': GrcTuftsVito,
+      'γνῶτον': GrcTuftsGnoton,
+      'δῦθι': GrcTuftsDythi,
+      'ᾔδεις': GrcTuftsIdeis
     }
   },
   lat: {
