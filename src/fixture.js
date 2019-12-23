@@ -1,35 +1,35 @@
 import parser from 'fast-xml-parser'
 
-import TuftsDefault from '@/localJson/tufts-default.xml'
+import TuftsDefault from '@/localJson/tufts-default.json'
 
-import GezTuftsHageriye from '@/localJson/gez-tufts-hageriye.xml'
+import GezTuftsHageriye from '@/localJson/gez-tufts-hageriye.json'
 
-import GrcTuftsEloin from '@/localJson/grc-tufts-eloin.xml'
-import GrcTuftsOudemia from '@/localJson/grc-tufts-oudemia.xml'
+import GrcTuftsEloin from '@/localJson/grc-tufts-eloin.json'
+import GrcTuftsOudemia from '@/localJson/grc-tufts-oudemia.json'
 
-import LatTuftsAberis from '@/localJson/lat-tufts-aberis.xml'
-import LatTuftsAdsum from '@/localJson/lat-tufts-adsum.xml'
-import LatTuftsAuditum from '@/localJson/lat-tufts-auditum.xml'
-import LatTuftsCepit from '@/localJson/lat-tufts-cepit.xml'
+import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
+import LatTuftsAdsum from '@/localJson/lat-tufts-adsum.json'
+import LatTuftsAuditum from '@/localJson/lat-tufts-auditum.json'
+import LatTuftsCepit from '@/localJson/lat-tufts-cepit.json'
 
-import LatTuftsConditum from '@/localJson/lat-tufts-conditum.xml'
-import LatTuftsCupidinibus from '@/localJson/lat-tufts-cupidinibus.xml'
-import LatTuftsEgo from '@/localJson/lat-tufts-ego.xml'
-import LatTuftsEst from '@/localJson/lat-tufts-est.xml'
-import LatTuftsMare from '@/localJson/lat-tufts-mare.xml'
-import LatTuftsMellitisque from '@/localJson/lat-tufts-mellitisque.xml'
+import LatTuftsConditum from '@/localJson/lat-tufts-conditum.json'
+import LatTuftsCupidinibus from '@/localJson/lat-tufts-cupidinibus.json'
+import LatTuftsEgo from '@/localJson/lat-tufts-ego.json'
+import LatTuftsEst from '@/localJson/lat-tufts-est.json'
+import LatTuftsMare from '@/localJson/lat-tufts-mare.json'
+import LatTuftsMellitisque from '@/localJson/lat-tufts-mellitisque.json'
 
-import LatTuftsPalmaque from '@/localJson/lat-tufts-palmaque.xml'
-import LatTuftsPlacito from '@/localJson/lat-tufts-placito.xml'
-import LatTuftsSubmersasque from '@/localJson/lat-tufts-submersasque.xml'
+import LatTuftsPalmaque from '@/localJson/lat-tufts-palmaque.json'
+import LatTuftsPlacito from '@/localJson/lat-tufts-placito.json'
+import LatTuftsSubmersasque from '@/localJson/lat-tufts-submersasque.json'
 
-import LatTuftsSui from '@/localJson/lat-tufts-sui.xml'
-import LatTuftsSum from '@/localJson/lat-tufts-sum.xml'
+import LatTuftsSui from '@/localJson/lat-tufts-sui.json'
+import LatTuftsSum from '@/localJson/lat-tufts-sum.json'
 
-import AraTuftsTrjmh from '@/localJson/ara-tufts-trjmh.xml'
-import AraTuftsMshkelha from '@/localJson/ara-tufts-mshkel‌ha.xml'
+import AraTuftsTrjmh from '@/localJson/ara-tufts-trjmh.json'
+import AraTuftsMshkelha from '@/localJson/ara-tufts-mshkel‌.json'
 
-import PerTuftsPass from '@/localJson/per-tufts-pass.xml'
+import PerTuftsPass from '@/localJson/per-tufts-pass.json'
 
 const library = {
   gez: {
@@ -140,7 +140,6 @@ export default class Fixture {
   }
 
   static updateMean(bodyItem) {
-    // console.info('updateMean - ', bodyItem.rest.entry.mean)
     if (bodyItem.rest.entry && bodyItem.rest.entry.mean) {
       if (!Array.isArray(bodyItem.rest.entry.mean)) { bodyItem.rest.entry.mean = [bodyItem.rest.entry.mean] }
 
@@ -151,35 +150,13 @@ export default class Fixture {
   }
 
   static getFixtureRes(params) {
-    const sourceData = Fixture.defineFileByParameters(params)
-
-    if (!sourceData) { 
+    const sourceFile = Fixture.defineFileByParameters(params)
+    
+    if (!sourceFile) { 
       console.info('There is no fixture for ', params.langCode + '-' + params.adapter + '-' + params.word)
-      return
-    }
-    const options = {
-      ignoreNameSpace : true,
-      ignoreAttributes : false,
-      attributeNamePrefix : "",
-      textNodeName : "$"
-    }
-    
-    const resJson = parser.parse(sourceData, options)
-
-    if (!resJson.RDF.Annotation.Body) {
-      return resJson
     }
 
-    Fixture.updateProvider(resJson)
-    Fixture.checkBody(resJson)
-
-    
-    resJson.RDF.Annotation.Body.forEach(bodyItem => {
-      Fixture.updateInfl(bodyItem)
-      Fixture.updateDict(bodyItem)
-      Fixture.updateMean(bodyItem)
-    })
-    return resJson
+    return sourceFile
   }
 }
 

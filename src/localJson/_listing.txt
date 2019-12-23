@@ -1,0 +1,43 @@
+curl -o lat-tufts-aberis.json "https://morph.alpheios.net/api/v1/analysis/word?word=aberis&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-adsum.json "https://morph.alpheios.net/api/v1/analysis/word?word=adsum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-auditum.json "https://morph.alpheios.net/api/v1/analysis/word?word=auditum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-cepit.json "https://morph.alpheios.net/api/v1/analysis/word?word=cepit&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-conditum.json "https://morph.alpheios.net/api/v1/analysis/word?word=conditum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-cupidinibus.json "https://morph.alpheios.net/api/v1/analysis/word?word=cupidinibus&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-ego.json "https://morph.alpheios.net/api/v1/analysis/word?word=ego&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-est.json "https://morph.alpheios.net/api/v1/analysis/word?word=est&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-mare.json "https://morph.alpheios.net/api/v1/analysis/word?word=mare&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-mellitisque.json "https://morph.alpheios.net/api/v1/analysis/word?word=mellitisque&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-palmaque.json "https://morph.alpheios.net/api/v1/analysis/word?word=palmaque&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-placito.json "https://morph.alpheios.net/api/v1/analysis/word?word=placito&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-submersasque.json "https://morph.alpheios.net/api/v1/analysis/word?word=submersasque&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-sui.json "https://morph.alpheios.net/api/v1/analysis/word?word=sui&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o lat-tufts-sum.json "https://morph.alpheios.net/api/v1/analysis/word?word=sum&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
+
+curl -o gez-tufts-hageriye.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%88%80%E1%8C%88%E1%88%AD%E1%8B%A8&engine=traces&lang=gez&clientId=alpheios-reader"
+
+curl -o grc-tufts-eloin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%90%CE%BB%E1%BF%B4%CE%B7%CE%BD&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-oudemia.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BF%E1%BD%90%CE%B4%CE%B5%CE%BC%CE%AF%CE%B1&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o ara-tufts-trjmh.json "https://morph.alpheios.net/api/v1/analysis/word?word=%D8%AA%D8%B1%D8%AC%D9%85%D8%A9&engine=aramorph&lang=ara&clientId=alpheios-reader"
+
+curl -o ara-tufts-mshkel‌ha.json "https://morph.alpheios.net/api/v1/analysis/word?word=%D9%85%D8%B4%DA%A9%D9%84%E2%80%8C%D9%87%D8%A7&engine=aramorph&lang=ara&clientId=alpheios-reader"
+
+curl -o per-tufts-pass.json "https://morph.alpheios.net/api/v1/analysis/word?word=%D8%A8%DA%AF%D8%B0%D8%B1%D8%AF&engine=hazm&lang=per&clientId=alpheios-reader"
+
+curl -o tufts-default.json "https://morph.alpheios.net/api/v1/analysis/word?word=bla-bla&engine=whitakerLat&lang=lat&clientId=alpheios-reader"
