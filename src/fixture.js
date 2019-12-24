@@ -200,6 +200,8 @@ import LatTuftsQueo from '@/localJson/lat-tufts-queo.json'
 import AraTuftsTrjmh from '@/localJson/ara-tufts-trjmh.json'
 import AraTuftsMshkelha from '@/localJson/ara-tufts-mshkel‌.json'
 import AraTuftsMkr from '@/localJson/ara-tufts-mkr.json'
+import AraTuftsSitan from '@/localJson/ara-tufts-sitan.json'
+
 
 import PerTuftsPass from '@/localJson/per-tufts-pass.json'
 
@@ -377,7 +379,8 @@ const library = {
     tufts: {
       'ترجمة': AraTuftsTrjmh,
       'مشکل‌ها': AraTuftsMshkelha,
-      'مَقَرٍ': AraTuftsMkr
+      'مَقَرٍ': AraTuftsMkr,
+      'سُلطَان': AraTuftsSitan
     }
   },
   per: {
@@ -393,69 +396,6 @@ export default class Fixture {
     if (!library[params.langCode][params.adapter]) { return }
     
     return library[params.langCode][params.adapter][params.word] ? library[params.langCode][params.adapter][params.word] : library[params.langCode][params.adapter].default
-  }
-
-  static updateProp (prop) {   
-    if (!Array.isArray(prop)) {
-      return prop.$ ? prop : { '$': prop }
-    } else {
-      let props = []
-      prop.forEach(propItem => {
-        props.push(propItem.$ ? propItem : { '$': propItem })
-      })
-      return props
-    }
-  }
-
-  static updateProvider (resJson) {
-    if (resJson.RDF.Annotation.rights) { resJson.RDF.Annotation.rights = Fixture.updateProp(resJson.RDF.Annotation.rights) }
-  }
-
-  static checkBody(resJson) {
-    if (!Array.isArray(resJson.RDF.Annotation.Body)) {
-      resJson.RDF.Annotation.Body = [resJson.RDF.Annotation.Body]
-    }
-
-    resJson.RDF.Annotation.Body.forEach(bodyItem => {
-      if (bodyItem.rest.entry.infl && !Array.isArray(bodyItem.rest.entry.infl)) {
-        bodyItem.rest.entry.infl = [bodyItem.rest.entry.infl]
-      }
-    })
-  }
-
-  static updateInfl(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.infl) {
-      bodyItem.rest.entry.infl.forEach(infl => {
-        let checkProps = ['stem', 'suff', 'pref']
-        checkProps.forEach(prop => {
-          if (infl.term[prop]) { infl.term[prop] = Fixture.updateProp(infl.term[prop]) }
-        })
-
-        checkProps = [ 'xmpl', 'pofs', 'var', 'case', 'gend', 'decl', 'conj', 'num', 'tense', 'voice', 'mood', 'pers', 'comp', 'stemtype', 'derivtype', 'dial', 'morph']
-        checkProps.forEach(prop => {
-          if (infl[prop]) { infl[prop] = Fixture.updateProp(infl[prop]) }
-        })
-      })
-    }
-  }
-
-  static updateDict(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.dict) {
-      let checkProps = [ 'pofs', 'var', 'case', 'gend', 'decl', 'conj', 'num', 'tense', 'voice', 'mood', 'pers', 'comp', 'stemtype', 'derivtype', 'dial', 'morph']
-      checkProps.forEach(prop => {
-        if (bodyItem.rest.entry.dict[prop]) { bodyItem.rest.entry.dict[prop] = Fixture.updateProp(bodyItem.rest.entry.dict[prop]) }
-      })
-    }
-  }
-
-  static updateMean(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.mean) {
-      if (!Array.isArray(bodyItem.rest.entry.mean)) { bodyItem.rest.entry.mean = [bodyItem.rest.entry.mean] }
-
-      for (let i = 0; i < bodyItem.rest.entry.mean.length; i++) {
-        bodyItem.rest.entry.mean[i] = Fixture.updateProp(bodyItem.rest.entry.mean[i])
-      }
-    }
   }
 
   static getFixtureRes(params) {

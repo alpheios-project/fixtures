@@ -422,8 +422,12 @@ var _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_155___namespace = /
 var _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_156___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mshkel‌.json */ "./localJson/ara-tufts-mshkel‌.json", 1);
 /* harmony import */ var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157__ = __webpack_require__(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json");
 var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json", 1);
-/* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
-var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
+/* harmony import */ var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json");
+var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json", 1);
+/* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
+var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
+
+
 
 
 
@@ -803,12 +807,13 @@ const library = {
     tufts: {
       'ترجمة': _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_155__,
       'مشکل‌ها': _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_156__,
-      'مَقَرٍ': _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157__
+      'مَقَرٍ': _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157__,
+      'سُلطَان': _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158__
     }
   },
   per: {
     tufts: {
-      'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_158__
+      'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__
     }
   }
 }
@@ -819,69 +824,6 @@ class Fixture {
     if (!library[params.langCode][params.adapter]) { return }
     
     return library[params.langCode][params.adapter][params.word] ? library[params.langCode][params.adapter][params.word] : library[params.langCode][params.adapter].default
-  }
-
-  static updateProp (prop) {   
-    if (!Array.isArray(prop)) {
-      return prop.$ ? prop : { '$': prop }
-    } else {
-      let props = []
-      prop.forEach(propItem => {
-        props.push(propItem.$ ? propItem : { '$': propItem })
-      })
-      return props
-    }
-  }
-
-  static updateProvider (resJson) {
-    if (resJson.RDF.Annotation.rights) { resJson.RDF.Annotation.rights = Fixture.updateProp(resJson.RDF.Annotation.rights) }
-  }
-
-  static checkBody(resJson) {
-    if (!Array.isArray(resJson.RDF.Annotation.Body)) {
-      resJson.RDF.Annotation.Body = [resJson.RDF.Annotation.Body]
-    }
-
-    resJson.RDF.Annotation.Body.forEach(bodyItem => {
-      if (bodyItem.rest.entry.infl && !Array.isArray(bodyItem.rest.entry.infl)) {
-        bodyItem.rest.entry.infl = [bodyItem.rest.entry.infl]
-      }
-    })
-  }
-
-  static updateInfl(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.infl) {
-      bodyItem.rest.entry.infl.forEach(infl => {
-        let checkProps = ['stem', 'suff', 'pref']
-        checkProps.forEach(prop => {
-          if (infl.term[prop]) { infl.term[prop] = Fixture.updateProp(infl.term[prop]) }
-        })
-
-        checkProps = [ 'xmpl', 'pofs', 'var', 'case', 'gend', 'decl', 'conj', 'num', 'tense', 'voice', 'mood', 'pers', 'comp', 'stemtype', 'derivtype', 'dial', 'morph']
-        checkProps.forEach(prop => {
-          if (infl[prop]) { infl[prop] = Fixture.updateProp(infl[prop]) }
-        })
-      })
-    }
-  }
-
-  static updateDict(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.dict) {
-      let checkProps = [ 'pofs', 'var', 'case', 'gend', 'decl', 'conj', 'num', 'tense', 'voice', 'mood', 'pers', 'comp', 'stemtype', 'derivtype', 'dial', 'morph']
-      checkProps.forEach(prop => {
-        if (bodyItem.rest.entry.dict[prop]) { bodyItem.rest.entry.dict[prop] = Fixture.updateProp(bodyItem.rest.entry.dict[prop]) }
-      })
-    }
-  }
-
-  static updateMean(bodyItem) {
-    if (bodyItem.rest.entry && bodyItem.rest.entry.mean) {
-      if (!Array.isArray(bodyItem.rest.entry.mean)) { bodyItem.rest.entry.mean = [bodyItem.rest.entry.mean] }
-
-      for (let i = 0; i < bodyItem.rest.entry.mean.length; i++) {
-        bodyItem.rest.entry.mean[i] = Fixture.updateProp(bodyItem.rest.entry.mean[i])
-      }
-    }
   }
 
   static getFixtureRes(params) {
@@ -936,6 +878,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:مشکل‌ها:aramorph\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:aramorph.v2\"}},\"created\":{\"$\":\"2019-12-23T06:34:36.915313\"},\"rights\":{\"$\":\"Morphology provided by Buckwalter Arabic Morphological Analyzer Version 2.0 from QAMUS LLC (www.qamus.org).\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:مشکل‌ها\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140440207807208\"},{\"resource\":\"urn:uuid:idm140440208600008\"},{\"resource\":\"urn:uuid:idm140440209948264\"},{\"resource\":\"urn:uuid:idm140440208855576\"},{\"resource\":\"urn:uuid:idm140440209664040\"}],\"Body\":[{\"about\":\"urn:uuid:idm140440207807208\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUN\"},\"xmpl\":{\"$\":\"problem/difficulty\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"problem/difficulty + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"problem/difficulty + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"problem/difficulty + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"problem/difficulty + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشْكِل\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"problem/difficulty + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"مُشْكِل\"},\"pofs\":{\"order\":9,\"$\":\"noun\"}},\"mean\":{\"$\":\"problem/difficulty\"}}}},{\"about\":\"urn:uuid:idm140440208600008\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJ\"},\"xmpl\":{\"$\":\"variegated\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"variegated + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"variegated + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"variegated + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"variegated + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"variegated + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"مُشَكَّل\"},\"pofs\":{\"order\":0,\"$\":\"adjective\"}},\"mean\":{\"$\":\"variegated\"}}}},{\"about\":\"urn:uuid:idm140440209948264\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJ\"},\"xmpl\":{\"$\":\"composed/formed\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"composed/formed + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"composed/formed + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"composed/formed + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"composed/formed + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"composed/formed + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"مُشَكَّل\"},\"pofs\":{\"order\":0,\"$\":\"adjective\"}},\"mean\":{\"$\":\"composed/formed\"}}}},{\"about\":\"urn:uuid:idm140440208855576\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJ\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics)\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics) + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics) + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics) + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics) + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"مُشَكَّل\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":0,\"$\":\"adjective\"},\"morph\":{\"$\":\"ADJi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"diacriticized (with short vowels and diacritics) + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"مُشَكَّل\"},\"pofs\":{\"order\":0,\"$\":\"adjective\"}},\"mean\":{\"$\":\"diacriticized (with short vowels and diacritics)\"}}}},{\"about\":\"urn:uuid:idm140440209664040\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"ها\"}},\"pofs\":{\"order\":0,\"$\":\"interjection\"},\"morph\":{\"$\":\"INTERJ\"},\"xmpl\":{\"$\":\"look/now\"}},\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"ها\"},\"pofs\":{\"order\":0,\"$\":\"interjection\"}},\"mean\":{\"$\":\"look/now\"}}}}]}}}");
+
+/***/ }),
+
+/***/ "./localJson/ara-tufts-sitan.json":
+/*!****************************************!*\
+  !*** ./localJson/ara-tufts-sitan.json ***!
+  \****************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:سُلطَان:aramorph\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:aramorph.v2\"}},\"created\":{\"$\":\"2019-12-24T05:18:56.244733\"},\"rights\":{\"$\":\"Morphology provided by Buckwalter Arabic Morphological Analyzer Version 2.0 from QAMUS LLC (www.qamus.org).\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:سُلطَان\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140440212585768\"},{\"resource\":\"urn:uuid:idm140440213296904\"},{\"resource\":\"urn:uuid:idm140440210049272\"}],\"Body\":[{\"about\":\"urn:uuid:idm140440212585768\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUN\"},\"xmpl\":{\"$\":\"power\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"power + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"power + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"power + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"power + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"power + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"سُلْطان\"},\"pofs\":{\"order\":9,\"$\":\"noun\"}},\"mean\":{\"$\":\"power\"}}}},{\"about\":\"urn:uuid:idm140440213296904\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROP\"},\"xmpl\":{\"$\":\"Sultan\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROPu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"Sultan + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROPa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"Sultan + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROPN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"Sultan + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROPK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"Sultan + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":8,\"$\":\"proper noun\"},\"morph\":{\"$\":\"NOUN_PROPi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"Sultan + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"سُلْطان\"},\"pofs\":{\"order\":8,\"$\":\"proper noun\"}},\"mean\":{\"$\":\"Sultan\"}}}},{\"about\":\"urn:uuid:idm140440210049272\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"infl\":[{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUN\"},\"xmpl\":{\"$\":\"Sultan\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ُ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNu/CASE_DEF_NOM\"},\"xmpl\":{\"$\":\"Sultan + [def.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"َ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNa/CASE_DEF_ACC\"},\"xmpl\":{\"$\":\"Sultan + [def.acc.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٌ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNN/CASE_INDEF_NOM\"},\"xmpl\":{\"$\":\"Sultan + [indef.nom.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ٍ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNK/CASE_INDEF_GEN\"},\"xmpl\":{\"$\":\"Sultan + [indef.gen.]\"}},{\"term\":{\"lang\":\"ara\",\"stem\":{\"$\":\"سُلْطان\"},\"suff\":{\"$\":\"ِ\"}},\"pofs\":{\"order\":9,\"$\":\"noun\"},\"morph\":{\"$\":\"NOUNi/CASE_DEF_GEN\"},\"xmpl\":{\"$\":\"Sultan + [def.gen.]\"}}],\"dict\":{\"hdwd\":{\"lang\":\"ara\",\"$\":\"سُلْطان\"},\"pofs\":{\"order\":9,\"$\":\"noun\"}},\"mean\":{\"$\":\"Sultan\"}}}}]}}}");
 
 /***/ }),
 
