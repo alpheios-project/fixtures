@@ -107,7 +107,12 @@ import GrcTuftsLeloipoton from '@/localJson/grc-tufts-leloipoton.json'
 import GrcTuftsEstosai from '@/localJson/grc-tufts-estosai.json'
 import GrcTuftsPempomenous from '@/localJson/grc-tufts-pempomenous.json'
 import GrcTuftsGegrammenoin from '@/localJson/grc-tufts-gegrammenoin.json'
-
+import GrcTuftsZoni from '@/localJson/grc-tufts-zoni.json'
+import GrcTuftsSyndeei from '@/localJson/grc-tufts-syndeei.json'
+import GrcTuftsMe from '@/localJson/grc-tufts-me.json'
+import GrcTuftsSynechis from '@/localJson/grc-tufts-synechis.json'
+import GrcTuftsTain from '@/localJson/grc-tufts-tain.json'
+import GrcTuftsEmaftou from '@/localJson/grc-tufts-emaftou.json'
 
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
 import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
@@ -194,6 +199,7 @@ import LatTuftsQueo from '@/localJson/lat-tufts-queo.json'
 
 import AraTuftsTrjmh from '@/localJson/ara-tufts-trjmh.json'
 import AraTuftsMshkelha from '@/localJson/ara-tufts-mshkel‌.json'
+import AraTuftsMkr from '@/localJson/ara-tufts-mkr.json'
 
 import PerTuftsPass from '@/localJson/per-tufts-pass.json'
 
@@ -302,7 +308,13 @@ const library = {
       'λελοιπότων': GrcTuftsLeloipoton,
       'ἑστῶσαι': GrcTuftsEstosai,
       'πεμπομένους': GrcTuftsPempomenous,
-      'γεγραμμένοιν': GrcTuftsGegrammenoin
+      'γεγραμμένοιν': GrcTuftsGegrammenoin,
+      'ζώνη': GrcTuftsZoni,
+      'συνδέει': GrcTuftsSyndeei,
+      'με': GrcTuftsMe,
+      'συνεχής': GrcTuftsSynechis,
+      'ταῖν': GrcTuftsTain,
+      'ἐμαυτοῦ': GrcTuftsEmaftou
     }
   },
   lat: {
@@ -364,7 +376,8 @@ const library = {
   ara: {
     tufts: {
       'ترجمة': AraTuftsTrjmh,
-      'مشکل‌ها': AraTuftsMshkelha
+      'مشکل‌ها': AraTuftsMshkelha,
+      'مَقَرٍ': AraTuftsMkr
     }
   },
   per: {

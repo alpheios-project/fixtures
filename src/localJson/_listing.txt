@@ -251,3 +251,17 @@ curl -o grc-tufts-estosai.json "http://morph.alpheios.net/api/v1/analysis/word?w
 curl -o grc-tufts-pempomenous.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CE%B5%CE%BC%CF%80%CE%BF%CE%BC%E1%BD%B3%CE%BD%CE%BF%CF%85%CF%82&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
 
 curl -o grc-tufts-gegrammenoin.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CE%B5%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%E1%BD%B3%CE%BD%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o ara-tufts-mkr.json "https://morph.alpheios.net/api/v1/analysis/word?word=%D9%85%D9%8E%D9%82%D9%8E%D8%B1%D9%8D&engine=aramorph&lang=ara&clientId=alpheios-reader"
+
+curl -o grc-tufts-zoni.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CE%B6%CF%8E%CE%BD%CE%B7&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-syndeei.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CF%83%CF%85%CE%BD%CE%B4%CE%AD%CE%B5%CE%B9&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-me.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CE%BC%CE%B5&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-synechis.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CF%83%CF%85%CE%BD%CE%B5%CF%87%CE%AE%CF%82&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-tain.json "http://morph.alpheios.net/api/v1/analysis/word?word=%CF%84%CE%B1%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-emaftou.json "http://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%90%CE%BC%CE%B1%CF%85%CF%84%CE%BF%E1%BF%A6&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
