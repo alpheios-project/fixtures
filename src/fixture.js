@@ -94,6 +94,20 @@ import GrcTuftsGnoton from '@/localJson/grc-tufts-gnoton.json'
 import GrcTuftsDythi from '@/localJson/grc-tufts-dythi.json'
 import GrcTuftsIdeis from '@/localJson/grc-tufts-ideis.json'
 
+import GrcTuftsAgontos from '@/localJson/grc-tufts-agontos.json'
+import GrcTuftsMenoun from '@/localJson/grc-tufts-menoun.json'
+import GrcTuftsOrosa from '@/localJson/grc-tufts-orosa.json'
+import GrcTuftsLipon from '@/localJson/grc-tufts-lipon.json'
+import GrcTuftsIstante from '@/localJson/grc-tufts-istante.json'
+import GrcTuftsLysanta from '@/localJson/grc-tufts-lysanta.json'
+import GrcTuftsLythentos from '@/localJson/grc-tufts-lythentos.json'
+import GrcTuftsDidontoin from '@/localJson/grc-tufts-didontoin.json'
+import GrcTuftsDeiknynta from '@/localJson/grc-tufts-deiknynta.json'
+import GrcTuftsLeloipoton from '@/localJson/grc-tufts-leloipoton.json'
+import GrcTuftsEstosai from '@/localJson/grc-tufts-estosai.json'
+import GrcTuftsPempomenous from '@/localJson/grc-tufts-pempomenous.json'
+import GrcTuftsGegrammenoin from '@/localJson/grc-tufts-gegrammenoin.json'
+
 
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
 import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
@@ -275,7 +289,20 @@ const library = {
       'βήτω': GrcTuftsVito,
       'γνῶτον': GrcTuftsGnoton,
       'δῦθι': GrcTuftsDythi,
-      'ᾔδεις': GrcTuftsIdeis
+      'ᾔδεις': GrcTuftsIdeis,
+      'ἄγοντος': GrcTuftsAgontos,
+      'μενοῦν': GrcTuftsMenoun,
+      'ὁρώσᾱ': GrcTuftsOrosa,
+      'λιπόν': GrcTuftsLipon,
+      'ἱστάντε': GrcTuftsIstante,
+      'λύσαντᾰ': GrcTuftsLysanta,
+      'λυθέντος': GrcTuftsLythentos,
+      'διδόντοιν': GrcTuftsDidontoin,
+      'δεικνύντᾰ': GrcTuftsDeiknynta,
+      'λελοιπότων': GrcTuftsLeloipoton,
+      'ἑστῶσαι': GrcTuftsEstosai,
+      'πεμπομένους': GrcTuftsPempomenous,
+      'γεγραμμένοιν': GrcTuftsGegrammenoin
     }
   },
   lat: {
