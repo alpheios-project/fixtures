@@ -205,6 +205,8 @@ import AraTuftsSitan from '@/localJson/ara-tufts-sitan.json'
 
 import PerTuftsPass from '@/localJson/per-tufts-pass.json'
 
+import ZhoCedict from '@/localJson/zho-cedict.json'
+
 const library = {
   gez: {
     tufts: {
@@ -386,6 +388,11 @@ const library = {
   per: {
     tufts: {
       'بگذرد': PerTuftsPass
+    }
+  },
+  zho: {
+    cedict: {
+      default: ZhoCedict
     }
   }
 }

@@ -426,6 +426,10 @@ var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#
 var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json", 1);
 /* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
 var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
+/* harmony import */ var _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160__ = __webpack_require__(/*! @/localJson/zho-cedict.json */ "./localJson/zho-cedict.json");
+var _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/zho-cedict.json */ "./localJson/zho-cedict.json", 1);
+
+
 
 
 
@@ -814,6 +818,11 @@ const library = {
   per: {
     tufts: {
       'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__
+    }
+  },
+  zho: {
+    cedict: {
+      default: _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160__
     }
   }
 }
@@ -2616,6 +2625,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:bla-bla:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T06:38:44.395081\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:bla-bla\"}},\"title\":{}}}}");
+
+/***/ }),
+
+/***/ "./localJson/zho-cedict.json":
+/*!***********************************!*\
+  !*** ./localJson/zho-cedict.json ***!
+  \***********************************/
+/*! exports provided: metadata, cedictMeta, entries, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"metadata\":{\"version\":20191029,\"revision\":1,\"frequency\":[{\"value\":1,\"name\":\"least frequent\",\"order\":5},{\"value\":2,\"name\":\"less frequent\",\"order\":4},{\"value\":3,\"name\":\"moderatelyfrequent\",\"order\":3},{\"value\":4,\"name\":\"more frequent\",\"order\":2},{\"value\":5,\"name\":\"most frequent\",\"order\":1}],\"chunkNumber\":5},\"cedictMeta\":{\"name\":\"CC-CEDICT\",\"description\":\"Community maintained free Chinese-English dictionary.\",\"licenseName\":\"Creative Commons Attribution-ShareAlike 4.0 International License\",\"licenseURI\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"referencedWorks\":[\"CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski\"],\"downloadURI\":\"https://www.mdbg.net/chinese/dictionary?page=cc-cedict\",\"editorURI\":\"https://cc-cedict.org/editor/editor.php\",\"referenceURI\":\"https://cc-cedict.org/wiki/\",\"originalVersion\":\"1\",\"originalSubversion\":\"0\",\"originalFormat\":\"ts\",\"originalCharset\":\"UTF-8\",\"publisher\":\"MDBG\",\"dateTime\":\"2019-10-29T06:16:52.000Z\"},\"entries\":[{\"index\":2,\"type\":\"not specified\",\"traditional\":{\"headword\":\"21三體綜合症\"},\"simplified\":{\"headword\":\"21三体综合症\"},\"pinyin\":\"er4 shi2 yi1 san1 ti3 zong1 he2 zheng4\",\"definitions\":[\"trisomy\",\"Down's syndrome\"]},{\"index\":55562,\"type\":\"not specified\",\"traditional\":{\"headword\":\"槓\",\"cantonese\":\"gong3 gung3 lung5\",\"mandarin\":\"gàng\",\"codePoint\":\"U+69D3\",\"radical\":{\"index\":75,\"additionalStrokes\":10,\"character\":\"木\"},\"frequency\":5,\"totalStrokes\":14},\"simplified\":{\"headword\":\"杠\",\"cantonese\":\"gong1 gong3\",\"mandarin\":\"gāng\",\"codePoint\":\"U+6760\",\"radical\":{\"index\":75,\"additionalStrokes\":3,\"character\":\"木\"},\"totalStrokes\":7},\"pinyin\":\"gang4\",\"definitions\":[\"thick pole\",\"bar\",\"rod\",\"thick line\",\"to mark with a thick line\",\"to sharpen (knife)\",\"(old) coffin-bearing pole\"]},{\"index\":73893,\"type\":\"not specified\",\"traditional\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"simplified\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"pinyin\":\"mian2\",\"definitions\":[\"to sleep\",\"to hibernate\"]},{\"index\":83686,\"type\":\"not specified\",\"traditional\":{\"headword\":\"而今\"},\"simplified\":{\"headword\":\"而今\"},\"pinyin\":\"er2 jin1\",\"definitions\":[\"now\",\"at the present (time)\"]}]}");
 
 /***/ })
 
