@@ -114,6 +114,8 @@ import GrcTuftsSynechis from '@/localJson/grc-tufts-synechis.json'
 import GrcTuftsTain from '@/localJson/grc-tufts-tain.json'
 import GrcTuftsEmaftou from '@/localJson/grc-tufts-emaftou.json'
 
+import GrcTuftsAgon from '@/localJson/grc-tufts-agon.json'
+
 import LatTuftsAberis from '@/localJson/lat-tufts-aberis.json'
 import LatTuftsAdeo from '@/localJson/lat-tufts-adeo.json'
 import LatTuftsAdfuimus from '@/localJson/lat-tufts-adfuimus.json'
@@ -316,7 +318,8 @@ const library = {
       'με': GrcTuftsMe,
       'συνεχής': GrcTuftsSynechis,
       'ταῖν': GrcTuftsTain,
-      'ἐμαυτοῦ': GrcTuftsEmaftou
+      'ἐμαυτοῦ': GrcTuftsEmaftou,
+      'ἄγων': GrcTuftsAgon
     }
   },
   lat: {

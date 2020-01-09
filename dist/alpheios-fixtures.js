@@ -314,118 +314,122 @@ var _localJson_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_101___namespace 
 var _localJson_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_102___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/grc-tufts-tain.json */ "./localJson/grc-tufts-tain.json", 1);
 /* harmony import */ var _localJson_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(/*! @/localJson/grc-tufts-emaftou.json */ "./localJson/grc-tufts-emaftou.json");
 var _localJson_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/grc-tufts-emaftou.json */ "./localJson/grc-tufts-emaftou.json", 1);
-/* harmony import */ var _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(/*! @/localJson/lat-tufts-aberis.json */ "./localJson/lat-tufts-aberis.json");
-var _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_104___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-aberis.json */ "./localJson/lat-tufts-aberis.json", 1);
-/* harmony import */ var _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(/*! @/localJson/lat-tufts-adeo.json */ "./localJson/lat-tufts-adeo.json");
-var _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_105___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adeo.json */ "./localJson/lat-tufts-adeo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(/*! @/localJson/lat-tufts-adfuimus.json */ "./localJson/lat-tufts-adfuimus.json");
-var _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_106___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adfuimus.json */ "./localJson/lat-tufts-adfuimus.json", 1);
-/* harmony import */ var _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! @/localJson/lat-tufts-adsum.json */ "./localJson/lat-tufts-adsum.json");
-var _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_107___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adsum.json */ "./localJson/lat-tufts-adsum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! @/localJson/lat-tufts-afueras.json */ "./localJson/lat-tufts-afueras.json");
-var _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_108___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-afueras.json */ "./localJson/lat-tufts-afueras.json", 1);
-/* harmony import */ var _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(/*! @/localJson/lat-tufts-auditum.json */ "./localJson/lat-tufts-auditum.json");
-var _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_109___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-auditum.json */ "./localJson/lat-tufts-auditum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(/*! @/localJson/lat-tufts-cecinisse.json */ "./localJson/lat-tufts-cecinisse.json");
-var _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_110___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cecinisse.json */ "./localJson/lat-tufts-cecinisse.json", 1);
-/* harmony import */ var _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(/*! @/localJson/lat-tufts-cepit.json */ "./localJson/lat-tufts-cepit.json");
-var _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_111___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cepit.json */ "./localJson/lat-tufts-cepit.json", 1);
-/* harmony import */ var _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! @/localJson/lat-tufts-colendi.json */ "./localJson/lat-tufts-colendi.json");
-var _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-colendi.json */ "./localJson/lat-tufts-colendi.json", 1);
-/* harmony import */ var _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/localJson/lat-tufts-conditum.json */ "./localJson/lat-tufts-conditum.json");
-var _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-conditum.json */ "./localJson/lat-tufts-conditum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! @/localJson/lat-tufts-cupidinibus.json */ "./localJson/lat-tufts-cupidinibus.json");
-var _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_114___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cupidinibus.json */ "./localJson/lat-tufts-cupidinibus.json", 1);
-/* harmony import */ var _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(/*! @/localJson/lat-tufts-cursu.json */ "./localJson/lat-tufts-cursu.json");
-var _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_115___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cursu.json */ "./localJson/lat-tufts-cursu.json", 1);
-/* harmony import */ var _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(/*! @/localJson/lat-tufts-curru.json */ "./localJson/lat-tufts-curru.json");
-var _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_116___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-curru.json */ "./localJson/lat-tufts-curru.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(/*! @/localJson/lat-tufts-ego.json */ "./localJson/lat-tufts-ego.json");
-var _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_117___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ego.json */ "./localJson/lat-tufts-ego.json", 1);
-/* harmony import */ var _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(/*! @/localJson/lat-tufts-est.json */ "./localJson/lat-tufts-est.json");
-var _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_118___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-est.json */ "./localJson/lat-tufts-est.json", 1);
-/* harmony import */ var _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(/*! @/localJson/lat-tufts-iam.json */ "./localJson/lat-tufts-iam.json");
-var _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_119___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iam.json */ "./localJson/lat-tufts-iam.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(/*! @/localJson/lat-tufts-ierint.json */ "./localJson/lat-tufts-ierint.json");
-var _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_120___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ierint.json */ "./localJson/lat-tufts-ierint.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(/*! @/localJson/lat-tufts-ierunt.json */ "./localJson/lat-tufts-ierunt.json");
-var _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_121___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ierunt.json */ "./localJson/lat-tufts-ierunt.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(/*! @/localJson/lat-tufts-ineo.json */ "./localJson/lat-tufts-ineo.json");
-var _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_122___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ineo.json */ "./localJson/lat-tufts-ineo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(/*! @/localJson/lat-tufts-inerimus.json */ "./localJson/lat-tufts-inerimus.json");
-var _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_123___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-inerimus.json */ "./localJson/lat-tufts-inerimus.json", 1);
-/* harmony import */ var _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(/*! @/localJson/lat-tufts-itum.json */ "./localJson/lat-tufts-itum.json");
-var _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_124___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-itum.json */ "./localJson/lat-tufts-itum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(/*! @/localJson/lat-tufts-itu.json */ "./localJson/lat-tufts-itu.json");
-var _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_125___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-itu.json */ "./localJson/lat-tufts-itu.json", 1);
-/* harmony import */ var _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(/*! @/localJson/lat-tufts-iverim.json */ "./localJson/lat-tufts-iverim.json");
-var _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_126___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iverim.json */ "./localJson/lat-tufts-iverim.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(/*! @/localJson/lat-tufts-ivissem.json */ "./localJson/lat-tufts-ivissem.json");
-var _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_127___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ivissem.json */ "./localJson/lat-tufts-ivissem.json", 1);
-/* harmony import */ var _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(/*! @/localJson/lat-tufts-iugandis.json */ "./localJson/lat-tufts-iugandis.json");
-var _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_128___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iugandis.json */ "./localJson/lat-tufts-iugandis.json", 1);
-/* harmony import */ var _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(/*! @/localJson/lat-tufts-ferent.json */ "./localJson/lat-tufts-ferent.json");
-var _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_129___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ferent.json */ "./localJson/lat-tufts-ferent.json", 1);
-/* harmony import */ var _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(/*! @/localJson/lat-tufts-maluerimus.json */ "./localJson/lat-tufts-maluerimus.json");
-var _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_130___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-maluerimus.json */ "./localJson/lat-tufts-maluerimus.json", 1);
-/* harmony import */ var _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(/*! @/localJson/lat-tufts-mare.json */ "./localJson/lat-tufts-mare.json");
-var _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_131___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-mare.json */ "./localJson/lat-tufts-mare.json", 1);
-/* harmony import */ var _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(/*! @/localJson/lat-tufts-marita.json */ "./localJson/lat-tufts-marita.json");
-var _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_132___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-marita.json */ "./localJson/lat-tufts-marita.json", 1);
-/* harmony import */ var _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(/*! @/localJson/lat-tufts-mellitisque.json */ "./localJson/lat-tufts-mellitisque.json");
-var _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_133___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-mellitisque.json */ "./localJson/lat-tufts-mellitisque.json", 1);
-/* harmony import */ var _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(/*! @/localJson/lat-tufts-nequeo.json */ "./localJson/lat-tufts-nequeo.json");
-var _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_134___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nequeo.json */ "./localJson/lat-tufts-nequeo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(/*! @/localJson/lat-tufts-nevolo.json */ "./localJson/lat-tufts-nevolo.json");
-var _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_135___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nevolo.json */ "./localJson/lat-tufts-nevolo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(/*! @/localJson/lat-tufts-nitido.json */ "./localJson/lat-tufts-nitido.json");
-var _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_136___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nitido.json */ "./localJson/lat-tufts-nitido.json", 1);
-/* harmony import */ var _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(/*! @/localJson/lat-tufts-nolo.json */ "./localJson/lat-tufts-nolo.json");
-var _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_137___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nolo.json */ "./localJson/lat-tufts-nolo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(/*! @/localJson/lat-tufts-obsum.json */ "./localJson/lat-tufts-obsum.json");
-var _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_138___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-obsum.json */ "./localJson/lat-tufts-obsum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(/*! @/localJson/lat-tufts-palmaque.json */ "./localJson/lat-tufts-palmaque.json");
-var _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_139___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-palmaque.json */ "./localJson/lat-tufts-palmaque.json", 1);
-/* harmony import */ var _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(/*! @/localJson/lat-tufts-placito.json */ "./localJson/lat-tufts-placito.json");
-var _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_140___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-placito.json */ "./localJson/lat-tufts-placito.json", 1);
-/* harmony import */ var _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(/*! @/localJson/lat-tufts-praefuistis.json */ "./localJson/lat-tufts-praefuistis.json");
-var _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_141___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-praefuistis.json */ "./localJson/lat-tufts-praefuistis.json", 1);
-/* harmony import */ var _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(/*! @/localJson/lat-tufts-possum.json */ "./localJson/lat-tufts-possum.json");
-var _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_142___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-possum.json */ "./localJson/lat-tufts-possum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(/*! @/localJson/lat-tufts-proderitis.json */ "./localJson/lat-tufts-proderitis.json");
-var _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_143___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-proderitis.json */ "./localJson/lat-tufts-proderitis.json", 1);
-/* harmony import */ var _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(/*! @/localJson/lat-tufts-servet.json */ "./localJson/lat-tufts-servet.json");
-var _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_144___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-servet.json */ "./localJson/lat-tufts-servet.json", 1);
-/* harmony import */ var _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_145__ = __webpack_require__(/*! @/localJson/lat-tufts-submersasque.json */ "./localJson/lat-tufts-submersasque.json");
-var _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_145___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-submersasque.json */ "./localJson/lat-tufts-submersasque.json", 1);
-/* harmony import */ var _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_146__ = __webpack_require__(/*! @/localJson/lat-tufts-sui.json */ "./localJson/lat-tufts-sui.json");
-var _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_146___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-sui.json */ "./localJson/lat-tufts-sui.json", 1);
-/* harmony import */ var _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_147__ = __webpack_require__(/*! @/localJson/lat-tufts-subsum.json */ "./localJson/lat-tufts-subsum.json");
-var _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_147___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-subsum.json */ "./localJson/lat-tufts-subsum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_148__ = __webpack_require__(/*! @/localJson/lat-tufts-sum.json */ "./localJson/lat-tufts-sum.json");
-var _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_148___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-sum.json */ "./localJson/lat-tufts-sum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_149__ = __webpack_require__(/*! @/localJson/lat-tufts-supersum.json */ "./localJson/lat-tufts-supersum.json");
-var _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_149___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-supersum.json */ "./localJson/lat-tufts-supersum.json", 1);
-/* harmony import */ var _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_150__ = __webpack_require__(/*! @/localJson/lat-tufts-tuleritis.json */ "./localJson/lat-tufts-tuleritis.json");
-var _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_150___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-tuleritis.json */ "./localJson/lat-tufts-tuleritis.json", 1);
-/* harmony import */ var _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_151__ = __webpack_require__(/*! @/localJson/lat-tufts-veneo.json */ "./localJson/lat-tufts-veneo.json");
-var _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_151___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-veneo.json */ "./localJson/lat-tufts-veneo.json", 1);
-/* harmony import */ var _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_152__ = __webpack_require__(/*! @/localJson/lat-tufts-venit.json */ "./localJson/lat-tufts-venit.json");
-var _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_152___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-venit.json */ "./localJson/lat-tufts-venit.json", 1);
-/* harmony import */ var _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_153__ = __webpack_require__(/*! @/localJson/lat-tufts-volui.json */ "./localJson/lat-tufts-volui.json");
-var _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_153___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-volui.json */ "./localJson/lat-tufts-volui.json", 1);
-/* harmony import */ var _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_154__ = __webpack_require__(/*! @/localJson/lat-tufts-queo.json */ "./localJson/lat-tufts-queo.json");
-var _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_154___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-queo.json */ "./localJson/lat-tufts-queo.json", 1);
-/* harmony import */ var _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_155__ = __webpack_require__(/*! @/localJson/ara-tufts-trjmh.json */ "./localJson/ara-tufts-trjmh.json");
-var _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_155___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-trjmh.json */ "./localJson/ara-tufts-trjmh.json", 1);
-/* harmony import */ var _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_156__ = __webpack_require__(/*! @/localJson/ara-tufts-mshkel‌.json */ "./localJson/ara-tufts-mshkel‌.json");
-var _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_156___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mshkel‌.json */ "./localJson/ara-tufts-mshkel‌.json", 1);
-/* harmony import */ var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157__ = __webpack_require__(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json");
-var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json", 1);
-/* harmony import */ var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json");
-var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json", 1);
-/* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
-var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
+/* harmony import */ var _localJson_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(/*! @/localJson/grc-tufts-agon.json */ "./localJson/grc-tufts-agon.json");
+var _localJson_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/grc-tufts-agon.json */ "./localJson/grc-tufts-agon.json", 1);
+/* harmony import */ var _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(/*! @/localJson/lat-tufts-aberis.json */ "./localJson/lat-tufts-aberis.json");
+var _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_105___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-aberis.json */ "./localJson/lat-tufts-aberis.json", 1);
+/* harmony import */ var _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(/*! @/localJson/lat-tufts-adeo.json */ "./localJson/lat-tufts-adeo.json");
+var _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_106___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adeo.json */ "./localJson/lat-tufts-adeo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! @/localJson/lat-tufts-adfuimus.json */ "./localJson/lat-tufts-adfuimus.json");
+var _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_107___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adfuimus.json */ "./localJson/lat-tufts-adfuimus.json", 1);
+/* harmony import */ var _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! @/localJson/lat-tufts-adsum.json */ "./localJson/lat-tufts-adsum.json");
+var _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_108___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-adsum.json */ "./localJson/lat-tufts-adsum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(/*! @/localJson/lat-tufts-afueras.json */ "./localJson/lat-tufts-afueras.json");
+var _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_109___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-afueras.json */ "./localJson/lat-tufts-afueras.json", 1);
+/* harmony import */ var _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(/*! @/localJson/lat-tufts-auditum.json */ "./localJson/lat-tufts-auditum.json");
+var _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_110___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-auditum.json */ "./localJson/lat-tufts-auditum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(/*! @/localJson/lat-tufts-cecinisse.json */ "./localJson/lat-tufts-cecinisse.json");
+var _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_111___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cecinisse.json */ "./localJson/lat-tufts-cecinisse.json", 1);
+/* harmony import */ var _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! @/localJson/lat-tufts-cepit.json */ "./localJson/lat-tufts-cepit.json");
+var _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cepit.json */ "./localJson/lat-tufts-cepit.json", 1);
+/* harmony import */ var _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/localJson/lat-tufts-colendi.json */ "./localJson/lat-tufts-colendi.json");
+var _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-colendi.json */ "./localJson/lat-tufts-colendi.json", 1);
+/* harmony import */ var _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! @/localJson/lat-tufts-conditum.json */ "./localJson/lat-tufts-conditum.json");
+var _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_114___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-conditum.json */ "./localJson/lat-tufts-conditum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(/*! @/localJson/lat-tufts-cupidinibus.json */ "./localJson/lat-tufts-cupidinibus.json");
+var _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_115___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cupidinibus.json */ "./localJson/lat-tufts-cupidinibus.json", 1);
+/* harmony import */ var _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(/*! @/localJson/lat-tufts-cursu.json */ "./localJson/lat-tufts-cursu.json");
+var _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_116___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-cursu.json */ "./localJson/lat-tufts-cursu.json", 1);
+/* harmony import */ var _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(/*! @/localJson/lat-tufts-curru.json */ "./localJson/lat-tufts-curru.json");
+var _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_117___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-curru.json */ "./localJson/lat-tufts-curru.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(/*! @/localJson/lat-tufts-ego.json */ "./localJson/lat-tufts-ego.json");
+var _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_118___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ego.json */ "./localJson/lat-tufts-ego.json", 1);
+/* harmony import */ var _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(/*! @/localJson/lat-tufts-est.json */ "./localJson/lat-tufts-est.json");
+var _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_119___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-est.json */ "./localJson/lat-tufts-est.json", 1);
+/* harmony import */ var _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(/*! @/localJson/lat-tufts-iam.json */ "./localJson/lat-tufts-iam.json");
+var _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_120___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iam.json */ "./localJson/lat-tufts-iam.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(/*! @/localJson/lat-tufts-ierint.json */ "./localJson/lat-tufts-ierint.json");
+var _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_121___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ierint.json */ "./localJson/lat-tufts-ierint.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(/*! @/localJson/lat-tufts-ierunt.json */ "./localJson/lat-tufts-ierunt.json");
+var _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_122___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ierunt.json */ "./localJson/lat-tufts-ierunt.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(/*! @/localJson/lat-tufts-ineo.json */ "./localJson/lat-tufts-ineo.json");
+var _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_123___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ineo.json */ "./localJson/lat-tufts-ineo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(/*! @/localJson/lat-tufts-inerimus.json */ "./localJson/lat-tufts-inerimus.json");
+var _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_124___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-inerimus.json */ "./localJson/lat-tufts-inerimus.json", 1);
+/* harmony import */ var _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(/*! @/localJson/lat-tufts-itum.json */ "./localJson/lat-tufts-itum.json");
+var _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_125___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-itum.json */ "./localJson/lat-tufts-itum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(/*! @/localJson/lat-tufts-itu.json */ "./localJson/lat-tufts-itu.json");
+var _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_126___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-itu.json */ "./localJson/lat-tufts-itu.json", 1);
+/* harmony import */ var _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(/*! @/localJson/lat-tufts-iverim.json */ "./localJson/lat-tufts-iverim.json");
+var _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_127___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iverim.json */ "./localJson/lat-tufts-iverim.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(/*! @/localJson/lat-tufts-ivissem.json */ "./localJson/lat-tufts-ivissem.json");
+var _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_128___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ivissem.json */ "./localJson/lat-tufts-ivissem.json", 1);
+/* harmony import */ var _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(/*! @/localJson/lat-tufts-iugandis.json */ "./localJson/lat-tufts-iugandis.json");
+var _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_129___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-iugandis.json */ "./localJson/lat-tufts-iugandis.json", 1);
+/* harmony import */ var _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(/*! @/localJson/lat-tufts-ferent.json */ "./localJson/lat-tufts-ferent.json");
+var _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_130___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-ferent.json */ "./localJson/lat-tufts-ferent.json", 1);
+/* harmony import */ var _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(/*! @/localJson/lat-tufts-maluerimus.json */ "./localJson/lat-tufts-maluerimus.json");
+var _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_131___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-maluerimus.json */ "./localJson/lat-tufts-maluerimus.json", 1);
+/* harmony import */ var _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(/*! @/localJson/lat-tufts-mare.json */ "./localJson/lat-tufts-mare.json");
+var _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_132___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-mare.json */ "./localJson/lat-tufts-mare.json", 1);
+/* harmony import */ var _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(/*! @/localJson/lat-tufts-marita.json */ "./localJson/lat-tufts-marita.json");
+var _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_133___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-marita.json */ "./localJson/lat-tufts-marita.json", 1);
+/* harmony import */ var _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(/*! @/localJson/lat-tufts-mellitisque.json */ "./localJson/lat-tufts-mellitisque.json");
+var _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_134___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-mellitisque.json */ "./localJson/lat-tufts-mellitisque.json", 1);
+/* harmony import */ var _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(/*! @/localJson/lat-tufts-nequeo.json */ "./localJson/lat-tufts-nequeo.json");
+var _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_135___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nequeo.json */ "./localJson/lat-tufts-nequeo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(/*! @/localJson/lat-tufts-nevolo.json */ "./localJson/lat-tufts-nevolo.json");
+var _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_136___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nevolo.json */ "./localJson/lat-tufts-nevolo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(/*! @/localJson/lat-tufts-nitido.json */ "./localJson/lat-tufts-nitido.json");
+var _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_137___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nitido.json */ "./localJson/lat-tufts-nitido.json", 1);
+/* harmony import */ var _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(/*! @/localJson/lat-tufts-nolo.json */ "./localJson/lat-tufts-nolo.json");
+var _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_138___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-nolo.json */ "./localJson/lat-tufts-nolo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(/*! @/localJson/lat-tufts-obsum.json */ "./localJson/lat-tufts-obsum.json");
+var _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_139___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-obsum.json */ "./localJson/lat-tufts-obsum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(/*! @/localJson/lat-tufts-palmaque.json */ "./localJson/lat-tufts-palmaque.json");
+var _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_140___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-palmaque.json */ "./localJson/lat-tufts-palmaque.json", 1);
+/* harmony import */ var _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(/*! @/localJson/lat-tufts-placito.json */ "./localJson/lat-tufts-placito.json");
+var _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_141___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-placito.json */ "./localJson/lat-tufts-placito.json", 1);
+/* harmony import */ var _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(/*! @/localJson/lat-tufts-praefuistis.json */ "./localJson/lat-tufts-praefuistis.json");
+var _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_142___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-praefuistis.json */ "./localJson/lat-tufts-praefuistis.json", 1);
+/* harmony import */ var _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(/*! @/localJson/lat-tufts-possum.json */ "./localJson/lat-tufts-possum.json");
+var _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_143___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-possum.json */ "./localJson/lat-tufts-possum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(/*! @/localJson/lat-tufts-proderitis.json */ "./localJson/lat-tufts-proderitis.json");
+var _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_144___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-proderitis.json */ "./localJson/lat-tufts-proderitis.json", 1);
+/* harmony import */ var _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_145__ = __webpack_require__(/*! @/localJson/lat-tufts-servet.json */ "./localJson/lat-tufts-servet.json");
+var _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_145___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-servet.json */ "./localJson/lat-tufts-servet.json", 1);
+/* harmony import */ var _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_146__ = __webpack_require__(/*! @/localJson/lat-tufts-submersasque.json */ "./localJson/lat-tufts-submersasque.json");
+var _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_146___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-submersasque.json */ "./localJson/lat-tufts-submersasque.json", 1);
+/* harmony import */ var _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_147__ = __webpack_require__(/*! @/localJson/lat-tufts-sui.json */ "./localJson/lat-tufts-sui.json");
+var _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_147___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-sui.json */ "./localJson/lat-tufts-sui.json", 1);
+/* harmony import */ var _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_148__ = __webpack_require__(/*! @/localJson/lat-tufts-subsum.json */ "./localJson/lat-tufts-subsum.json");
+var _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_148___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-subsum.json */ "./localJson/lat-tufts-subsum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_149__ = __webpack_require__(/*! @/localJson/lat-tufts-sum.json */ "./localJson/lat-tufts-sum.json");
+var _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_149___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-sum.json */ "./localJson/lat-tufts-sum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_150__ = __webpack_require__(/*! @/localJson/lat-tufts-supersum.json */ "./localJson/lat-tufts-supersum.json");
+var _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_150___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-supersum.json */ "./localJson/lat-tufts-supersum.json", 1);
+/* harmony import */ var _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_151__ = __webpack_require__(/*! @/localJson/lat-tufts-tuleritis.json */ "./localJson/lat-tufts-tuleritis.json");
+var _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_151___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-tuleritis.json */ "./localJson/lat-tufts-tuleritis.json", 1);
+/* harmony import */ var _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_152__ = __webpack_require__(/*! @/localJson/lat-tufts-veneo.json */ "./localJson/lat-tufts-veneo.json");
+var _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_152___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-veneo.json */ "./localJson/lat-tufts-veneo.json", 1);
+/* harmony import */ var _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_153__ = __webpack_require__(/*! @/localJson/lat-tufts-venit.json */ "./localJson/lat-tufts-venit.json");
+var _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_153___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-venit.json */ "./localJson/lat-tufts-venit.json", 1);
+/* harmony import */ var _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_154__ = __webpack_require__(/*! @/localJson/lat-tufts-volui.json */ "./localJson/lat-tufts-volui.json");
+var _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_154___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-volui.json */ "./localJson/lat-tufts-volui.json", 1);
+/* harmony import */ var _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_155__ = __webpack_require__(/*! @/localJson/lat-tufts-queo.json */ "./localJson/lat-tufts-queo.json");
+var _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_155___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/lat-tufts-queo.json */ "./localJson/lat-tufts-queo.json", 1);
+/* harmony import */ var _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_156__ = __webpack_require__(/*! @/localJson/ara-tufts-trjmh.json */ "./localJson/ara-tufts-trjmh.json");
+var _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_156___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-trjmh.json */ "./localJson/ara-tufts-trjmh.json", 1);
+/* harmony import */ var _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_157__ = __webpack_require__(/*! @/localJson/ara-tufts-mshkel‌.json */ "./localJson/ara-tufts-mshkel‌.json");
+var _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mshkel‌.json */ "./localJson/ara-tufts-mshkel‌.json", 1);
+/* harmony import */ var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json");
+var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-mkr.json */ "./localJson/ara-tufts-mkr.json", 1);
+/* harmony import */ var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json");
+var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json", 1);
+/* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_160__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
+var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_160___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
+
+
 
 
 
@@ -744,76 +748,77 @@ const library = {
       'με': _localJson_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_100__,
       'συνεχής': _localJson_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_101__,
       'ταῖν': _localJson_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_102__,
-      'ἐμαυτοῦ': _localJson_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103__
+      'ἐμαυτοῦ': _localJson_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103__,
+      'ἄγων': _localJson_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104__
     }
   },
   lat: {
     tufts: {
       default: _localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0__,
-      'aberis': _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_104__,
-      'adeo': _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_105__,
-      'adfuimus': _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_106__,
-      'adsum': _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_107__,
-      'afueras': _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_108__,
-      'auditum': _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_109__,
-      'cecinisse': _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_110__,
-      'cepit': _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_111__,
-      'colendi': _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_112__,
-      'conditum': _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_113__,
-      'cupidinibus': _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_114__,
-      'curru': _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_116__,
-      'cursu': _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_115__,
-      'ego': _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_117__,
-      'est': _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_118__,
-      'iam': _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_119__,
-      'ierint': _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_120__,
-      'ierunt': _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_121__,
-      'ineo': _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_122__,
-      'inerimus': _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_123__,
-      'itu': _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_125__,
-      'itum': _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_124__,
-      'iugandis': _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_128__,
-      'iverim': _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_126__,
-      'ivissem': _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_127__,
-      'ferent': _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_129__,
-      'maluerimus': _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_130__,
-      'mare': _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_131__,
-      'marita': _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_132__,
-      'mellitisque': _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_133__,
-      'nequeo': _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_134__,
-      'nevolo': _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_135__,
-      'nitido': _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_136__,
-      'nolo': _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_137__,
-      'obsum': _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_138__,
-      'palmaque': _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_139__,
-      'placito': _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_140__,     
-      'praefuistis': _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_141__,
-      'possum': _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_142__,
-      'proderitis': _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_143__,
-      'servet': _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_144__, 
-      'submersasque': _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_145__,
-      'sui': _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_146__,
-      'sum': _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_148__,
-      'subsum': _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_147__,
-      'supersum': _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_149__,
-      'tuleritis': _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_150__,
-      'veneo': _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_151__,
-      'venit': _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_152__,
-      'volui': _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_153__,
-      'queo': _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_154__
+      'aberis': _localJson_lat_tufts_aberis_json__WEBPACK_IMPORTED_MODULE_105__,
+      'adeo': _localJson_lat_tufts_adeo_json__WEBPACK_IMPORTED_MODULE_106__,
+      'adfuimus': _localJson_lat_tufts_adfuimus_json__WEBPACK_IMPORTED_MODULE_107__,
+      'adsum': _localJson_lat_tufts_adsum_json__WEBPACK_IMPORTED_MODULE_108__,
+      'afueras': _localJson_lat_tufts_afueras_json__WEBPACK_IMPORTED_MODULE_109__,
+      'auditum': _localJson_lat_tufts_auditum_json__WEBPACK_IMPORTED_MODULE_110__,
+      'cecinisse': _localJson_lat_tufts_cecinisse_json__WEBPACK_IMPORTED_MODULE_111__,
+      'cepit': _localJson_lat_tufts_cepit_json__WEBPACK_IMPORTED_MODULE_112__,
+      'colendi': _localJson_lat_tufts_colendi_json__WEBPACK_IMPORTED_MODULE_113__,
+      'conditum': _localJson_lat_tufts_conditum_json__WEBPACK_IMPORTED_MODULE_114__,
+      'cupidinibus': _localJson_lat_tufts_cupidinibus_json__WEBPACK_IMPORTED_MODULE_115__,
+      'curru': _localJson_lat_tufts_curru_json__WEBPACK_IMPORTED_MODULE_117__,
+      'cursu': _localJson_lat_tufts_cursu_json__WEBPACK_IMPORTED_MODULE_116__,
+      'ego': _localJson_lat_tufts_ego_json__WEBPACK_IMPORTED_MODULE_118__,
+      'est': _localJson_lat_tufts_est_json__WEBPACK_IMPORTED_MODULE_119__,
+      'iam': _localJson_lat_tufts_iam_json__WEBPACK_IMPORTED_MODULE_120__,
+      'ierint': _localJson_lat_tufts_ierint_json__WEBPACK_IMPORTED_MODULE_121__,
+      'ierunt': _localJson_lat_tufts_ierunt_json__WEBPACK_IMPORTED_MODULE_122__,
+      'ineo': _localJson_lat_tufts_ineo_json__WEBPACK_IMPORTED_MODULE_123__,
+      'inerimus': _localJson_lat_tufts_inerimus_json__WEBPACK_IMPORTED_MODULE_124__,
+      'itu': _localJson_lat_tufts_itu_json__WEBPACK_IMPORTED_MODULE_126__,
+      'itum': _localJson_lat_tufts_itum_json__WEBPACK_IMPORTED_MODULE_125__,
+      'iugandis': _localJson_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_129__,
+      'iverim': _localJson_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_127__,
+      'ivissem': _localJson_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_128__,
+      'ferent': _localJson_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_130__,
+      'maluerimus': _localJson_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_131__,
+      'mare': _localJson_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_132__,
+      'marita': _localJson_lat_tufts_marita_json__WEBPACK_IMPORTED_MODULE_133__,
+      'mellitisque': _localJson_lat_tufts_mellitisque_json__WEBPACK_IMPORTED_MODULE_134__,
+      'nequeo': _localJson_lat_tufts_nequeo_json__WEBPACK_IMPORTED_MODULE_135__,
+      'nevolo': _localJson_lat_tufts_nevolo_json__WEBPACK_IMPORTED_MODULE_136__,
+      'nitido': _localJson_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_137__,
+      'nolo': _localJson_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_138__,
+      'obsum': _localJson_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_139__,
+      'palmaque': _localJson_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_140__,
+      'placito': _localJson_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_141__,     
+      'praefuistis': _localJson_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_142__,
+      'possum': _localJson_lat_tufts_possum_json__WEBPACK_IMPORTED_MODULE_143__,
+      'proderitis': _localJson_lat_tufts_proderitis_json__WEBPACK_IMPORTED_MODULE_144__,
+      'servet': _localJson_lat_tufts_servet_json__WEBPACK_IMPORTED_MODULE_145__, 
+      'submersasque': _localJson_lat_tufts_submersasque_json__WEBPACK_IMPORTED_MODULE_146__,
+      'sui': _localJson_lat_tufts_sui_json__WEBPACK_IMPORTED_MODULE_147__,
+      'sum': _localJson_lat_tufts_sum_json__WEBPACK_IMPORTED_MODULE_149__,
+      'subsum': _localJson_lat_tufts_subsum_json__WEBPACK_IMPORTED_MODULE_148__,
+      'supersum': _localJson_lat_tufts_supersum_json__WEBPACK_IMPORTED_MODULE_150__,
+      'tuleritis': _localJson_lat_tufts_tuleritis_json__WEBPACK_IMPORTED_MODULE_151__,
+      'veneo': _localJson_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_152__,
+      'venit': _localJson_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_153__,
+      'volui': _localJson_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_154__,
+      'queo': _localJson_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_155__
     }
   },
   ara: {
     tufts: {
-      'ترجمة': _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_155__,
-      'مشکل‌ها': _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_156__,
-      'مَقَرٍ': _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157__,
-      'سُلطَان': _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158__
+      'ترجمة': _localJson_ara_tufts_trjmh_json__WEBPACK_IMPORTED_MODULE_156__,
+      'مشکل‌ها': _localJson_ara_tufts_mshkel_json__WEBPACK_IMPORTED_MODULE_157__,
+      'مَقَرٍ': _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_158__,
+      'سُلطَان': _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_159__
     }
   },
   per: {
     tufts: {
-      'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__
+      'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_160__
     }
   }
 }
@@ -966,6 +971,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἀγαγοῦ:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T11:51:21.711723\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἀγαγοῦ\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140440208241112\"},\"Body\":{\"about\":\"urn:uuid:idm140440208241112\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἄγω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγαγ\"},\"suff\":{\"$\":\"οῦ\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"imperative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"middle\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"aor2\"},\"morph\":{\"$\":\"contr redupl\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./localJson/grc-tufts-agon.json":
+/*!***************************************!*\
+  !*** ./localJson/grc-tufts-agon.json ***!
+  \***************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἄγων:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-09T02:31:04.968741\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἄγων\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140090967136728\"},{\"resource\":\"urn:uuid:idm140090968507832\"}],\"Body\":[{\"about\":\"urn:uuid:idm140090967136728\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἄγω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":0,\"$\":\"verb participle\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"masculine\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"singular\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}}}}},{\"about\":\"urn:uuid:idm140090968507832\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἀγάω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"plural\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Doric Aeolic\"},\"stemtype\":{\"$\":\"aw_pr\"},\"derivtype\":{\"$\":\"aw_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Doric Aeolic\"},\"stemtype\":{\"$\":\"aw_pr\"},\"derivtype\":{\"$\":\"aw_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"plural\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Homeric Ionic\"},\"stemtype\":{\"$\":\"aw_pr\"},\"derivtype\":{\"$\":\"aw_denom\"},\"morph\":{\"$\":\"contr unaugmented\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Homeric Ionic\"},\"stemtype\":{\"$\":\"aw_pr\"},\"derivtype\":{\"$\":\"aw_denom\"},\"morph\":{\"$\":\"contr unaugmented\"}}]}}}]}}}");
 
 /***/ }),
 
