@@ -96,6 +96,84 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ({
 
+/***/ "./cedict/cedict-fixture.js":
+/*!**********************************!*\
+  !*** ./cedict/cedict-fixture.js ***!
+  \**********************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return CedictFixture; });
+/* harmony import */ var _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/cedict/data/zho-cedict.json */ "./cedict/data/zho-cedict.json");
+var _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/cedict/data/zho-cedict.json */ "./cedict/data/zho-cedict.json", 1);
+
+
+class CedictFixture {
+  /**
+   * A stub for Cedict._downloadData() that will load local test data instead of a real one.
+   *
+   * @returns {Promise<object>} Returns a promise that is resolved with
+   *          an object containing dictionary data.
+   */
+  static downloadData() {
+    return Promise.resolve({ meta: _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0__.metadata, dictionary: _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0__.entries })
+  }
+
+  /**
+   * A stub that imitates a LexisCS CEDICT service response.
+   * @param {string} destName - A request's destination name (not used).
+   * @param {object} request - A LeisCS request.
+   * @returns {Promise<{body: object}>} - A fixture of Lexis CEDICT response.
+   */
+  static async lexisCedictRequest(destName, request) {
+    // The following stub implements business logic of `getWords()` method from lexis-cs/src/cedict-service/cedict.js
+    const preferredCharacterForm = 'traditional'
+    const fallbackCharacterForm = 'simplified'
+
+    const targetWord = request.body.getWords.words[0]
+
+    let results = _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0__.entries.filter(entry => entry[preferredCharacterForm].headword === targetWord)
+    if (results.length > 0) {
+      return {
+        body: {
+          [preferredCharacterForm]: {
+            [targetWord]: results
+          }
+        }
+      }
+    }
+    results = _cedict_data_zho_cedict_json__WEBPACK_IMPORTED_MODULE_0__.entries.filter(entry => entry[fallbackCharacterForm].headword === targetWord)
+    if (results.length > 0) {
+      return {
+        body: {
+          [fallbackCharacterForm]: {
+            [targetWord]: results
+          }
+        }
+      }
+    }
+
+    // If no records are found for the target word, CEDICT service will return an empty object
+    return { body: {} }
+  }
+}
+
+
+/***/ }),
+
+/***/ "./cedict/data/zho-cedict.json":
+/*!*************************************!*\
+  !*** ./cedict/data/zho-cedict.json ***!
+  \*************************************/
+/*! exports provided: metadata, cedictMeta, entries, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"metadata\":{\"version\":20191029,\"revision\":1,\"frequency\":[{\"value\":1,\"name\":\"least frequent\",\"order\":5},{\"value\":2,\"name\":\"less frequent\",\"order\":4},{\"value\":3,\"name\":\"moderatelyfrequent\",\"order\":3},{\"value\":4,\"name\":\"more frequent\",\"order\":2},{\"value\":5,\"name\":\"most frequent\",\"order\":1}]},\"cedictMeta\":{\"name\":\"CC-CEDICT\",\"description\":\"Community maintained free Chinese-English dictionary.\",\"licenseName\":\"Creative Commons Attribution-ShareAlike 4.0 International License\",\"licenseURI\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"referencedWorks\":[\"CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski\"],\"downloadURI\":\"https://www.mdbg.net/chinese/dictionary?page=cc-cedict\",\"editorURI\":\"https://cc-cedict.org/editor/editor.php\",\"referenceURI\":\"https://cc-cedict.org/wiki/\",\"originalVersion\":\"1\",\"originalSubversion\":\"0\",\"originalFormat\":\"ts\",\"originalCharset\":\"UTF-8\",\"publisher\":\"MDBG\",\"dateTime\":\"2019-10-29T06:16:52.000Z\"},\"entries\":[{\"index\":2,\"type\":\"not specified\",\"traditional\":{\"headword\":\"21三體綜合症\"},\"simplified\":{\"headword\":\"21三体综合症\"},\"pinyin\":\"er4 shi2 yi1 san1 ti3 zong1 he2 zheng4\",\"definitions\":[\"trisomy\",\"Down's syndrome\"]},{\"index\":35909,\"type\":\"not specified\",\"traditional\":{\"headword\":\"幻滅\"},\"simplified\":{\"headword\":\"幻灭\"},\"pinyin\":\"huan4 mie4\",\"definitions\":[\"(of dreams, hopes etc) to vanish\",\"to evaporate\",\"(of a person) to become disillusioned\",\"disillusionment\"]},{\"index\":55562,\"type\":\"not specified\",\"traditional\":{\"headword\":\"槓\",\"cantonese\":\"gong3 gung3 lung5\",\"mandarin\":\"gàng\",\"codePoint\":\"U+69D3\",\"radical\":{\"index\":75,\"additionalStrokes\":10,\"character\":\"木\"},\"frequency\":5,\"totalStrokes\":14},\"simplified\":{\"headword\":\"杠\",\"cantonese\":\"gong1 gong3\",\"mandarin\":\"gāng\",\"codePoint\":\"U+6760\",\"radical\":{\"index\":75,\"additionalStrokes\":3,\"character\":\"木\"},\"totalStrokes\":7},\"pinyin\":\"gang4\",\"definitions\":[\"thick pole\",\"bar\",\"rod\",\"thick line\",\"to mark with a thick line\",\"to sharpen (knife)\",\"(old) coffin-bearing pole\"]},{\"index\":72267,\"type\":\"not specified\",\"traditional\":{\"headword\":\"白眉鶇\"},\"simplified\":{\"headword\":\"白眉鸫\"},\"pinyin\":\"bai2 mei2 dong1\",\"definitions\":[\"(bird species of China) eyebrowed thrush (Turdus obscurus)\"]},{\"index\":73893,\"type\":\"not specified\",\"traditional\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"simplified\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"pinyin\":\"mian2\",\"definitions\":[\"to sleep\",\"to hibernate\"]},{\"index\":83686,\"type\":\"not specified\",\"traditional\":{\"headword\":\"而今\"},\"simplified\":{\"headword\":\"而今\"},\"pinyin\":\"er2 jin1\",\"definitions\":[\"now\",\"at the present (time)\"]},{\"index\":108832,\"type\":\"not specified\",\"traditional\":{\"headword\":\"隱飾\"},\"simplified\":{\"headword\":\"隐饰\"},\"pinyin\":\"yin3 shi4\",\"definitions\":[\"a cover-up\"]},{\"index\":108835,\"type\":\"not specified\",\"traditional\":{\"headword\":\"隴\",\"cantonese\":\"lung5\",\"mandarin\":\"lǒng\",\"tang\":\"*liǒng\",\"codePoint\":\"U+96B4\",\"radical\":{\"index\":170,\"additionalStrokes\":16,\"character\":\"阜\"},\"totalStrokes\":18},\"simplified\":{\"headword\":\"陇\",\"cantonese\":\"lung5\",\"mandarin\":\"lǒng\",\"codePoint\":\"U+9647\",\"radical\":{\"index\":170,\"additionalStrokes\":5,\"simplified\":false,\"character\":\"阜\"},\"totalStrokes\":7},\"pinyin\":\"Long3\",\"definitions\":[\"short name for Gansu province 甘肅省|甘肃省[Gan1 su4 Sheng3]\"]}]}");
+
+/***/ }),
+
 /***/ "./fixture.js":
 /*!********************!*\
   !*** ./fixture.js ***!
@@ -426,10 +504,6 @@ var _localJson_ara_tufts_mkr_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#
 var _localJson_ara_tufts_sitan_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/ara-tufts-sitan.json */ "./localJson/ara-tufts-sitan.json", 1);
 /* harmony import */ var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json");
 var _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/per-tufts-pass.json */ "./localJson/per-tufts-pass.json", 1);
-/* harmony import */ var _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160__ = __webpack_require__(/*! @/localJson/zho-cedict.json */ "./localJson/zho-cedict.json");
-var _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/localJson/zho-cedict.json */ "./localJson/zho-cedict.json", 1);
-
-
 
 
 
@@ -819,11 +893,6 @@ const library = {
     tufts: {
       'بگذرد': _localJson_per_tufts_pass_json__WEBPACK_IMPORTED_MODULE_159__
     }
-  },
-  zho: {
-    cedict: {
-      default: _localJson_zho_cedict_json__WEBPACK_IMPORTED_MODULE_160__
-    }
   }
 }
 
@@ -854,13 +923,17 @@ class Fixture {
 /*!******************!*\
   !*** ./index.js ***!
   \******************/
-/*! exports provided: Fixture */
+/*! exports provided: Fixture, CedictFixture */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _fixture_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/fixture.js */ "./fixture.js");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "Fixture", function() { return _fixture_js__WEBPACK_IMPORTED_MODULE_0__["default"]; });
+
+/* harmony import */ var _cedict_cedict_fixture_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/cedict/cedict-fixture.js */ "./cedict/cedict-fixture.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "CedictFixture", function() { return _cedict_cedict_fixture_js__WEBPACK_IMPORTED_MODULE_1__["default"]; });
+
 
 
 
@@ -2625,17 +2698,6 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:bla-bla:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T06:38:44.395081\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:bla-bla\"}},\"title\":{}}}}");
-
-/***/ }),
-
-/***/ "./localJson/zho-cedict.json":
-/*!***********************************!*\
-  !*** ./localJson/zho-cedict.json ***!
-  \***********************************/
-/*! exports provided: metadata, cedictMeta, entries, default */
-/***/ (function(module) {
-
-module.exports = JSON.parse("{\"metadata\":{\"version\":20191029,\"revision\":1,\"frequency\":[{\"value\":1,\"name\":\"least frequent\",\"order\":5},{\"value\":2,\"name\":\"less frequent\",\"order\":4},{\"value\":3,\"name\":\"moderatelyfrequent\",\"order\":3},{\"value\":4,\"name\":\"more frequent\",\"order\":2},{\"value\":5,\"name\":\"most frequent\",\"order\":1}]},\"cedictMeta\":{\"name\":\"CC-CEDICT\",\"description\":\"Community maintained free Chinese-English dictionary.\",\"licenseName\":\"Creative Commons Attribution-ShareAlike 4.0 International License\",\"licenseURI\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"referencedWorks\":[\"CEDICT - Copyright (C) 1997, 1998 Paul Andrew Denisowski\"],\"downloadURI\":\"https://www.mdbg.net/chinese/dictionary?page=cc-cedict\",\"editorURI\":\"https://cc-cedict.org/editor/editor.php\",\"referenceURI\":\"https://cc-cedict.org/wiki/\",\"originalVersion\":\"1\",\"originalSubversion\":\"0\",\"originalFormat\":\"ts\",\"originalCharset\":\"UTF-8\",\"publisher\":\"MDBG\",\"dateTime\":\"2019-10-29T06:16:52.000Z\"},\"entries\":[{\"index\":2,\"type\":\"not specified\",\"traditional\":{\"headword\":\"21三體綜合症\"},\"simplified\":{\"headword\":\"21三体综合症\"},\"pinyin\":\"er4 shi2 yi1 san1 ti3 zong1 he2 zheng4\",\"definitions\":[\"trisomy\",\"Down's syndrome\"]},{\"index\":35909,\"type\":\"not specified\",\"traditional\":{\"headword\":\"幻滅\"},\"simplified\":{\"headword\":\"幻灭\"},\"pinyin\":\"huan4 mie4\",\"definitions\":[\"(of dreams, hopes etc) to vanish\",\"to evaporate\",\"(of a person) to become disillusioned\",\"disillusionment\"]},{\"index\":55562,\"type\":\"not specified\",\"traditional\":{\"headword\":\"槓\",\"cantonese\":\"gong3 gung3 lung5\",\"mandarin\":\"gàng\",\"codePoint\":\"U+69D3\",\"radical\":{\"index\":75,\"additionalStrokes\":10,\"character\":\"木\"},\"frequency\":5,\"totalStrokes\":14},\"simplified\":{\"headword\":\"杠\",\"cantonese\":\"gong1 gong3\",\"mandarin\":\"gāng\",\"codePoint\":\"U+6760\",\"radical\":{\"index\":75,\"additionalStrokes\":3,\"character\":\"木\"},\"totalStrokes\":7},\"pinyin\":\"gang4\",\"definitions\":[\"thick pole\",\"bar\",\"rod\",\"thick line\",\"to mark with a thick line\",\"to sharpen (knife)\",\"(old) coffin-bearing pole\"]},{\"index\":72267,\"type\":\"not specified\",\"traditional\":{\"headword\":\"白眉鶇\"},\"simplified\":{\"headword\":\"白眉鸫\"},\"pinyin\":\"bai2 mei2 dong1\",\"definitions\":[\"(bird species of China) eyebrowed thrush (Turdus obscurus)\"]},{\"index\":73893,\"type\":\"not specified\",\"traditional\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"simplified\":{\"headword\":\"眠\",\"cantonese\":\"min4\",\"mandarin\":\"mián\",\"tang\":\"*men\",\"codePoint\":\"U+7720\",\"radical\":{\"index\":109,\"additionalStrokes\":5,\"character\":\"目\"},\"frequency\":4,\"totalStrokes\":10},\"pinyin\":\"mian2\",\"definitions\":[\"to sleep\",\"to hibernate\"]},{\"index\":83686,\"type\":\"not specified\",\"traditional\":{\"headword\":\"而今\"},\"simplified\":{\"headword\":\"而今\"},\"pinyin\":\"er2 jin1\",\"definitions\":[\"now\",\"at the present (time)\"]},{\"index\":108832,\"type\":\"not specified\",\"traditional\":{\"headword\":\"隱飾\"},\"simplified\":{\"headword\":\"隐饰\"},\"pinyin\":\"yin3 shi4\",\"definitions\":[\"a cover-up\"]},{\"index\":108835,\"type\":\"not specified\",\"traditional\":{\"headword\":\"隴\",\"cantonese\":\"lung5\",\"mandarin\":\"lǒng\",\"tang\":\"*liǒng\",\"codePoint\":\"U+96B4\",\"radical\":{\"index\":170,\"additionalStrokes\":16,\"character\":\"阜\"},\"totalStrokes\":18},\"simplified\":{\"headword\":\"陇\",\"cantonese\":\"lung5\",\"mandarin\":\"lǒng\",\"codePoint\":\"U+9647\",\"radical\":{\"index\":170,\"additionalStrokes\":5,\"simplified\":false,\"character\":\"阜\"},\"totalStrokes\":7},\"pinyin\":\"Long3\",\"definitions\":[\"short name for Gansu province 甘肅省|甘肃省[Gan1 su4 Sheng3]\"]}]}");
 
 /***/ })
 
