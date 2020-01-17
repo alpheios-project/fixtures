@@ -279,3 +279,5 @@ curl -o grc-tufts-estatin.json "https://morph.alpheios.net/api/v1/analysis/word?
 curl -o grc-tufts-lelysthai.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BB%CE%B5%CE%BB%E1%BD%BB%CF%83%CE%B8%CE%B1%CE%B9&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
 
 curl -o grc-tufts-elelyki.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%90%CE%BB%CE%B5%CE%BB%E1%BD%BB%CE%BA%CE%B7&engine=morpheusgrc&lang=grc&clientId=alpheios-reader"
+
+curl -o grc-tufts-agagitai.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%AC%CE%B3%CE%B7%CF%84%CE%B1%CE%B9&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
