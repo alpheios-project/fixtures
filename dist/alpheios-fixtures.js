@@ -561,6 +561,10 @@ var _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_105___n
 var _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lelysthai.json */ "./tufts/localJson/grc/grc-tufts-lelysthai.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json");
 var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json");
+var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json", 1);
+
+
 
 
 
@@ -791,7 +795,8 @@ class GrcTuftsFixture {
       'ἄνθρωπος': _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_104__,
       'ἑστάτην': _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_105__,
       'λελύσθαι': _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106__,
-      'ἐλελύκη': _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__
+      'ἐλελύκη': _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__,
+      'ἀγάγηται': _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108__
     }
   }
 }
@@ -828,6 +833,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:αὑτῶν:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T11:25:40.255844\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:αὑτῶν\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154430426816\"},\"Body\":{\"about\":\"urn:uuid:idm140154430426816\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἑαυτοῦ\"},\"pofs\":{\"order\":5,\"$\":\"pronoun\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"αὑτ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":5,\"$\":\"pronoun\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"art_adj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"αὑτ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":5,\"$\":\"pronoun\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"art_adj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"αὑτ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":5,\"$\":\"pronoun\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"art_adj\"}}]}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-agagitai.json":
+/*!*****************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-agagitai.json ***!
+  \*****************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἀγάγηται:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-17T07:36:33.375938\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἀγάγηται\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102669828000\"},\"Body\":{\"about\":\"urn:uuid:idm140102669828000\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἄγω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀγαγ\"},\"suff\":{\"$\":\"ηται\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"subjunctive\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"mediopassive\"},\"stemtype\":{\"$\":\"aor2\"},\"morph\":{\"$\":\"redupl\"}}}}}}}}");
 
 /***/ }),
 

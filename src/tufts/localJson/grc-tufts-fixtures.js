@@ -118,6 +118,8 @@ import GrcTuftsEstatin from '@/tufts/localJson/grc/grc-tufts-estatin.json'
 import GrcTuftsLelysthai from '@/tufts/localJson/grc/grc-tufts-lelysthai.json'
 import GrcTuftsElelyki from '@/tufts/localJson/grc/grc-tufts-elelyki.json'
 
+import GrcTuftsAgagitai from '@/tufts/localJson/grc/grc-tufts-agagitai.json'
+
 export default class GrcTuftsFixture {
   static get library () {
     return {
@@ -228,7 +230,8 @@ export default class GrcTuftsFixture {
       'ἄνθρωπος': GrcTuftsAnthropos,
       'ἑστάτην': GrcTuftsEstatin,
       'λελύσθαι': GrcTuftsLelysthai,
-      'ἐλελύκη': GrcTuftsElelyki
+      'ἐλελύκη': GrcTuftsElelyki,
+      'ἀγάγηται': GrcTuftsAgagitai
     }
   }
 }
