@@ -571,6 +571,10 @@ var _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__
 var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vouleftheiin.json */ "./tufts/localJson/grc/grc-tufts-vouleftheiin.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json");
 var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json");
+var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json", 1);
+
+
 
 
 
@@ -815,7 +819,8 @@ class GrcTuftsFixture {
       'ἐβουλεύθην': _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_109__,
       'βουλευθῶ': _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__,
       'βουλευθείην': _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111__,
-      'ἐγράφην': _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__
+      'ἐγράφην': _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__,
+      'οἰστροδόνου': _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__
     }
   }
 }
@@ -1765,6 +1770,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:οἶδα:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T10:33:10.637027\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:οἶδα\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154430570880\"},\"Body\":{\"about\":\"urn:uuid:idm140154430570880\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"οἶδα\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰδα\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"perfect\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ath_primary\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-oistrodonou.json":
+/*!********************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-oistrodonou.json ***!
+  \********************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:οἰστροδόνου:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-21T07:00:10.265111\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:οἰστροδόνου\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140090968443528\"},{\"resource\":\"urn:uuid:idm140090968505976\"}],\"Body\":[{\"about\":\"urn:uuid:idm140090968443528\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"οἰστρόδονος\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}}]}}},{\"about\":\"urn:uuid:idm140090968505976\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"οἰστροδόνος\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"οἰστροδον\"},\"suff\":{\"$\":\"ου\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_on\"}}]}}}]}}}");
 
 /***/ }),
 
