@@ -573,6 +573,8 @@ var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_11
 var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json");
 var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json");
+var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_114___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json", 1);
 
 
 
@@ -820,7 +822,9 @@ class GrcTuftsFixture {
       'βουλευθῶ': _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__,
       'βουλευθείην': _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111__,
       'ἐγράφην': _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__,
-      'οἰστροδόνου': _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__
+      'οἰστροδόνου': _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__,
+
+      'ξηρή': _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_114__
     }
   }
 }
@@ -2059,6 +2063,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/grc/grc-tufts-xiri.json":
+/*!*************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-xiri.json ***!
+  \*************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ξηρή:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-22T10:12:26.019544\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ξηρή\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140102665902848\"},{\"resource\":\"urn:uuid:idm140102666296064\"}],\"Body\":[{\"about\":\"urn:uuid:idm140102665902848\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ξηρά\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"gend\":{\"$\":\"feminine\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ξηρ\"},\"suff\":{\"$\":\"η\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"epic Ionic\"},\"stemtype\":{\"$\":\"h_hs\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ξηρ\"},\"suff\":{\"$\":\"η\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"epic Ionic\"},\"stemtype\":{\"$\":\"h_hs\"}}]}}},{\"about\":\"urn:uuid:idm140102666296064\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ξηρός\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ξηρ\"},\"suff\":{\"$\":\"η\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"epic Ionic\"},\"stemtype\":{\"$\":\"os_h_on\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ξηρ\"},\"suff\":{\"$\":\"η\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"epic Ionic\"},\"stemtype\":{\"$\":\"os_h_on\"}}]}}}]}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/grc/grc-tufts-zoni.json":
 /*!*************************************************!*\
   !*** ./tufts/localJson/grc/grc-tufts-zoni.json ***!
@@ -2184,6 +2199,27 @@ var _tufts_localJson_lat_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_49___name
 var _tufts_localJson_lat_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_50___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-volui.json */ "./tufts/localJson/lat/lat-tufts-volui.json", 1);
 /* harmony import */ var _tufts_localJson_lat_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-queo.json */ "./tufts/localJson/lat/lat-tufts-queo.json");
 var _tufts_localJson_lat_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_51___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-queo.json */ "./tufts/localJson/lat/lat-tufts-queo.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_facili_json__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-facili.json */ "./tufts/localJson/lat/lat-tufts-facili.json");
+var _tufts_localJson_lat_lat_tufts_facili_json__WEBPACK_IMPORTED_MODULE_52___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-facili.json */ "./tufts/localJson/lat/lat-tufts-facili.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_ovo_json__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-ovo.json */ "./tufts/localJson/lat/lat-tufts-ovo.json");
+var _tufts_localJson_lat_lat_tufts_ovo_json__WEBPACK_IMPORTED_MODULE_53___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-ovo.json */ "./tufts/localJson/lat/lat-tufts-ovo.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_adsit_json__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-adsit.json */ "./tufts/localJson/lat/lat-tufts-adsit.json");
+var _tufts_localJson_lat_lat_tufts_adsit_json__WEBPACK_IMPORTED_MODULE_54___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-adsit.json */ "./tufts/localJson/lat/lat-tufts-adsit.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_Orontea_json__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-Orontea.json */ "./tufts/localJson/lat/lat-tufts-Orontea.json");
+var _tufts_localJson_lat_lat_tufts_Orontea_json__WEBPACK_IMPORTED_MODULE_55___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-Orontea.json */ "./tufts/localJson/lat/lat-tufts-Orontea.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_perfundere_json__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-perfundere.json */ "./tufts/localJson/lat/lat-tufts-perfundere.json");
+var _tufts_localJson_lat_lat_tufts_perfundere_json__WEBPACK_IMPORTED_MODULE_56___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-perfundere.json */ "./tufts/localJson/lat/lat-tufts-perfundere.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_male_json__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-male.json */ "./tufts/localJson/lat/lat-tufts-male.json");
+var _tufts_localJson_lat_lat_tufts_male_json__WEBPACK_IMPORTED_MODULE_57___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-male.json */ "./tufts/localJson/lat/lat-tufts-male.json", 1);
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2297,6 +2333,7 @@ class LatTuftsFixture {
       'iugandis': _tufts_localJson_lat_lat_tufts_iugandis_json__WEBPACK_IMPORTED_MODULE_25__,
       'iverim': _tufts_localJson_lat_lat_tufts_iverim_json__WEBPACK_IMPORTED_MODULE_23__,
       'ivissem': _tufts_localJson_lat_lat_tufts_ivissem_json__WEBPACK_IMPORTED_MODULE_24__,
+      'facili': _tufts_localJson_lat_lat_tufts_facili_json__WEBPACK_IMPORTED_MODULE_52__,
       'ferent': _tufts_localJson_lat_lat_tufts_ferent_json__WEBPACK_IMPORTED_MODULE_26__,
       'maluerimus': _tufts_localJson_lat_lat_tufts_maluerimus_json__WEBPACK_IMPORTED_MODULE_27__,
       'mare': _tufts_localJson_lat_lat_tufts_mare_json__WEBPACK_IMPORTED_MODULE_28__,
@@ -2307,6 +2344,7 @@ class LatTuftsFixture {
       'nitido': _tufts_localJson_lat_lat_tufts_nitido_json__WEBPACK_IMPORTED_MODULE_33__,
       'nolo': _tufts_localJson_lat_lat_tufts_nolo_json__WEBPACK_IMPORTED_MODULE_34__,
       'obsum': _tufts_localJson_lat_lat_tufts_obsum_json__WEBPACK_IMPORTED_MODULE_35__,
+      'ovo': _tufts_localJson_lat_lat_tufts_ovo_json__WEBPACK_IMPORTED_MODULE_53__,
       'palmaque': _tufts_localJson_lat_lat_tufts_palmaque_json__WEBPACK_IMPORTED_MODULE_36__,
       'placito': _tufts_localJson_lat_lat_tufts_placito_json__WEBPACK_IMPORTED_MODULE_37__,     
       'praefuistis': _tufts_localJson_lat_lat_tufts_praefuistis_json__WEBPACK_IMPORTED_MODULE_38__,
@@ -2322,10 +2360,25 @@ class LatTuftsFixture {
       'veneo': _tufts_localJson_lat_lat_tufts_veneo_json__WEBPACK_IMPORTED_MODULE_48__,
       'venit': _tufts_localJson_lat_lat_tufts_venit_json__WEBPACK_IMPORTED_MODULE_49__,
       'volui': _tufts_localJson_lat_lat_tufts_volui_json__WEBPACK_IMPORTED_MODULE_50__,
-      'queo': _tufts_localJson_lat_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_51__
+      'queo': _tufts_localJson_lat_lat_tufts_queo_json__WEBPACK_IMPORTED_MODULE_51__,
+      'adsit': _tufts_localJson_lat_lat_tufts_adsit_json__WEBPACK_IMPORTED_MODULE_54__,
+      'Orontea': _tufts_localJson_lat_lat_tufts_Orontea_json__WEBPACK_IMPORTED_MODULE_55__,
+      'perfundere': _tufts_localJson_lat_lat_tufts_perfundere_json__WEBPACK_IMPORTED_MODULE_56__,
+      'male': _tufts_localJson_lat_lat_tufts_male_json__WEBPACK_IMPORTED_MODULE_57__
     }
   }
 }
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-Orontea.json":
+/*!****************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-Orontea.json ***!
+  \****************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:Orontea:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:29:11.155283\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:Orontea\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140090974286024\"},\"Body\":{\"about\":\"urn:uuid:idm140090974286024\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"Orontea\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"gend\":{\"$\":\"all\"}},\"mean\":{\"$\":\"Assume this is capitalized proper name/abbr\"}}}}}}}");
 
 /***/ }),
 
@@ -2359,6 +2412,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:adfuimus:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T09:29:29.065403\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:adfuimus\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140154432943296\"},{\"resource\":\"urn:uuid:idm140154441230720\"}],\"Body\":[{\"about\":\"urn:uuid:idm140154432943296\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"adfu\"},\"suff\":{\"$\":\"imus\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"1st\"},\"num\":{\"$\":\"plural\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"adfuo, adfuere, adfuxi, -\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"kind\":{\"$\":\"intransitive\"},\"freq\":{\"order\":2,\"$\":\"uncommon\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"flow/stream/issue (from), flow away; abound in (w/ABL), be abundant, abound;\"}}}},{\"about\":\"urn:uuid:idm140154441230720\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"adfu\"},\"suff\":{\"$\":\"imus\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"perfect\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"1st\"},\"num\":{\"$\":\"plural\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"adsum, adesse, adfui, adfuturus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"be near, be present, be in attendance, arrive, appear; aid (w/DAT);\"}}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-adsit.json":
+/*!**************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-adsit.json ***!
+  \**************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:adsit:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:28:11.593744\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:adsit\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140090971410728\"},\"Body\":{\"about\":\"urn:uuid:idm140090971410728\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ads\"},\"suff\":{\"$\":\"it\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"subjunctive\"},\"pers\":{\"$\":\"3rd\"},\"num\":{\"$\":\"singular\"}},\"dict\":[{\"hdwd\":{\"lang\":\"lat\",\"$\":\"adsum, adesse, adfui, adfuturus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},{\"hdwd\":{\"lang\":\"lat\",\"$\":\"adsum, adesse, arfui, arfuturus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"age\":{\"order\":2,\"$\":\"early\"},\"freq\":{\"order\":4,\"$\":\"common\"},\"src\":{\"$\":\"Lewis+Short\"}}],\"mean\":{\"$\":\"be near, be present, be in attendance, arrive, appear; aid (w/DAT);\"}}}}}}}");
 
 /***/ }),
 
@@ -2494,6 +2558,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/lat/lat-tufts-facili.json":
+/*!***************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-facili.json ***!
+  \***************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:facili:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:10:32.842712\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:facili\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102679092080\"},\"Body\":{\"about\":\"urn:uuid:idm140102679092080\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"facil\"},\"suff\":{\"$\":\"i\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":5,\"$\":\"dative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"all\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"facil\"},\"suff\":{\"$\":\"i\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"all\"},\"comp\":{\"$\":\"positive\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"facilis, facile, facilior -or -us, facillimus -a -um\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"easy, easy to do, without difficulty, ready, quick, good natured, courteous;\"}}}}}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/lat/lat-tufts-ferent.json":
 /*!***************************************************!*\
   !*** ./tufts/localJson/lat/lat-tufts-ferent.json ***!
@@ -2615,6 +2690,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/lat/lat-tufts-male.json":
+/*!*************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-male.json ***!
+  \*************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:male:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-20T08:42:00.749881\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:male\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140090980040680\"},{\"resource\":\"urn:uuid:idm140090975240424\"},{\"resource\":\"urn:uuid:idm140090972863784\"},{\"resource\":\"urn:uuid:idm140090971748200\"}],\"Body\":[{\"about\":\"urn:uuid:idm140090980040680\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"mal\"},\"suff\":{\"$\":\"e\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"masculine\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"malus, mali\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"gend\":{\"$\":\"masculine\"},\"freq\":{\"order\":3,\"$\":\"lesser\"}},\"mean\":{\"$\":\"mast; beam; tall pole, upright pole; standard, prop, staff;\"}}}},{\"about\":\"urn:uuid:idm140090975240424\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"mal\"},\"suff\":{\"$\":\"e\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"malus, mali\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"gend\":{\"$\":\"feminine\"},\"freq\":{\"order\":3,\"$\":\"lesser\"}},\"mean\":{\"$\":\"apple tree;\"}}}},{\"about\":\"urn:uuid:idm140090972863784\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"mal\"},\"suff\":{\"$\":\"e\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"masculine\"},\"comp\":{\"$\":\"positive\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"malus, mala -um, pejor -or -us, -\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"bad, evil, wicked; ugly; unlucky;\"}}}},{\"about\":\"urn:uuid:idm140090971748200\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"male\"}},\"pofs\":{\"order\":2,\"$\":\"adverb\"},\"comp\":{\"$\":\"positive\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"male, pejus, pessime\"},\"pofs\":{\"order\":2,\"$\":\"adverb\"},\"freq\":{\"order\":3,\"$\":\"lesser\"}},\"mean\":{\"$\":\"badly, ill, wrongly, wickedly, unfortunately; extremely;\"}}}}]}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/lat/lat-tufts-maluerimus.json":
 /*!*******************************************************!*\
   !*** ./tufts/localJson/lat/lat-tufts-maluerimus.json ***!
@@ -2714,6 +2800,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/lat/lat-tufts-ovo.json":
+/*!************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-ovo.json ***!
+  \************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ovo:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:26:02.387506\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ovo\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140102672933664\"},{\"resource\":\"urn:uuid:idm140102673250880\"}],\"Body\":[{\"about\":\"urn:uuid:idm140102672933664\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ov\"},\"suff\":{\"$\":\"o\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":5,\"$\":\"dative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"neuter\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ov\"},\"suff\":{\"$\":\"o\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"neuter\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"ovum, ovi\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"gend\":{\"$\":\"neuter\"},\"freq\":{\"order\":5,\"$\":\"frequent\"}},\"mean\":{\"$\":\"egg; oval;\"}}}},{\"about\":\"urn:uuid:idm140102673250880\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ov\"},\"suff\":{\"$\":\"o\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"1st\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"ovo, ovare, ovavi, ovatus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"freq\":{\"order\":5,\"$\":\"frequent\"}},\"mean\":{\"$\":\"rejoice;\"}}}}]}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/lat/lat-tufts-palmaque.json":
 /*!*****************************************************!*\
   !*** ./tufts/localJson/lat/lat-tufts-palmaque.json ***!
@@ -2722,6 +2819,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:palmaque:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T06:25:04.835169\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:palmaque\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140154437084688\"},{\"resource\":\"urn:uuid:idm140154432820544\"},{\"resource\":\"urn:uuid:idm140154428164720\"}],\"Body\":[{\"about\":\"urn:uuid:idm140154437084688\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"Two words\"}}},\"mean\":{\"$\":\"May be 2 words combined (palma+que) If not obvious, probably incorrect\"}}}},{\"about\":\"urn:uuid:idm140154432820544\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"palm\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"palm\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"palm\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"palma, palmae\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"gend\":{\"$\":\"feminine\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"palm/width of the hand; hand; palm tree/branch; date; palm award/first place;\"}}}},{\"about\":\"urn:uuid:idm140154428164720\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"que\"}},\"pofs\":{\"$\":\"conjunction\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"que\"},\"pofs\":{\"$\":\"conjunction\"},\"age\":{\"order\":6,\"$\":\"medieval\"},\"freq\":{\"order\":2,\"$\":\"uncommon\"}},\"mean\":{\"$\":\"and; (while properly attached as enclitic sometimes copyists make mistakes);\"}}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-perfundere.json":
+/*!*******************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-perfundere.json ***!
+  \*******************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:perfundere:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:30:08.713949\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:perfundere\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102673318672\"},\"Body\":{\"about\":\"urn:uuid:idm140102673318672\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"perfund\"},\"suff\":{\"$\":\"ere\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"infinitive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"perfund\"},\"suff\":{\"$\":\"ere\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"passive\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"perfund\"},\"suff\":{\"$\":\"ere\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"passive\"},\"mood\":{\"$\":\"imperative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"perfund\"},\"suff\":{\"$\":\"ere\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"passive\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"perfundo, perfundere, perfudi, perfusus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"freq\":{\"order\":5,\"$\":\"frequent\"}},\"mean\":{\"$\":\"pour over/through, wet, flood, bathe; overspread, coat, overlay; imbue;\"}}}}}}}");
 
 /***/ }),
 
