@@ -126,7 +126,7 @@ import GrcTuftsVouleftheiin from '@/tufts/localJson/grc/grc-tufts-vouleftheiin.j
 import GrcTuftsEgrafin from '@/tufts/localJson/grc/grc-tufts-egrafin.json'
 
 import GrcTuftsOistrodonou from '@/tufts/localJson/grc/grc-tufts-oistrodonou.json'
-
+import GrcTuftsXiri from '@/tufts/localJson/grc/grc-tufts-xiri.json'
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -245,7 +245,9 @@ export default class GrcTuftsFixture {
       'βουλευθῶ': GrcTuftsVouleftho,
       'βουλευθείην': GrcTuftsVouleftheiin,
       'ἐγράφην': GrcTuftsEgrafin,
-      'οἰστροδόνου': GrcTuftsOistrodonou
+      'οἰστροδόνου': GrcTuftsOistrodonou,
+
+      'ξηρή': GrcTuftsXiri
     }
   }
 }

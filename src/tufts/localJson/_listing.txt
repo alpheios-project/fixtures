@@ -289,3 +289,12 @@ curl -o grc-tufts-egrafin.json "https://morph.alpheios.net/api/v1/analysis/word?
 
 curl -o grc-tufts-oistrodonou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BF%E1%BC%B0%CF%83%CF%84%CF%81%CE%BF%CE%B4%CF%8C%CE%BD%CE%BF%CF%85&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o lat-tufts-facili.json "https://morph.alpheios.net/api/v1/analysis/word?word=facili&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+
+curl -o grc-tufts-xiri.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BE%CE%B7%CF%81%CE%AE&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+curl -o lat-tufts-ovo.json "https://morph.alpheios.net/api/v1/analysis/word?word=ovo&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+curl -o lat-tufts-adsit.json "https://morph.alpheios.net/api/v1/analysis/word?word=adsit&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+curl -o lat-tufts-Orontea.json "https://morph.alpheios.net/api/v1/analysis/word?word=Orontea&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+curl -o lat-tufts-perfundere.json "https://morph.alpheios.net/api/v1/analysis/word?word=perfundere&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+curl -o lat-tufts-male.json "https://morph.alpheios.net/api/v1/analysis/word?word=male&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
