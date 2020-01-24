@@ -289,3 +289,4 @@ curl -o grc-tufts-egrafin.json "https://morph.alpheios.net/api/v1/analysis/word?
 
 curl -o grc-tufts-oistrodonou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BF%E1%BC%B0%CF%83%CF%84%CF%81%CE%BF%CE%B4%CF%8C%CE%BD%CE%BF%CF%85&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o grc-tufts-ergon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%94%CF%81%CE%B3%CE%BF%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
