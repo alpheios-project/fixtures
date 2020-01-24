@@ -1,6 +1,6 @@
 {
   "name": "alpheios-fixtures",
-  "version": "1.1.0",
+  "version": "1.2.0-dev",
   "description": "Alpheios Fixtures for remote service",
   "main": "dist/alpheios-fixtures.min.js",
   "scripts": {
