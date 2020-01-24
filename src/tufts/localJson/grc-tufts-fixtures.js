@@ -128,6 +128,22 @@ import GrcTuftsEgrafin from '@/tufts/localJson/grc/grc-tufts-egrafin.json'
 import GrcTuftsOistrodonou from '@/tufts/localJson/grc/grc-tufts-oistrodonou.json'
 import GrcTuftsErgon from '@/tufts/localJson/grc/grc-tufts-ergon.json'
 
+import GrcTuftsChoras from '@/tufts/localJson/grc/grc-tufts-choras.json'
+import GrcTuftsChorain from '@/tufts/localJson/grc/grc-tufts-chorain.json'
+import GrcTuftsGnomon from '@/tufts/localJson/grc/grc-tufts-gnomon.json'
+import GrcTuftsGnomin from '@/tufts/localJson/grc/grc-tufts-gnomin.json'
+
+import GrcTuftsYgieia from '@/tufts/localJson/grc/grc-tufts-ygieia.json'
+import GrcTuftsYgieiain from '@/tufts/localJson/grc/grc-tufts-ygieiain.json'
+import GrcTuftsThalattan from '@/tufts/localJson/grc/grc-tufts-thalattan.json'
+import GrcTuftsThalattas from '@/tufts/localJson/grc/grc-tufts-thalattas.json'
+
+import GrcTuftsNeaniou from '@/tufts/localJson/grc/grc-tufts-neaniou.json'
+import GrcTuftsNeaniain from '@/tufts/localJson/grc/grc-tufts-neaniain.json'
+import GrcTuftsStratiotin from '@/tufts/localJson/grc/grc-tufts-stratiotin.json'
+import GrcTuftsStratiotais from '@/tufts/localJson/grc/grc-tufts-stratiotais.json'
+
+
 export default class GrcTuftsFixture {
   static get library () {
     return {
@@ -247,7 +263,23 @@ export default class GrcTuftsFixture {
       'ἐγράφην': GrcTuftsEgrafin,
       'οἰστροδόνου': GrcTuftsOistrodonou,
 
-      'ἔργον': GrcTuftsErgon
+      'ἔργον': GrcTuftsErgon,
+
+      'χώρᾱς': GrcTuftsChoras,
+      'χώραιν': GrcTuftsChorain,
+      'γνωμῶν': GrcTuftsGnomon,
+      'γνώμην': GrcTuftsGnomin,
+
+      'ὑγιείᾳ': GrcTuftsYgieia,
+      'ὑγιείαιν': GrcTuftsYgieiain,
+      'θάλαττᾰν': GrcTuftsThalattan,
+      'θαλάττᾱς': GrcTuftsThalattas,
+
+      'νεανίου': GrcTuftsNeaniou,
+      'νεανίαιν': GrcTuftsNeaniain,
+      'στρατιώτην': GrcTuftsStratiotin,
+      'στρατιώταις': GrcTuftsStratiotais
+      
     }
   }
 }
