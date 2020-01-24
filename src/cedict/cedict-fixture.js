@@ -34,34 +34,42 @@ export default class CedictFixture {
    * @returns {Promise<{body: object}>} - A response that fully emulates a response of Lexis CS CEDICT service.
    */
   static async lexisCedictRequest(destName, request) {
-    // The following stub implements business logic of `getWords()` method from lexis-cs/src/cedict-service/cedict.js
+    // This stub implements business logic of `getWords()` method from lexis-cs/src/cedict-service/cedict.js
     const preferredCharacterForm = 'traditional'
     const fallbackCharacterForm = 'simplified'
 
-    const targetWord = request.body.getWords.words[0]
-
-    let results = CedictData.entries.filter(entry => entry[preferredCharacterForm].headword === targetWord)
-    if (results.length > 0) {
+    let words = request.body.getWords.words
+    // Create an object with props for the words
+    let result = words.reduce((accumulator, key) => { accumulator[key] = []; return accumulator }, {}) // eslint-disable-line prefer-const
+    // Try to get some results for the preferredCharacterForm
+    words.forEach(word => {
+      result[word] = CedictData.entries.filter(entry => entry[preferredCharacterForm].headword === word)
+    })
+    if (CedictFixture._getResultRecordsCount(result) > 0) {
       return {
         body: {
-          [preferredCharacterForm]: {
-            [targetWord]: results
-          }
-        }
-      }
-    }
-    results = CedictData.entries.filter(entry => entry[fallbackCharacterForm].headword === targetWord)
-    if (results.length > 0) {
-      return {
-        body: {
-          [fallbackCharacterForm]: {
-            [targetWord]: results
-          }
+          [preferredCharacterForm]: result
         }
       }
     }
 
-    // If no records are found for the target word, CEDICT service will return an empty object
+    // If no results for preferredCharacterForm are found, try fallbackCharacterForm instead
+    words.forEach(word => {
+      result[word] = CedictData.entries.filter(entry => entry[fallbackCharacterForm].headword === word)
+    })
+    if (CedictFixture._getResultRecordsCount(result) > 0) {
+      return {
+        body: {
+          [fallbackCharacterForm]: result
+        }
+      }
+    }
+
+    // If no records are found for any of the words CEDICT service will return an empty object
     return { body: {} }
+  }
+
+  static _getResultRecordsCount (resultsObject) {
+    return Object.values(resultsObject).flat().length
   }
 }
