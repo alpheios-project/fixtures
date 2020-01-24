@@ -143,6 +143,7 @@ import GrcTuftsNeaniain from '@/tufts/localJson/grc/grc-tufts-neaniain.json'
 import GrcTuftsStratiotin from '@/tufts/localJson/grc/grc-tufts-stratiotin.json'
 import GrcTuftsStratiotais from '@/tufts/localJson/grc/grc-tufts-stratiotais.json'
 
+import GrcTuftsXiri from '@/tufts/localJson/grc/grc-tufts-xiri.json'
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -278,8 +279,9 @@ export default class GrcTuftsFixture {
       'νεανίου': GrcTuftsNeaniou,
       'νεανίαιν': GrcTuftsNeaniain,
       'στρατιώτην': GrcTuftsStratiotin,
-      'στρατιώταις': GrcTuftsStratiotais
+      'στρατιώταις': GrcTuftsStratiotais,
       
+      'ξηρή': GrcTuftsXiri
     }
   }
 }

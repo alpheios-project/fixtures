@@ -82,6 +82,15 @@ import LatTuftsVolui from '@/tufts/localJson/lat/lat-tufts-volui.json'
 
 import LatTuftsQueo from '@/tufts/localJson/lat/lat-tufts-queo.json'
 
+import LatTuftsFacili from '@/tufts/localJson/lat/lat-tufts-facili.json'
+
+import LatTuftsOvo from '@/tufts/localJson/lat/lat-tufts-ovo.json'
+import LatTuftsAdsit from '@/tufts/localJson/lat/lat-tufts-adsit.json'
+import LatTuftsOrontea from '@/tufts/localJson/lat/lat-tufts-Orontea.json'
+import LatTuftsPerfundere from '@/tufts/localJson/lat/lat-tufts-perfundere.json'
+
+import LatTuftsMale from '@/tufts/localJson/lat/lat-tufts-male.json'
+
 export default class LatTuftsFixture {
   static get library () {
     return {
@@ -111,6 +120,7 @@ export default class LatTuftsFixture {
       'iugandis': LatTuftsIugandis,
       'iverim': LatTuftsIverim,
       'ivissem': LatTuftsIvissem,
+      'facili': LatTuftsFacili,
       'ferent': LatTuftsFerent,
       'maluerimus': LatTuftsMaluerimus,
       'mare': LatTuftsMare,
@@ -121,6 +131,7 @@ export default class LatTuftsFixture {
       'nitido': LatTuftsNitido,
       'nolo': LatTuftsNolo,
       'obsum': LatTuftsObsum,
+      'ovo': LatTuftsOvo,
       'palmaque': LatTuftsPalmaque,
       'placito': LatTuftsPlacito,     
       'praefuistis': LatTuftsPraefuistis,
@@ -136,7 +147,11 @@ export default class LatTuftsFixture {
       'veneo': LatTuftsVeneo,
       'venit': LatTuftsVenit,
       'volui': LatTuftsVolui,
-      'queo': LatTuftsQueo
+      'queo': LatTuftsQueo,
+      'adsit': LatTuftsAdsit,
+      'Orontea': LatTuftsOrontea,
+      'perfundere': LatTuftsPerfundere,
+      'male': LatTuftsMale
     }
   }
 }
