@@ -145,6 +145,12 @@ import GrcTuftsStratiotais from '@/tufts/localJson/grc/grc-tufts-stratiotais.jso
 
 import GrcTuftsXiri from '@/tufts/localJson/grc/grc-tufts-xiri.json'
 
+import GrcTuftsKlops from '@/tufts/localJson/grc/grc-tufts-klops.json'
+import GrcTuftsKlope from '@/tufts/localJson/grc/grc-tufts-klope.json'
+import GrcTuftsFylakon from '@/tufts/localJson/grc/grc-tufts-fylakon.json'
+import GrcTuftsFylax from '@/tufts/localJson/grc/grc-tufts-fylax.json'
+
+
 export default class GrcTuftsFixture {
   static get library () {
     return {
@@ -281,7 +287,12 @@ export default class GrcTuftsFixture {
       'στρατιώτην': GrcTuftsStratiotin,
       'στρατιώταις': GrcTuftsStratiotais,
       
-      'ξηρή': GrcTuftsXiri
+      'ξηρή': GrcTuftsXiri,
+
+      'κλώψ': GrcTuftsKlops,
+      'κλῶπε': GrcTuftsKlope,
+      'φυλάκων': GrcTuftsFylakon,
+      'φύλαξ': GrcTuftsFylax
     }
   }
 }

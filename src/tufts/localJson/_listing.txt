@@ -317,3 +317,13 @@ curl -o lat-tufts-adsit.json "https://morph.alpheios.net/api/v1/analysis/word?wo
 curl -o lat-tufts-Orontea.json "https://morph.alpheios.net/api/v1/analysis/word?word=Orontea&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
 curl -o lat-tufts-perfundere.json "https://morph.alpheios.net/api/v1/analysis/word?word=perfundere&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
 curl -o lat-tufts-male.json "https://morph.alpheios.net/api/v1/analysis/word?word=male&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+
+
+curl -o grc-tufts-klops.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BA%CE%BB%CF%8E%CF%88&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-klope.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BA%CE%BB%E1%BF%B6%CF%80%CE%B5&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-fylakon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%86%CF%85%CE%BB%CE%AC%CE%BA%CF%89%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-fylax.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%86%CF%8D%CE%BB%CE%B1%CE%BE&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+
+
+
