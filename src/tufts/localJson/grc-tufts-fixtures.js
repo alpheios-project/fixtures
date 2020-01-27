@@ -189,6 +189,13 @@ import GrcTuftsThygateroin from '@/tufts/localJson/grc/grc-tufts-thygateroin.jso
 import GrcTuftsAndri from '@/tufts/localJson/grc/grc-tufts-andri.json'
 import GrcTuftsAndron from '@/tufts/localJson/grc/grc-tufts-andron.json'
 
+import GrcTuftsTriirous from '@/tufts/localJson/grc/grc-tufts-triirous.json'
+import GrcTuftsTriireis from '@/tufts/localJson/grc/grc-tufts-triireis.json'
+import GrcTuftsGenei from '@/tufts/localJson/grc/grc-tufts-genei.json'
+import GrcTuftsGeni from '@/tufts/localJson/grc/grc-tufts-geni.json'
+import GrcTuftsGera from '@/tufts/localJson/grc/grc-tufts-gera.json'
+import GrcTuftsGeron from '@/tufts/localJson/grc/grc-tufts-geron.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -369,7 +376,14 @@ export default class GrcTuftsFixture {
       'θυγατέρᾰ': GrcTuftsThygatera,
       'θυγατέροιν': GrcTuftsThygateroin,
       'ἀνδρί': GrcTuftsAndri,
-      'ἀνδρῶν': GrcTuftsAndron
+      'ἀνδρῶν': GrcTuftsAndron,
+
+      'τριήρους': GrcTuftsTriirous,
+      'τριήρεις': GrcTuftsTriireis,
+      'γένει': GrcTuftsGenei,
+      'γένη': GrcTuftsGeni,
+      'γέρᾱ': GrcTuftsGera,
+      'γερῶν': GrcTuftsGeron
     }
   }
 }

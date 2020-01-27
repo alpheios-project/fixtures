@@ -364,4 +364,10 @@ curl -o grc-tufts-thygateroin.json "https://morph.alpheios.net/api/v1/analysis/w
 curl -o grc-tufts-andri.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%BD%CE%B4%CF%81%CE%AF&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 curl -o grc-tufts-andron.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%BD%CE%B4%CF%81%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o grc-tufts-triirous.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%84%CF%81%CE%B9%CE%AE%CF%81%CE%BF%CF%85%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-triireis.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%84%CF%81%CE%B9%CE%AE%CF%81%CE%B5%CE%B9%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-genei.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CE%AD%CE%BD%CE%B5%CE%B9&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-geni.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CE%AD%CE%BD%CE%B7&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-gera.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CE%AD%CF%81%E1%BE%B1&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-geron.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CE%B5%CF%81%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
