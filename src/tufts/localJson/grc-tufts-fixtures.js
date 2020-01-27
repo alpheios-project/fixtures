@@ -166,6 +166,10 @@ import GrcTuftsGiganton from '@/tufts/localJson/grc/grc-tufts-giganton.json'
 import GrcTuftsOdontoin from '@/tufts/localJson/grc/grc-tufts-odontoin.json'
 import GrcTuftsOdontos from '@/tufts/localJson/grc/grc-tufts-odontos.json'
 
+import GrcTuftsPragmatos from '@/tufts/localJson/grc/grc-tufts-pragmatos.json'
+import GrcTuftsPragmatoin from '@/tufts/localJson/grc/grc-tufts-pragmatoin.json'
+import GrcTuftsTerati from '@/tufts/localJson/grc/grc-tufts-terati.json'
+import GrcTuftsTeraton from '@/tufts/localJson/grc/grc-tufts-teraton.json'
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -322,7 +326,12 @@ export default class GrcTuftsFixture {
       'γίγαντᾰ': GrcTuftsGiganta,
       'γιγάντων': GrcTuftsGiganton,
       'ὀδόντοιν': GrcTuftsOdontoin,
-      'ὀδόντος': GrcTuftsOdontos
+      'ὀδόντος': GrcTuftsOdontos,
+
+      'πράγματος': GrcTuftsPragmatos,
+      'πραγμάτοιν': GrcTuftsPragmatoin,
+      'τέρατι': GrcTuftsTerati,
+      'τεράτων': GrcTuftsTeraton
     }
   }
 }

@@ -339,4 +339,9 @@ curl -o grc-tufts-giganton.json "https://morph.alpheios.net/api/v1/analysis/word
 curl -o grc-tufts-odontoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BD%80%CE%B4%CF%8C%CE%BD%CF%84%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 curl -o grc-tufts-odontos.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BD%80%CE%B4%CF%8C%CE%BD%CF%84%CE%BF%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o grc-tufts-pragmatos.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CF%81%CE%AC%CE%B3%CE%BC%CE%B1%CF%84%CE%BF%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-pragmatoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CF%81%CE%B1%CE%B3%CE%BC%CE%AC%CF%84%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-terati.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%84%CE%AD%CF%81%CE%B1%CF%84%CE%B9&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-teraton.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%84%CE%B5%CF%81%CE%AC%CF%84%CF%89%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
 
