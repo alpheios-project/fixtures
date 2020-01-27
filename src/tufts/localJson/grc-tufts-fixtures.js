@@ -180,6 +180,15 @@ import GrcTuftsAgonon from '@/tufts/localJson/grc/grc-tufts-agonon.json'
 import GrcTuftsAli from '@/tufts/localJson/grc/grc-tufts-ali.json'
 import GrcTuftsAloin from '@/tufts/localJson/grc/grc-tufts-aloin.json'
 
+import GrcTuftsPatri from '@/tufts/localJson/grc/grc-tufts-patri.json'
+import GrcTuftsPateroin from '@/tufts/localJson/grc/grc-tufts-pateroin.json'
+import GrcTuftsMitera from '@/tufts/localJson/grc/grc-tufts-mitera.json'
+import GrcTuftsMiteron from '@/tufts/localJson/grc/grc-tufts-miteron.json'
+import GrcTuftsThygatera from '@/tufts/localJson/grc/grc-tufts-thygatera.json'
+import GrcTuftsThygateroin from '@/tufts/localJson/grc/grc-tufts-thygateroin.json'
+import GrcTuftsAndri from '@/tufts/localJson/grc/grc-tufts-andri.json'
+import GrcTuftsAndron from '@/tufts/localJson/grc/grc-tufts-andron.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -351,7 +360,16 @@ export default class GrcTuftsFixture {
       'ἀγῶνᾰ': GrcTuftsAgona,
       'ἀγώνων': GrcTuftsAgonon,
       'ἁλί': GrcTuftsAli,
-      'ἁλοῖν': GrcTuftsAloin
+      'ἁλοῖν': GrcTuftsAloin,
+
+      'πατρί': GrcTuftsPatri,
+      'πατέροιν': GrcTuftsPateroin,
+      'μητέρᾰ': GrcTuftsMitera,
+      'μητέρων': GrcTuftsMiteron,
+      'θυγατέρᾰ': GrcTuftsThygatera,
+      'θυγατέροιν': GrcTuftsThygateroin,
+      'ἀνδρί': GrcTuftsAndri,
+      'ἀνδρῶν': GrcTuftsAndron
     }
   }
 }
