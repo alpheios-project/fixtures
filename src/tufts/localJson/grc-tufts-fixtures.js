@@ -151,6 +151,22 @@ import GrcTuftsFylakon from '@/tufts/localJson/grc/grc-tufts-fylakon.json'
 import GrcTuftsFylax from '@/tufts/localJson/grc/grc-tufts-fylax.json'
 
 
+import GrcTuftsCharis from '@/tufts/localJson/grc/grc-tufts-charis.json'
+import GrcTuftsCharites from '@/tufts/localJson/grc/grc-tufts-charites.json'
+import GrcTuftsAspidoin from '@/tufts/localJson/grc/grc-tufts-aspidoin.json'
+import GrcTuftsAspidas from '@/tufts/localJson/grc/grc-tufts-aspidas.json'
+import GrcTuftsEllada from '@/tufts/localJson/grc/grc-tufts-ellada.json'
+import GrcTuftsElladoin from '@/tufts/localJson/grc/grc-tufts-elladoin.json'
+
+
+import GrcTuftsGerontos from '@/tufts/localJson/grc/grc-tufts-gerontos.json'
+import GrcTuftsGeronton from '@/tufts/localJson/grc/grc-tufts-geronton.json'
+import GrcTuftsGiganta from '@/tufts/localJson/grc/grc-tufts-giganta.json'
+import GrcTuftsGiganton from '@/tufts/localJson/grc/grc-tufts-giganton.json'
+import GrcTuftsOdontoin from '@/tufts/localJson/grc/grc-tufts-odontoin.json'
+import GrcTuftsOdontos from '@/tufts/localJson/grc/grc-tufts-odontos.json'
+
+
 export default class GrcTuftsFixture {
   static get library () {
     return {
@@ -292,7 +308,21 @@ export default class GrcTuftsFixture {
       'κλώψ': GrcTuftsKlops,
       'κλῶπε': GrcTuftsKlope,
       'φυλάκων': GrcTuftsFylakon,
-      'φύλαξ': GrcTuftsFylax
+      'φύλαξ': GrcTuftsFylax,
+
+      'χάρις': GrcTuftsCharis,
+      'χάριτες': GrcTuftsCharites,
+      'ἀσπίδοιν': GrcTuftsAspidoin,
+      'ἀσπίδᾰς': GrcTuftsAspidas,
+      'Ἑλλάδᾰ': GrcTuftsEllada,
+      'Ἑλλάδοιν': GrcTuftsElladoin,
+
+      'γέροντος': GrcTuftsGerontos,
+      'γερόντων': GrcTuftsGeronton,
+      'γίγαντᾰ': GrcTuftsGiganta,
+      'γιγάντων': GrcTuftsGiganton,
+      'ὀδόντοιν': GrcTuftsOdontoin,
+      'ὀδόντος': GrcTuftsOdontos
     }
   }
 }
