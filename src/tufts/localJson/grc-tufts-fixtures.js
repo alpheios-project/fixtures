@@ -145,6 +145,59 @@ import GrcTuftsStratiotais from '@/tufts/localJson/grc/grc-tufts-stratiotais.jso
 
 import GrcTuftsXiri from '@/tufts/localJson/grc/grc-tufts-xiri.json'
 
+import GrcTuftsKlops from '@/tufts/localJson/grc/grc-tufts-klops.json'
+import GrcTuftsKlope from '@/tufts/localJson/grc/grc-tufts-klope.json'
+import GrcTuftsFylakon from '@/tufts/localJson/grc/grc-tufts-fylakon.json'
+import GrcTuftsFylax from '@/tufts/localJson/grc/grc-tufts-fylax.json'
+
+
+import GrcTuftsCharis from '@/tufts/localJson/grc/grc-tufts-charis.json'
+import GrcTuftsCharites from '@/tufts/localJson/grc/grc-tufts-charites.json'
+import GrcTuftsAspidoin from '@/tufts/localJson/grc/grc-tufts-aspidoin.json'
+import GrcTuftsAspidas from '@/tufts/localJson/grc/grc-tufts-aspidas.json'
+import GrcTuftsEllada from '@/tufts/localJson/grc/grc-tufts-ellada.json'
+import GrcTuftsElladoin from '@/tufts/localJson/grc/grc-tufts-elladoin.json'
+
+
+import GrcTuftsGerontos from '@/tufts/localJson/grc/grc-tufts-gerontos.json'
+import GrcTuftsGeronton from '@/tufts/localJson/grc/grc-tufts-geronton.json'
+import GrcTuftsGiganta from '@/tufts/localJson/grc/grc-tufts-giganta.json'
+import GrcTuftsGiganton from '@/tufts/localJson/grc/grc-tufts-giganton.json'
+import GrcTuftsOdontoin from '@/tufts/localJson/grc/grc-tufts-odontoin.json'
+import GrcTuftsOdontos from '@/tufts/localJson/grc/grc-tufts-odontos.json'
+
+import GrcTuftsPragmatos from '@/tufts/localJson/grc/grc-tufts-pragmatos.json'
+import GrcTuftsPragmatoin from '@/tufts/localJson/grc/grc-tufts-pragmatoin.json'
+import GrcTuftsTerati from '@/tufts/localJson/grc/grc-tufts-terati.json'
+import GrcTuftsTeraton from '@/tufts/localJson/grc/grc-tufts-teraton.json'
+
+import GrcTuftsRitoros from '@/tufts/localJson/grc/grc-tufts-ritoros.json'
+import GrcTuftsRitores from '@/tufts/localJson/grc/grc-tufts-ritores.json'
+import GrcTuftsDaimon from '@/tufts/localJson/grc/grc-tufts-daimon.json'
+import GrcTuftsDaimonas from '@/tufts/localJson/grc/grc-tufts-daimonas.json'
+import GrcTuftsAgona from '@/tufts/localJson/grc/grc-tufts-agona.json'
+import GrcTuftsAgonon from '@/tufts/localJson/grc/grc-tufts-agonon.json'
+import GrcTuftsAli from '@/tufts/localJson/grc/grc-tufts-ali.json'
+import GrcTuftsAloin from '@/tufts/localJson/grc/grc-tufts-aloin.json'
+
+import GrcTuftsPatri from '@/tufts/localJson/grc/grc-tufts-patri.json'
+import GrcTuftsPateroin from '@/tufts/localJson/grc/grc-tufts-pateroin.json'
+import GrcTuftsMitera from '@/tufts/localJson/grc/grc-tufts-mitera.json'
+import GrcTuftsMiteron from '@/tufts/localJson/grc/grc-tufts-miteron.json'
+import GrcTuftsThygatera from '@/tufts/localJson/grc/grc-tufts-thygatera.json'
+import GrcTuftsThygateroin from '@/tufts/localJson/grc/grc-tufts-thygateroin.json'
+import GrcTuftsAndri from '@/tufts/localJson/grc/grc-tufts-andri.json'
+import GrcTuftsAndron from '@/tufts/localJson/grc/grc-tufts-andron.json'
+
+import GrcTuftsTriirous from '@/tufts/localJson/grc/grc-tufts-triirous.json'
+import GrcTuftsTriireis from '@/tufts/localJson/grc/grc-tufts-triireis.json'
+import GrcTuftsGenei from '@/tufts/localJson/grc/grc-tufts-genei.json'
+import GrcTuftsGeni from '@/tufts/localJson/grc/grc-tufts-geni.json'
+import GrcTuftsGera from '@/tufts/localJson/grc/grc-tufts-gera.json'
+import GrcTuftsGeron from '@/tufts/localJson/grc/grc-tufts-geron.json'
+
+
+
 export default class GrcTuftsFixture {
   static get library () {
     return {
@@ -281,7 +334,56 @@ export default class GrcTuftsFixture {
       'στρατιώτην': GrcTuftsStratiotin,
       'στρατιώταις': GrcTuftsStratiotais,
       
-      'ξηρή': GrcTuftsXiri
+      'ξηρή': GrcTuftsXiri,
+
+      'κλώψ': GrcTuftsKlops,
+      'κλῶπε': GrcTuftsKlope,
+      'φυλάκων': GrcTuftsFylakon,
+      'φύλαξ': GrcTuftsFylax,
+
+      'χάρις': GrcTuftsCharis,
+      'χάριτες': GrcTuftsCharites,
+      'ἀσπίδοιν': GrcTuftsAspidoin,
+      'ἀσπίδᾰς': GrcTuftsAspidas,
+      'Ἑλλάδᾰ': GrcTuftsEllada,
+      'Ἑλλάδοιν': GrcTuftsElladoin,
+
+      'γέροντος': GrcTuftsGerontos,
+      'γερόντων': GrcTuftsGeronton,
+      'γίγαντᾰ': GrcTuftsGiganta,
+      'γιγάντων': GrcTuftsGiganton,
+      'ὀδόντοιν': GrcTuftsOdontoin,
+      'ὀδόντος': GrcTuftsOdontos,
+
+      'πράγματος': GrcTuftsPragmatos,
+      'πραγμάτοιν': GrcTuftsPragmatoin,
+      'τέρατι': GrcTuftsTerati,
+      'τεράτων': GrcTuftsTeraton,
+
+      'ῥήτορος': GrcTuftsRitoros,
+      'ῥήτορες': GrcTuftsRitores,
+      'δαῖμον': GrcTuftsDaimon,
+      'δαίμονᾰς': GrcTuftsDaimonas,
+      'ἀγῶνᾰ': GrcTuftsAgona,
+      'ἀγώνων': GrcTuftsAgonon,
+      'ἁλί': GrcTuftsAli,
+      'ἁλοῖν': GrcTuftsAloin,
+
+      'πατρί': GrcTuftsPatri,
+      'πατέροιν': GrcTuftsPateroin,
+      'μητέρᾰ': GrcTuftsMitera,
+      'μητέρων': GrcTuftsMiteron,
+      'θυγατέρᾰ': GrcTuftsThygatera,
+      'θυγατέροιν': GrcTuftsThygateroin,
+      'ἀνδρί': GrcTuftsAndri,
+      'ἀνδρῶν': GrcTuftsAndron,
+
+      'τριήρους': GrcTuftsTriirous,
+      'τριήρεις': GrcTuftsTriireis,
+      'γένει': GrcTuftsGenei,
+      'γένη': GrcTuftsGeni,
+      'γέρᾱ': GrcTuftsGera,
+      'γερῶν': GrcTuftsGeron
     }
   }
 }
