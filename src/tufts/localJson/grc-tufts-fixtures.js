@@ -204,6 +204,16 @@ import GrcTuftsYeos from '@/tufts/localJson/grc/grc-tufts-yeos.json'
 import GrcTuftsYieos from '@/tufts/localJson/grc/grc-tufts-yieos.json'
 import GrcTuftsYioin from '@/tufts/localJson/grc/grc-tufts-yioin.json'
 
+import GrcTuftsPoleos from '@/tufts/localJson/grc/grc-tufts-poleos.json'
+import GrcTuftsPoleoin from '@/tufts/localJson/grc/grc-tufts-poleoin.json'
+import GrcTuftsPichyn from '@/tufts/localJson/grc/grc-tufts-pichyn.json'
+import GrcTuftsPicheon from '@/tufts/localJson/grc/grc-tufts-picheon.json'
+import GrcTuftsAstei from '@/tufts/localJson/grc/grc-tufts-astei.json'
+import GrcTuftsAsteon from '@/tufts/localJson/grc/grc-tufts-asteon.json'
+import GrcTuftsIchthyos from '@/tufts/localJson/grc/grc-tufts-ichthyos.json'
+import GrcTuftsIchthyes from '@/tufts/localJson/grc/grc-tufts-ichthyes.json'
+
+
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -398,7 +408,16 @@ export default class GrcTuftsFixture {
       'χεῖρᾰς': GrcTuftsCheiras,
       'ὑέος': GrcTuftsYeos,
       'υἱέος': GrcTuftsYieos,
-      'υἱοῖν': GrcTuftsYioin
+      'υἱοῖν': GrcTuftsYioin,
+
+      'πόλεως': GrcTuftsPoleos,
+      'πολέοιν': GrcTuftsPoleoin,
+      'πῆχυν': GrcTuftsPichyn,
+      'πήχεων': GrcTuftsPicheon,
+      'ἄστει': GrcTuftsAstei,
+      'ἄστεων': GrcTuftsAsteon,
+      'ἰχθύος': GrcTuftsIchthyos,
+      'ἰχθύες': GrcTuftsIchthyes
     }
   }
 }

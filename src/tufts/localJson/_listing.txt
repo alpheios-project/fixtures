@@ -380,4 +380,13 @@ curl -o grc-tufts-yieos.json "https://morph.alpheios.net/api/v1/analysis/word?wo
 curl -o grc-tufts-yioin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%85%E1%BC%B1%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
 
+curl -o grc-tufts-poleos.json ""
+curl -o grc-tufts-poleoin.json ""
+curl -o grc-tufts-pichyn.json ""
+curl -o grc-tufts-picheon.json ""
+curl -o grc-tufts-astei.json ""
+curl -o grc-tufts-asteon.json ""
+curl -o grc-tufts-ichthyos.json ""
+curl -o grc-tufts-ichthyes.json ""
+
 
