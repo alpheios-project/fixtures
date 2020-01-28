@@ -222,6 +222,11 @@ import GrcTuftsNeon from '@/tufts/localJson/grc/grc-tufts-neon.json'
 import GrcTuftsVoun from '@/tufts/localJson/grc/grc-tufts-voun.json'
 import GrcTuftsVoon from '@/tufts/localJson/grc/grc-tufts-voon.json'
 
+import GrcTuftsNou from '@/tufts/localJson/grc/grc-tufts-nou.json'
+import GrcTuftsNoin from '@/tufts/localJson/grc/grc-tufts-noin.json'
+import GrcTuftsKanou from '@/tufts/localJson/grc/grc-tufts-kanou.json'
+import GrcTuftsKanoin from '@/tufts/localJson/grc/grc-tufts-kanoin.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -435,7 +440,12 @@ export default class GrcTuftsFixture {
       'ναῦν': GrcTuftsNavn,
       'νεῶν': GrcTuftsNeon,
       'βοῦν': GrcTuftsVoun,
-      'βοῶν': GrcTuftsVoon
+      'βοῶν': GrcTuftsVoon,
+
+      'νοῦ': GrcTuftsNou,
+      'νοῖν': GrcTuftsNoin,
+      'κανοῦ': GrcTuftsKanou,
+      'κανοῖν': GrcTuftsKanoin
     }
   }
 }
