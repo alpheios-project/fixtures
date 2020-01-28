@@ -196,6 +196,13 @@ import GrcTuftsGeni from '@/tufts/localJson/grc/grc-tufts-geni.json'
 import GrcTuftsGera from '@/tufts/localJson/grc/grc-tufts-gera.json'
 import GrcTuftsGeron from '@/tufts/localJson/grc/grc-tufts-geron.json'
 
+import GrcTuftsGynaiki from '@/tufts/localJson/grc/grc-tufts-gynaiki.json'
+import GrcTuftsGynaikas from '@/tufts/localJson/grc/grc-tufts-gynaikas.json'
+import GrcTuftsCheire from '@/tufts/localJson/grc/grc-tufts-cheire.json'
+import GrcTuftsCheiras from '@/tufts/localJson/grc/grc-tufts-cheiras.json'
+import GrcTuftsYeos from '@/tufts/localJson/grc/grc-tufts-yeos.json'
+import GrcTuftsYieos from '@/tufts/localJson/grc/grc-tufts-yieos.json'
+import GrcTuftsYioin from '@/tufts/localJson/grc/grc-tufts-yioin.json'
 
 
 export default class GrcTuftsFixture {
@@ -383,7 +390,15 @@ export default class GrcTuftsFixture {
       'γένει': GrcTuftsGenei,
       'γένη': GrcTuftsGeni,
       'γέρᾱ': GrcTuftsGera,
-      'γερῶν': GrcTuftsGeron
+      'γερῶν': GrcTuftsGeron,
+
+      'γυναικί': GrcTuftsGynaiki,
+      'γυναῖκας': GrcTuftsGynaikas,
+      'χεῖρε': GrcTuftsCheire,
+      'χεῖρᾰς': GrcTuftsCheiras,
+      'ὑέος': GrcTuftsYeos,
+      'υἱέος': GrcTuftsYieos,
+      'υἱοῖν': GrcTuftsYioin
     }
   }
 }
