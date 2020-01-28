@@ -227,6 +227,16 @@ import GrcTuftsNoin from '@/tufts/localJson/grc/grc-tufts-noin.json'
 import GrcTuftsKanou from '@/tufts/localJson/grc/grc-tufts-kanou.json'
 import GrcTuftsKanoin from '@/tufts/localJson/grc/grc-tufts-kanoin.json'
 
+import GrcTuftsGis from '@/tufts/localJson/grc/grc-tufts-gis.json'
+import GrcTuftsGin from '@/tufts/localJson/grc/grc-tufts-gin.json'
+import GrcTuftsSykis from '@/tufts/localJson/grc/grc-tufts-sykis.json'
+import GrcTuftsSykai from '@/tufts/localJson/grc/grc-tufts-sykai.json'
+import GrcTuftsMnas from '@/tufts/localJson/grc/grc-tufts-mnas.json'
+import GrcTuftsMnais from '@/tufts/localJson/grc/grc-tufts-mnais.json'
+import GrcTuftsErmin from '@/tufts/localJson/grc/grc-tufts-ermin.json'
+import GrcTuftsErmas from '@/tufts/localJson/grc/grc-tufts-ermas.json'
+
+
 
 
 export default class GrcTuftsFixture {
@@ -445,7 +455,16 @@ export default class GrcTuftsFixture {
       'νοῦ': GrcTuftsNou,
       'νοῖν': GrcTuftsNoin,
       'κανοῦ': GrcTuftsKanou,
-      'κανοῖν': GrcTuftsKanoin
+      'κανοῖν': GrcTuftsKanoin,
+
+      'γῆς': GrcTuftsGis,
+      'γῆν': GrcTuftsGin,
+      'συκῆς': GrcTuftsSykis,
+      'συκαῖ': GrcTuftsSykai,
+      'μνᾶς': GrcTuftsMnas,
+      'μναῖς': GrcTuftsMnais,
+      'Ἑρμῆν': GrcTuftsErmin,
+      'Ἑρμᾶς': GrcTuftsErmas
     }
   }
 }
