@@ -196,6 +196,47 @@ import GrcTuftsGeni from '@/tufts/localJson/grc/grc-tufts-geni.json'
 import GrcTuftsGera from '@/tufts/localJson/grc/grc-tufts-gera.json'
 import GrcTuftsGeron from '@/tufts/localJson/grc/grc-tufts-geron.json'
 
+import GrcTuftsGynaiki from '@/tufts/localJson/grc/grc-tufts-gynaiki.json'
+import GrcTuftsGynaikas from '@/tufts/localJson/grc/grc-tufts-gynaikas.json'
+import GrcTuftsCheire from '@/tufts/localJson/grc/grc-tufts-cheire.json'
+import GrcTuftsCheiras from '@/tufts/localJson/grc/grc-tufts-cheiras.json'
+import GrcTuftsYeos from '@/tufts/localJson/grc/grc-tufts-yeos.json'
+import GrcTuftsYieos from '@/tufts/localJson/grc/grc-tufts-yieos.json'
+import GrcTuftsYioin from '@/tufts/localJson/grc/grc-tufts-yioin.json'
+
+import GrcTuftsPoleos from '@/tufts/localJson/grc/grc-tufts-poleos.json'
+import GrcTuftsPoleoin from '@/tufts/localJson/grc/grc-tufts-poleoin.json'
+import GrcTuftsPichyn from '@/tufts/localJson/grc/grc-tufts-pichyn.json'
+import GrcTuftsPicheon from '@/tufts/localJson/grc/grc-tufts-picheon.json'
+import GrcTuftsAstei from '@/tufts/localJson/grc/grc-tufts-astei.json'
+import GrcTuftsAsteon from '@/tufts/localJson/grc/grc-tufts-asteon.json'
+import GrcTuftsIchthyos from '@/tufts/localJson/grc/grc-tufts-ichthyos.json'
+import GrcTuftsIchthyes from '@/tufts/localJson/grc/grc-tufts-ichthyes.json'
+
+import GrcTuftsIppeos from '@/tufts/localJson/grc/grc-tufts-ippeos.json'
+import GrcTuftsIppeoin from '@/tufts/localJson/grc/grc-tufts-ippeoin.json'
+import GrcTuftsGravn from '@/tufts/localJson/grc/grc-tufts-gravn.json'
+import GrcTuftsGraoin from '@/tufts/localJson/grc/grc-tufts-graoin.json'
+import GrcTuftsNavn from '@/tufts/localJson/grc/grc-tufts-navn.json'
+import GrcTuftsNeon from '@/tufts/localJson/grc/grc-tufts-neon.json'
+import GrcTuftsVoun from '@/tufts/localJson/grc/grc-tufts-voun.json'
+import GrcTuftsVoon from '@/tufts/localJson/grc/grc-tufts-voon.json'
+
+import GrcTuftsNou from '@/tufts/localJson/grc/grc-tufts-nou.json'
+import GrcTuftsNoin from '@/tufts/localJson/grc/grc-tufts-noin.json'
+import GrcTuftsKanou from '@/tufts/localJson/grc/grc-tufts-kanou.json'
+import GrcTuftsKanoin from '@/tufts/localJson/grc/grc-tufts-kanoin.json'
+
+import GrcTuftsGis from '@/tufts/localJson/grc/grc-tufts-gis.json'
+import GrcTuftsGin from '@/tufts/localJson/grc/grc-tufts-gin.json'
+import GrcTuftsSykis from '@/tufts/localJson/grc/grc-tufts-sykis.json'
+import GrcTuftsSykai from '@/tufts/localJson/grc/grc-tufts-sykai.json'
+import GrcTuftsMnas from '@/tufts/localJson/grc/grc-tufts-mnas.json'
+import GrcTuftsMnais from '@/tufts/localJson/grc/grc-tufts-mnais.json'
+import GrcTuftsErmin from '@/tufts/localJson/grc/grc-tufts-ermin.json'
+import GrcTuftsErmas from '@/tufts/localJson/grc/grc-tufts-ermas.json'
+
+
 
 
 export default class GrcTuftsFixture {
@@ -383,7 +424,47 @@ export default class GrcTuftsFixture {
       'γένει': GrcTuftsGenei,
       'γένη': GrcTuftsGeni,
       'γέρᾱ': GrcTuftsGera,
-      'γερῶν': GrcTuftsGeron
+      'γερῶν': GrcTuftsGeron,
+
+      'γυναικί': GrcTuftsGynaiki,
+      'γυναῖκας': GrcTuftsGynaikas,
+      'χεῖρε': GrcTuftsCheire,
+      'χεῖρᾰς': GrcTuftsCheiras,
+      'ὑέος': GrcTuftsYeos,
+      'υἱέος': GrcTuftsYieos,
+      'υἱοῖν': GrcTuftsYioin,
+
+      'πόλεως': GrcTuftsPoleos,
+      'πολέοιν': GrcTuftsPoleoin,
+      'πῆχυν': GrcTuftsPichyn,
+      'πήχεων': GrcTuftsPicheon,
+      'ἄστει': GrcTuftsAstei,
+      'ἄστεων': GrcTuftsAsteon,
+      'ἰχθύος': GrcTuftsIchthyos,
+      'ἰχθύες': GrcTuftsIchthyes,
+
+      'ἱππέως': GrcTuftsIppeos,
+      'ἱππέοιν': GrcTuftsIppeoin,
+      'γραῦν': GrcTuftsGravn,
+      'γρᾱοῖν': GrcTuftsGraoin,
+      'ναῦν': GrcTuftsNavn,
+      'νεῶν': GrcTuftsNeon,
+      'βοῦν': GrcTuftsVoun,
+      'βοῶν': GrcTuftsVoon,
+
+      'νοῦ': GrcTuftsNou,
+      'νοῖν': GrcTuftsNoin,
+      'κανοῦ': GrcTuftsKanou,
+      'κανοῖν': GrcTuftsKanoin,
+
+      'γῆς': GrcTuftsGis,
+      'γῆν': GrcTuftsGin,
+      'συκῆς': GrcTuftsSykis,
+      'συκαῖ': GrcTuftsSykai,
+      'μνᾶς': GrcTuftsMnas,
+      'μναῖς': GrcTuftsMnais,
+      'Ἑρμῆν': GrcTuftsErmin,
+      'Ἑρμᾶς': GrcTuftsErmas
     }
   }
 }
