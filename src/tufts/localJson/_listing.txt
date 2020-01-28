@@ -400,3 +400,18 @@ curl -o grc-tufts-voun.json "https://morph.alpheios.net/api/v1/analysis/word?wor
 curl -o grc-tufts-voon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B2%CE%BF%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
 
+curl -o grc-tufts-nou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BD%CE%BF%E1%BF%A6&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-noin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BD%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-kanou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BA%CE%B1%CE%BD%CE%BF%E1%BF%A6&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-kanoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BA%CE%B1%CE%BD%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+curl -o grc-tufts-gis.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%E1%BF%86%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-gin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%E1%BF%86%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-sykis.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%83%CF%85%CE%BA%E1%BF%86%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-sykai.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%83%CF%85%CE%BA%CE%B1%E1%BF%96&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-mnas.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BC%CE%BD%E1%BE%B6%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-mnais.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BC%CE%BD%CE%B1%E1%BF%96%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-ermin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%99%CF%81%CE%BC%E1%BF%86%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-ermas.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%99%CF%81%CE%BC%E1%BE%B6%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+
