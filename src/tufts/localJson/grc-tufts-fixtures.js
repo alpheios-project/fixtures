@@ -213,6 +213,15 @@ import GrcTuftsAsteon from '@/tufts/localJson/grc/grc-tufts-asteon.json'
 import GrcTuftsIchthyos from '@/tufts/localJson/grc/grc-tufts-ichthyos.json'
 import GrcTuftsIchthyes from '@/tufts/localJson/grc/grc-tufts-ichthyes.json'
 
+import GrcTuftsIppeos from '@/tufts/localJson/grc/grc-tufts-ippeos.json'
+import GrcTuftsIppeoin from '@/tufts/localJson/grc/grc-tufts-ippeoin.json'
+import GrcTuftsGravn from '@/tufts/localJson/grc/grc-tufts-gravn.json'
+import GrcTuftsGraoin from '@/tufts/localJson/grc/grc-tufts-graoin.json'
+import GrcTuftsNavn from '@/tufts/localJson/grc/grc-tufts-navn.json'
+import GrcTuftsNeon from '@/tufts/localJson/grc/grc-tufts-neon.json'
+import GrcTuftsVoun from '@/tufts/localJson/grc/grc-tufts-voun.json'
+import GrcTuftsVoon from '@/tufts/localJson/grc/grc-tufts-voon.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -417,7 +426,16 @@ export default class GrcTuftsFixture {
       'ἄστει': GrcTuftsAstei,
       'ἄστεων': GrcTuftsAsteon,
       'ἰχθύος': GrcTuftsIchthyos,
-      'ἰχθύες': GrcTuftsIchthyes
+      'ἰχθύες': GrcTuftsIchthyes,
+
+      'ἱππέως': GrcTuftsIppeos,
+      'ἱππέοιν': GrcTuftsIppeoin,
+      'γραῦν': GrcTuftsGravn,
+      'γρᾱοῖν': GrcTuftsGraoin,
+      'ναῦν': GrcTuftsNavn,
+      'νεῶν': GrcTuftsNeon,
+      'βοῦν': GrcTuftsVoun,
+      'βοῶν': GrcTuftsVoon
     }
   }
 }

@@ -380,13 +380,23 @@ curl -o grc-tufts-yieos.json "https://morph.alpheios.net/api/v1/analysis/word?wo
 curl -o grc-tufts-yioin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%85%E1%BC%B1%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
 
-curl -o grc-tufts-poleos.json ""
-curl -o grc-tufts-poleoin.json ""
-curl -o grc-tufts-pichyn.json ""
-curl -o grc-tufts-picheon.json ""
-curl -o grc-tufts-astei.json ""
-curl -o grc-tufts-asteon.json ""
-curl -o grc-tufts-ichthyos.json ""
-curl -o grc-tufts-ichthyes.json ""
+curl -o grc-tufts-poleos.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CF%8C%CE%BB%CE%B5%CF%89%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-poleoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CE%BF%CE%BB%CE%AD%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-pichyn.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%E1%BF%86%CF%87%CF%85%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-picheon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%80%CE%AE%CF%87%CE%B5%CF%89%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-astei.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%84%CF%83%CF%84%CE%B5%CE%B9&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-asteon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%84%CF%83%CF%84%CE%B5%CF%89%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-ichthyos.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%B0%CF%87%CE%B8%CF%8D%CE%BF%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-ichthyes.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%B0%CF%87%CE%B8%CF%8D%CE%B5%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+
+curl -o grc-tufts-ippeos.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%B1%CF%80%CF%80%CE%AD%CF%89%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-ippeoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%B1%CF%80%CF%80%CE%AD%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-gravn.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CF%81%CE%B1%E1%BF%A6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-graoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B3%CF%81%E1%BE%B1%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-navn.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BD%CE%B1%E1%BF%A6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-neon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%BD%CE%B5%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-voun.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B2%CE%BF%E1%BF%A6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-voon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CE%B2%CE%BF%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
 
