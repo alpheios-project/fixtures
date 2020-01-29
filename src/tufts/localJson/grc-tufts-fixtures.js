@@ -237,6 +237,21 @@ import GrcTuftsErmin from '@/tufts/localJson/grc/grc-tufts-ermin.json'
 import GrcTuftsErmas from '@/tufts/localJson/grc/grc-tufts-ermas.json'
 
 
+import GrcTuftsNeo from '@/tufts/localJson/grc/grc-tufts-neo.json'
+import GrcTuftsNeos from '@/tufts/localJson/grc/grc-tufts-neos.json'
+import GrcTuftsLeon from '@/tufts/localJson/grc/grc-tufts-leon.json'
+import GrcTuftsLeos from '@/tufts/localJson/grc/grc-tufts-leos.json'
+import GrcTuftsLago from '@/tufts/localJson/grc/grc-tufts-lago.json'
+import GrcTuftsLagos from '@/tufts/localJson/grc/grc-tufts-lagos.json'
+
+import GrcTuftsEos from '@/tufts/localJson/grc/grc-tufts-eos.json'
+import GrcTuftsEo from '@/tufts/localJson/grc/grc-tufts-eo.json'
+
+import GrcTuftsAidous from '@/tufts/localJson/grc/grc-tufts-aidous.json'
+import GrcTuftsAidos from '@/tufts/localJson/grc/grc-tufts-aidos.json'
+import GrcTuftsIroa from '@/tufts/localJson/grc/grc-tufts-iroa.json'
+import GrcTuftsIroon from '@/tufts/localJson/grc/grc-tufts-iroon.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -464,7 +479,22 @@ export default class GrcTuftsFixture {
       'μνᾶς': GrcTuftsMnas,
       'μναῖς': GrcTuftsMnais,
       'Ἑρμῆν': GrcTuftsErmin,
-      'Ἑρμᾶς': GrcTuftsErmas
+      'Ἑρμᾶς': GrcTuftsErmas,
+
+      'νεώ': GrcTuftsNeo,
+      'νεῴς': GrcTuftsNeos,
+      'λεών': GrcTuftsLeon,
+      'λεώς': GrcTuftsLeos,
+      'λαγώ': GrcTuftsLago,
+      'λαγώς': GrcTuftsLagos,
+
+      'ἕως': GrcTuftsEos,
+      'ἕω': GrcTuftsEo,
+
+      'αἰδοῦς': GrcTuftsAidous,
+      'αἰδώς': GrcTuftsAidos,
+      'ἥρωᾰ': GrcTuftsIroa,
+      'ἡρώων': GrcTuftsIroon
     }
   }
 }
