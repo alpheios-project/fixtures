@@ -247,6 +247,12 @@ import GrcTuftsLagos from '@/tufts/localJson/grc/grc-tufts-lagos.json'
 import GrcTuftsEos from '@/tufts/localJson/grc/grc-tufts-eos.json'
 import GrcTuftsEo from '@/tufts/localJson/grc/grc-tufts-eo.json'
 
+import GrcTuftsAidous from '@/tufts/localJson/grc/grc-tufts-aidous.json'
+import GrcTuftsAidos from '@/tufts/localJson/grc/grc-tufts-aidos.json'
+import GrcTuftsIroa from '@/tufts/localJson/grc/grc-tufts-iroa.json'
+import GrcTuftsIroon from '@/tufts/localJson/grc/grc-tufts-iroon.json'
+
+
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -483,7 +489,12 @@ export default class GrcTuftsFixture {
       'λαγώς': GrcTuftsLagos,
 
       'ἕως': GrcTuftsEos,
-      'ἕω': GrcTuftsEo
+      'ἕω': GrcTuftsEo,
+
+      'αἰδοῦς': GrcTuftsAidous,
+      'αἰδώς': GrcTuftsAidos,
+      'ἥρωᾰ': GrcTuftsIroa,
+      'ἡρώων': GrcTuftsIroon
     }
   }
 }
