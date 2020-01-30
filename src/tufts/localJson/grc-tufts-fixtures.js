@@ -284,6 +284,21 @@ import GrcTuftsSofronas from '@/tufts/localJson/grc/grc-tufts-sofronas.json'
 import GrcTuftsSofrone from '@/tufts/localJson/grc/grc-tufts-sofrone.json'
 import GrcTuftsSofrona from '@/tufts/localJson/grc/grc-tufts-sofrona.json'
 
+import GrcTuftsIdeos from '@/tufts/localJson/grc/grc-tufts-ideos.json'
+import GrcTuftsIdeoin from '@/tufts/localJson/grc/grc-tufts-ideoin.json'
+import GrcTuftsIdeian from '@/tufts/localJson/grc/grc-tufts-ideian.json'
+import GrcTuftsIdeiais from '@/tufts/localJson/grc/grc-tufts-ideiais.json'
+import GrcTuftsIdy from '@/tufts/localJson/grc/grc-tufts-idy.json'
+import GrcTuftsIdea from '@/tufts/localJson/grc/grc-tufts-idea.json'
+
+import GrcTuftsMelani from '@/tufts/localJson/grc/grc-tufts-melani.json'
+import GrcTuftsMelanoin from '@/tufts/localJson/grc/grc-tufts-melanoin.json'
+import GrcTuftsMelainis from '@/tufts/localJson/grc/grc-tufts-melainis.json'
+import GrcTuftsMelainais from '@/tufts/localJson/grc/grc-tufts-melainais.json'
+import GrcTuftsMelan from '@/tufts/localJson/grc/grc-tufts-melan.json'
+import GrcTuftsMelana from '@/tufts/localJson/grc/grc-tufts-melana.json'
+
+
 
 
 
@@ -559,7 +574,21 @@ export default class GrcTuftsFixture {
       'σώφρων': GrcTuftsSofron,
       'σώφρονᾰς': GrcTuftsSofronas,
       'σώφρονε': GrcTuftsSofrone,
-      'σώφρονᾰ': GrcTuftsSofrona
+      'σώφρονᾰ': GrcTuftsSofrona,
+
+      'ἡδέος': GrcTuftsIdeos,
+      'ἡδέοιν': GrcTuftsIdeoin,
+      'ἡδεῖᾰν': GrcTuftsIdeian,
+      'ἡδείαις': GrcTuftsIdeiais,
+      'ἡδύ': GrcTuftsIdy,
+      'ἡδέᾰ': GrcTuftsIdea,
+
+      'μέλανι': GrcTuftsMelani,
+      'μελάνοιν': GrcTuftsMelanoin,
+      'μελαίνης': GrcTuftsMelainis,
+      'μελαίναις': GrcTuftsMelainais,
+      'μέλαν': GrcTuftsMelan,
+      'μέλανᾰ': GrcTuftsMelana
     }
   }
 }
