@@ -252,6 +252,9 @@ import GrcTuftsAidos from '@/tufts/localJson/grc/grc-tufts-aidos.json'
 import GrcTuftsIroa from '@/tufts/localJson/grc/grc-tufts-iroa.json'
 import GrcTuftsIroon from '@/tufts/localJson/grc/grc-tufts-iroon.json'
 
+import GrcTuftsAxiou from '@/tufts/localJson/grc/grc-tufts-axiou.json'
+import GrcTuftsAxioin from '@/tufts/localJson/grc/grc-tufts-axioin.json'
+import GrcTuftsAxious from '@/tufts/localJson/grc/grc-tufts-axious.json'
 
 
 export default class GrcTuftsFixture {
@@ -494,7 +497,11 @@ export default class GrcTuftsFixture {
       'αἰδοῦς': GrcTuftsAidous,
       'αἰδώς': GrcTuftsAidos,
       'ἥρωᾰ': GrcTuftsIroa,
-      'ἡρώων': GrcTuftsIroon
+      'ἡρώων': GrcTuftsIroon,
+
+      'ἀξίου': GrcTuftsAxiou,
+      'ἀξίοιν': GrcTuftsAxioin,
+      'ἀξίους': GrcTuftsAxious
     }
   }
 }

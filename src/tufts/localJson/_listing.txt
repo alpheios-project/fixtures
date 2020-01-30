@@ -429,3 +429,9 @@ curl -o grc-tufts-aidos.json "https://morph.alpheios.net/api/v1/analysis/word?wo
 curl -o grc-tufts-iroa.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%A5%CF%81%CF%89%E1%BE%B0&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 curl -o grc-tufts-iroon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%A1%CF%81%CF%8E%CF%89%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+
+curl -o grc-tufts-axiou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%BE%CE%AF%CE%BF%CF%85&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-axioin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%BE%CE%AF%CE%BF%CE%B9%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-axious.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%BE%CE%AF%CE%BF%CF%85%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+
