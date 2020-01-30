@@ -443,3 +443,9 @@ curl -o grc-tufts-axiois.json "https://morph.alpheios.net/api/v1/analysis/word?w
 curl -o grc-tufts-agathou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%BF%E1%BF%A6&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 curl -o grc-tufts-agathoin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%BF%E1%BF%96%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o grc-tufts-agathin.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%AE%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-agathon.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%E1%BF%B6%CE%BD&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+
+curl -o grc-tufts-agatho.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%E1%BF%B7&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+curl -o grc-tufts-agatha.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CE%B3%CE%B1%CE%B8%CE%AC&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
+

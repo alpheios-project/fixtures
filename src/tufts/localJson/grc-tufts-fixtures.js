@@ -265,6 +265,12 @@ import GrcTuftsAxiois from '@/tufts/localJson/grc/grc-tufts-axiois.json'
 import GrcTuftsAgathou from '@/tufts/localJson/grc/grc-tufts-agathou.json'
 import GrcTuftsAgathoin from '@/tufts/localJson/grc/grc-tufts-agathoin.json'
 
+import GrcTuftsAgathin from '@/tufts/localJson/grc/grc-tufts-agathin.json'
+import GrcTuftsAgathon from '@/tufts/localJson/grc/grc-tufts-agathon.json'
+
+import GrcTuftsAgatho from '@/tufts/localJson/grc/grc-tufts-agatho.json'
+import GrcTuftsAgatha from '@/tufts/localJson/grc/grc-tufts-agatha.json'
+
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -519,7 +525,13 @@ export default class GrcTuftsFixture {
       'ἀξίοις': GrcTuftsAxiois,
 
       'ἀγαθοῦ': GrcTuftsAgathou,
-      'ἀγαθοῖν': GrcTuftsAgathoin
+      'ἀγαθοῖν': GrcTuftsAgathoin,
+
+      'ἀγαθήν': GrcTuftsAgathin,
+      'ἀγαθῶν': GrcTuftsAgathon,
+
+      'ἀγαθῷ': GrcTuftsAgatho,
+      'ἀγαθά': GrcTuftsAgatha
     }
   }
 }
