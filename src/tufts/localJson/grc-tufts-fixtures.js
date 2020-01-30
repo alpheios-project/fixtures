@@ -252,6 +252,66 @@ import GrcTuftsAidos from '@/tufts/localJson/grc/grc-tufts-aidos.json'
 import GrcTuftsIroa from '@/tufts/localJson/grc/grc-tufts-iroa.json'
 import GrcTuftsIroon from '@/tufts/localJson/grc/grc-tufts-iroon.json'
 
+import GrcTuftsAxiou from '@/tufts/localJson/grc/grc-tufts-axiou.json'
+import GrcTuftsAxioin from '@/tufts/localJson/grc/grc-tufts-axioin.json'
+import GrcTuftsAxious from '@/tufts/localJson/grc/grc-tufts-axious.json'
+
+import GrcTuftsAxian from '@/tufts/localJson/grc/grc-tufts-axian.json'
+import GrcTuftsAxion from '@/tufts/localJson/grc/grc-tufts-axion.json'
+
+import GrcTuftsAxio from '@/tufts/localJson/grc/grc-tufts-axio.json'
+import GrcTuftsAxiois from '@/tufts/localJson/grc/grc-tufts-axiois.json'
+
+import GrcTuftsAgathou from '@/tufts/localJson/grc/grc-tufts-agathou.json'
+import GrcTuftsAgathoin from '@/tufts/localJson/grc/grc-tufts-agathoin.json'
+
+import GrcTuftsAgathin from '@/tufts/localJson/grc/grc-tufts-agathin.json'
+import GrcTuftsAgathon from '@/tufts/localJson/grc/grc-tufts-agathon.json'
+import GrcTuftsAgatho from '@/tufts/localJson/grc/grc-tufts-agatho.json'
+import GrcTuftsAgatha from '@/tufts/localJson/grc/grc-tufts-agatha.json'
+
+import GrcTuftsAdikou from '@/tufts/localJson/grc/grc-tufts-adikou.json'
+import GrcTuftsAdikon from '@/tufts/localJson/grc/grc-tufts-adikon.json'
+import GrcTuftsAdikoin from '@/tufts/localJson/grc/grc-tufts-adikoin.json'
+import GrcTuftsAdika from '@/tufts/localJson/grc/grc-tufts-adika.json'
+
+import GrcTuftsAlithous from '@/tufts/localJson/grc/grc-tufts-alithous.json'
+import GrcTuftsAlitheis from '@/tufts/localJson/grc/grc-tufts-alitheis.json'
+import GrcTuftsAlithes from '@/tufts/localJson/grc/grc-tufts-alithes.json'
+import GrcTuftsAlithoin from '@/tufts/localJson/grc/grc-tufts-alithoin.json'
+import GrcTuftsSofron from '@/tufts/localJson/grc/grc-tufts-sofron.json'
+import GrcTuftsSofronas from '@/tufts/localJson/grc/grc-tufts-sofronas.json'
+import GrcTuftsSofrone from '@/tufts/localJson/grc/grc-tufts-sofrone.json'
+import GrcTuftsSofrona from '@/tufts/localJson/grc/grc-tufts-sofrona.json'
+
+import GrcTuftsIdeos from '@/tufts/localJson/grc/grc-tufts-ideos.json'
+import GrcTuftsIdeoin from '@/tufts/localJson/grc/grc-tufts-ideoin.json'
+import GrcTuftsIdeian from '@/tufts/localJson/grc/grc-tufts-ideian.json'
+import GrcTuftsIdeiais from '@/tufts/localJson/grc/grc-tufts-ideiais.json'
+import GrcTuftsIdy from '@/tufts/localJson/grc/grc-tufts-idy.json'
+import GrcTuftsIdea from '@/tufts/localJson/grc/grc-tufts-idea.json'
+
+import GrcTuftsMelani from '@/tufts/localJson/grc/grc-tufts-melani.json'
+import GrcTuftsMelanoin from '@/tufts/localJson/grc/grc-tufts-melanoin.json'
+import GrcTuftsMelainis from '@/tufts/localJson/grc/grc-tufts-melainis.json'
+import GrcTuftsMelainais from '@/tufts/localJson/grc/grc-tufts-melainais.json'
+import GrcTuftsMelan from '@/tufts/localJson/grc/grc-tufts-melan.json'
+import GrcTuftsMelana from '@/tufts/localJson/grc/grc-tufts-melana.json'
+
+import GrcTuftsCharientos from '@/tufts/localJson/grc/grc-tufts-charientos.json'
+import GrcTuftsChariente from '@/tufts/localJson/grc/grc-tufts-chariente.json'
+import GrcTuftsChariessain from '@/tufts/localJson/grc/grc-tufts-chariessain.json'
+import GrcTuftsChariessas from '@/tufts/localJson/grc/grc-tufts-chariessas.json'
+import GrcTuftsCharienti from '@/tufts/localJson/grc/grc-tufts-charienti.json'
+import GrcTuftsCharienta from '@/tufts/localJson/grc/grc-tufts-charienta.json'
+
+import GrcTuftsPas from '@/tufts/localJson/grc/grc-tufts-pas.json'
+import GrcTuftsPantes from '@/tufts/localJson/grc/grc-tufts-pantes.json'
+import GrcTuftsPasi2 from '@/tufts/localJson/grc/grc-tufts-pasi.json'
+import GrcTuftsPasas from '@/tufts/localJson/grc/grc-tufts-pasas.json'
+import GrcTuftsPanti from '@/tufts/localJson/grc/grc-tufts-panti.json'
+import GrcTuftsPanta from '@/tufts/localJson/grc/grc-tufts-panta.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -494,7 +554,67 @@ export default class GrcTuftsFixture {
       'αἰδοῦς': GrcTuftsAidous,
       'αἰδώς': GrcTuftsAidos,
       'ἥρωᾰ': GrcTuftsIroa,
-      'ἡρώων': GrcTuftsIroon
+      'ἡρώων': GrcTuftsIroon,
+
+      'ἀξίου': GrcTuftsAxiou,
+      'ἀξίοιν': GrcTuftsAxioin,
+      'ἀξίους': GrcTuftsAxious,
+
+      'ἀξίᾱν': GrcTuftsAxian,
+      'ἀξίων': GrcTuftsAxion,
+
+      'ἀξίω': GrcTuftsAxio,
+      'ἀξίοις': GrcTuftsAxiois,
+
+      'ἀγαθοῦ': GrcTuftsAgathou,
+      'ἀγαθοῖν': GrcTuftsAgathoin,
+
+      'ἀγαθήν': GrcTuftsAgathin,
+      'ἀγαθῶν': GrcTuftsAgathon,
+      'ἀγαθῷ': GrcTuftsAgatho,
+      'ἀγαθά': GrcTuftsAgatha,
+
+      'ἀδίκου': GrcTuftsAdikou,
+      'ἀδίκων': GrcTuftsAdikon,
+      'ἀδίκοιν': GrcTuftsAdikoin,
+      'ἄδικᾰ': GrcTuftsAdika,
+
+      'ἀληθοῦς': GrcTuftsAlithous,
+      'ἀληθεῖς': GrcTuftsAlitheis,
+      'ἀληθές': GrcTuftsAlithes,
+      'ἀληθοῖν': GrcTuftsAlithoin,
+      'σώφρων': GrcTuftsSofron,
+      'σώφρονᾰς': GrcTuftsSofronas,
+      'σώφρονε': GrcTuftsSofrone,
+      'σώφρονᾰ': GrcTuftsSofrona,
+
+      'ἡδέος': GrcTuftsIdeos,
+      'ἡδέοιν': GrcTuftsIdeoin,
+      'ἡδεῖᾰν': GrcTuftsIdeian,
+      'ἡδείαις': GrcTuftsIdeiais,
+      'ἡδύ': GrcTuftsIdy,
+      'ἡδέᾰ': GrcTuftsIdea,
+
+      'μέλανι': GrcTuftsMelani,
+      'μελάνοιν': GrcTuftsMelanoin,
+      'μελαίνης': GrcTuftsMelainis,
+      'μελαίναις': GrcTuftsMelainais,
+      'μέλαν': GrcTuftsMelan,
+      'μέλανᾰ': GrcTuftsMelana,
+
+      'χαρίεντος': GrcTuftsCharientos,
+      'χαρίεντε': GrcTuftsChariente,
+      'χαριέσσαιν': GrcTuftsChariessain,
+      'χαριέσσαις': GrcTuftsChariessas,
+      'χαρίεντι': GrcTuftsCharienti,
+      'χαρίεντᾰ': GrcTuftsCharienta,
+
+      'πᾶς': GrcTuftsPas,
+      'πάντες': GrcTuftsPantes,
+      'πάσῃ': GrcTuftsPasi2,
+      'πάσᾱς': GrcTuftsPasas,
+      'παντί': GrcTuftsPanti,
+      'πάντᾰ': GrcTuftsPanta
     }
   }
 }
