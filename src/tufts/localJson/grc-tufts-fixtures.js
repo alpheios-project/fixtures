@@ -275,6 +275,15 @@ import GrcTuftsAdikon from '@/tufts/localJson/grc/grc-tufts-adikon.json'
 import GrcTuftsAdikoin from '@/tufts/localJson/grc/grc-tufts-adikoin.json'
 import GrcTuftsAdika from '@/tufts/localJson/grc/grc-tufts-adika.json'
 
+import GrcTuftsAlithous from '@/tufts/localJson/grc/grc-tufts-alithous.json'
+import GrcTuftsAlitheis from '@/tufts/localJson/grc/grc-tufts-alitheis.json'
+import GrcTuftsAlithes from '@/tufts/localJson/grc/grc-tufts-alithes.json'
+import GrcTuftsAlithoin from '@/tufts/localJson/grc/grc-tufts-alithoin.json'
+import GrcTuftsSofron from '@/tufts/localJson/grc/grc-tufts-sofron.json'
+import GrcTuftsSofronas from '@/tufts/localJson/grc/grc-tufts-sofronas.json'
+import GrcTuftsSofrone from '@/tufts/localJson/grc/grc-tufts-sofrone.json'
+import GrcTuftsSofrona from '@/tufts/localJson/grc/grc-tufts-sofrona.json'
+
 
 
 
@@ -541,7 +550,16 @@ export default class GrcTuftsFixture {
       'ἀδίκου': GrcTuftsAdikou,
       'ἀδίκων': GrcTuftsAdikon,
       'ἀδίκοιν': GrcTuftsAdikoin,
-      'ἄδικᾰ': GrcTuftsAdika
+      'ἄδικᾰ': GrcTuftsAdika,
+
+      'ἀληθοῦς': GrcTuftsAlithous,
+      'ἀληθεῖς': GrcTuftsAlitheis,
+      'ἀληθές': GrcTuftsAlithes,
+      'ἀληθοῖν': GrcTuftsAlithoin,
+      'σώφρων': GrcTuftsSofron,
+      'σώφρονᾰς': GrcTuftsSofronas,
+      'σώφρονε': GrcTuftsSofrone,
+      'σώφρονᾰ': GrcTuftsSofrona
     }
   }
 }
