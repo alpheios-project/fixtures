@@ -298,6 +298,12 @@ import GrcTuftsMelainais from '@/tufts/localJson/grc/grc-tufts-melainais.json'
 import GrcTuftsMelan from '@/tufts/localJson/grc/grc-tufts-melan.json'
 import GrcTuftsMelana from '@/tufts/localJson/grc/grc-tufts-melana.json'
 
+import GrcTuftsCharientos from '@/tufts/localJson/grc/grc-tufts-charientos.json'
+import GrcTuftsChariente from '@/tufts/localJson/grc/grc-tufts-chariente.json'
+import GrcTuftsChariessain from '@/tufts/localJson/grc/grc-tufts-chariessain.json'
+import GrcTuftsChariessas from '@/tufts/localJson/grc/grc-tufts-chariessas.json'
+import GrcTuftsCharienti from '@/tufts/localJson/grc/grc-tufts-charienti.json'
+import GrcTuftsCharienta from '@/tufts/localJson/grc/grc-tufts-charienta.json'
 
 
 
@@ -588,7 +594,14 @@ export default class GrcTuftsFixture {
       'μελαίνης': GrcTuftsMelainis,
       'μελαίναις': GrcTuftsMelainais,
       'μέλαν': GrcTuftsMelan,
-      'μέλανᾰ': GrcTuftsMelana
+      'μέλανᾰ': GrcTuftsMelana,
+
+      'χαρίεντος': GrcTuftsCharientos,
+      'χαρίεντε': GrcTuftsChariente,
+      'χαριέσσαιν': GrcTuftsChariessain,
+      'χαριέσσαις': GrcTuftsChariessas,
+      'χαρίεντι': GrcTuftsCharienti,
+      'χαρίεντᾰ': GrcTuftsCharienta
     }
   }
 }
