@@ -305,6 +305,12 @@ import GrcTuftsChariessas from '@/tufts/localJson/grc/grc-tufts-chariessas.json'
 import GrcTuftsCharienti from '@/tufts/localJson/grc/grc-tufts-charienti.json'
 import GrcTuftsCharienta from '@/tufts/localJson/grc/grc-tufts-charienta.json'
 
+import GrcTuftsPas from '@/tufts/localJson/grc/grc-tufts-pas.json'
+import GrcTuftsPantes from '@/tufts/localJson/grc/grc-tufts-pantes.json'
+import GrcTuftsPasi2 from '@/tufts/localJson/grc/grc-tufts-pasi.json'
+import GrcTuftsPasas from '@/tufts/localJson/grc/grc-tufts-pasas.json'
+import GrcTuftsPanti from '@/tufts/localJson/grc/grc-tufts-panti.json'
+import GrcTuftsPanta from '@/tufts/localJson/grc/grc-tufts-panta.json'
 
 
 
@@ -601,7 +607,14 @@ export default class GrcTuftsFixture {
       'χαριέσσαιν': GrcTuftsChariessain,
       'χαριέσσαις': GrcTuftsChariessas,
       'χαρίεντι': GrcTuftsCharienti,
-      'χαρίεντᾰ': GrcTuftsCharienta
+      'χαρίεντᾰ': GrcTuftsCharienta,
+
+      'πᾶς': GrcTuftsPas,
+      'πάντες': GrcTuftsPantes,
+      'πάσῃ': GrcTuftsPasi2,
+      'πάσᾱς': GrcTuftsPasas,
+      'παντί': GrcTuftsPanti,
+      'πάντᾰ': GrcTuftsPanta
     }
   }
 }
