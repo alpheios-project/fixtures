@@ -312,6 +312,20 @@ import GrcTuftsPasas from '@/tufts/localJson/grc/grc-tufts-pasas.json'
 import GrcTuftsPanti from '@/tufts/localJson/grc/grc-tufts-panti.json'
 import GrcTuftsPanta from '@/tufts/localJson/grc/grc-tufts-panta.json'
 
+import GrcTuftsChrysou from '@/tufts/localJson/grc/grc-tufts-chrysou.json'
+import GrcTuftsChrysoin from '@/tufts/localJson/grc/grc-tufts-chrysoin.json'
+import GrcTuftsChrysin from '@/tufts/localJson/grc/grc-tufts-chrysin.json'
+import GrcTuftsChrysais from '@/tufts/localJson/grc/grc-tufts-chrysais.json'
+import GrcTuftsChryso from '@/tufts/localJson/grc/grc-tufts-chryso.json'
+import GrcTuftsChrysa from '@/tufts/localJson/grc/grc-tufts-chrysa.json'
+
+import GrcTuftsArgyrous from '@/tufts/localJson/grc/grc-tufts-argyrous.json'
+import GrcTuftsArgyroin from '@/tufts/localJson/grc/grc-tufts-argyroin.json'
+import GrcTuftsArgyras from '@/tufts/localJson/grc/grc-tufts-argyras.json'
+import GrcTuftsArgyron from '@/tufts/localJson/grc/grc-tufts-argyron.json'
+import GrcTuftsArgyroun from '@/tufts/localJson/grc/grc-tufts-argyroun.json'
+import GrcTuftsArgyra from '@/tufts/localJson/grc/grc-tufts-argyra.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -593,6 +607,7 @@ export default class GrcTuftsFixture {
       'ἡδεῖᾰν': GrcTuftsIdeian,
       'ἡδείαις': GrcTuftsIdeiais,
       'ἡδύ': GrcTuftsIdy,
+
       'ἡδέᾰ': GrcTuftsIdea,
 
       'μέλανι': GrcTuftsMelani,
@@ -614,7 +629,21 @@ export default class GrcTuftsFixture {
       'πάσῃ': GrcTuftsPasi2,
       'πάσᾱς': GrcTuftsPasas,
       'παντί': GrcTuftsPanti,
-      'πάντᾰ': GrcTuftsPanta
+      'πάντᾰ': GrcTuftsPanta,
+
+      'χρυσοῦ': GrcTuftsChrysou,
+      'χρυσοῖν': GrcTuftsChrysoin,
+      'χρυσῆν': GrcTuftsChrysin,
+      'χρυσαῖς': GrcTuftsChrysais,
+      'χρυσῷ': GrcTuftsChryso,
+      'χρυσᾶ': GrcTuftsChrysa,
+
+      'ἀργυροῦς': GrcTuftsArgyrous,
+      'ἀργυροῖν': GrcTuftsArgyroin,
+      'ἀργυρᾶς': GrcTuftsArgyras,
+      'ἀργυρῶν': GrcTuftsArgyron,
+      'ἀργυροῦν': GrcTuftsArgyroun,
+      'ἀργυρᾶ': GrcTuftsArgyra
     }
   }
 }
