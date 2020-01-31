@@ -312,6 +312,44 @@ import GrcTuftsPasas from '@/tufts/localJson/grc/grc-tufts-pasas.json'
 import GrcTuftsPanti from '@/tufts/localJson/grc/grc-tufts-panti.json'
 import GrcTuftsPanta from '@/tufts/localJson/grc/grc-tufts-panta.json'
 
+import GrcTuftsChrysou from '@/tufts/localJson/grc/grc-tufts-chrysou.json'
+import GrcTuftsChrysoin from '@/tufts/localJson/grc/grc-tufts-chrysoin.json'
+import GrcTuftsChrysin from '@/tufts/localJson/grc/grc-tufts-chrysin.json'
+import GrcTuftsChrysais from '@/tufts/localJson/grc/grc-tufts-chrysais.json'
+import GrcTuftsChryso from '@/tufts/localJson/grc/grc-tufts-chryso.json'
+import GrcTuftsChrysa from '@/tufts/localJson/grc/grc-tufts-chrysa.json'
+
+import GrcTuftsArgyrous from '@/tufts/localJson/grc/grc-tufts-argyrous.json'
+import GrcTuftsArgyroin from '@/tufts/localJson/grc/grc-tufts-argyroin.json'
+import GrcTuftsArgyras from '@/tufts/localJson/grc/grc-tufts-argyras.json'
+import GrcTuftsArgyron from '@/tufts/localJson/grc/grc-tufts-argyron.json'
+import GrcTuftsArgyroun from '@/tufts/localJson/grc/grc-tufts-argyroun.json'
+import GrcTuftsArgyra from '@/tufts/localJson/grc/grc-tufts-argyra.json'
+
+import GrcTuftsEvnous from '@/tufts/localJson/grc/grc-tufts-evnous.json'
+import GrcTuftsEvnoin from '@/tufts/localJson/grc/grc-tufts-evnoin.json'
+import GrcTuftsEvnois from '@/tufts/localJson/grc/grc-tufts-evnois.json'
+import GrcTuftsEvno from '@/tufts/localJson/grc/grc-tufts-evno.json'
+
+import GrcTuftsAplou from '@/tufts/localJson/grc/grc-tufts-aplou.json'
+import GrcTuftsAploin from '@/tufts/localJson/grc/grc-tufts-aploin.json'
+import GrcTuftsAplon from '@/tufts/localJson/grc/grc-tufts-aplon.json'
+import GrcTuftsAplis from '@/tufts/localJson/grc/grc-tufts-aplis.json'
+import GrcTuftsAploun from '@/tufts/localJson/grc/grc-tufts-aploun.json'
+import GrcTuftsAploa from '@/tufts/localJson/grc/grc-tufts-aploa.json'
+
+import GrcTuftsIleos from '@/tufts/localJson/grc/grc-tufts-ileos.json'
+import GrcTuftsIleo from '@/tufts/localJson/grc/grc-tufts-ileo.json'
+import GrcTuftsIleon from '@/tufts/localJson/grc/grc-tufts-ileon.json'
+import GrcTuftsIlea from '@/tufts/localJson/grc/grc-tufts-ilea.json'
+
+import GrcTuftsPleo from '@/tufts/localJson/grc/grc-tufts-pleo.json'
+import GrcTuftsPleos from '@/tufts/localJson/grc/grc-tufts-pleos.json'
+import GrcTuftsPlea from '@/tufts/localJson/grc/grc-tufts-plea.json'
+import GrcTuftsPleain from '@/tufts/localJson/grc/grc-tufts-pleain.json'
+import GrcTuftsPleon from '@/tufts/localJson/grc/grc-tufts-pleon.json'
+import GrcTuftsPlea2 from '@/tufts/localJson/grc/grc-tufts-plea2.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -593,6 +631,7 @@ export default class GrcTuftsFixture {
       'ἡδεῖᾰν': GrcTuftsIdeian,
       'ἡδείαις': GrcTuftsIdeiais,
       'ἡδύ': GrcTuftsIdy,
+
       'ἡδέᾰ': GrcTuftsIdea,
 
       'μέλανι': GrcTuftsMelani,
@@ -614,7 +653,45 @@ export default class GrcTuftsFixture {
       'πάσῃ': GrcTuftsPasi2,
       'πάσᾱς': GrcTuftsPasas,
       'παντί': GrcTuftsPanti,
-      'πάντᾰ': GrcTuftsPanta
+      'πάντᾰ': GrcTuftsPanta,
+
+      'χρυσοῦ': GrcTuftsChrysou,
+      'χρυσοῖν': GrcTuftsChrysoin,
+      'χρυσῆν': GrcTuftsChrysin,
+      'χρυσαῖς': GrcTuftsChrysais,
+      'χρυσῷ': GrcTuftsChryso,
+      'χρυσᾶ': GrcTuftsChrysa,
+
+      'ἀργυροῦς': GrcTuftsArgyrous,
+      'ἀργυροῖν': GrcTuftsArgyroin,
+      'ἀργυρᾶς': GrcTuftsArgyras,
+      'ἀργυρῶν': GrcTuftsArgyron,
+      'ἀργυροῦν': GrcTuftsArgyroun,
+      'ἀργυρᾶ': GrcTuftsArgyra,
+
+      'εὔνους': GrcTuftsEvnous,
+      'εὔνοιν': GrcTuftsEvnoin,
+      'εὔνοις': GrcTuftsEvnois,
+      'εὔνῳ': GrcTuftsEvno,
+
+      'ἁπλοῦ': GrcTuftsAplou,
+      'ἁπλοῖν': GrcTuftsAploin,
+      'ἁπλῶν': GrcTuftsAplon,
+      'ἁπλῆς': GrcTuftsAplis,
+      'ἁπλοῦν': GrcTuftsAploun,
+      'ἁπλόᾰ': GrcTuftsAploa,
+
+      'ἵλεως': GrcTuftsIleos,
+      'ἵλεω': GrcTuftsIleo,
+      'ἵλεων': GrcTuftsIleon,
+      'ἵλεᾰ': GrcTuftsIlea,
+
+      'πλέω': GrcTuftsPleo,
+      'πλέῳς': GrcTuftsPleos,
+      'πλέᾳ': GrcTuftsPlea,
+      'πλέαιν': GrcTuftsPleain,
+      'πλέων': GrcTuftsPleon,
+      'πλέᾰ': GrcTuftsPlea2
     }
   }
 }
