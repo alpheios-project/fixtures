@@ -326,6 +326,18 @@ import GrcTuftsArgyron from '@/tufts/localJson/grc/grc-tufts-argyron.json'
 import GrcTuftsArgyroun from '@/tufts/localJson/grc/grc-tufts-argyroun.json'
 import GrcTuftsArgyra from '@/tufts/localJson/grc/grc-tufts-argyra.json'
 
+import GrcTuftsEvnous from '@/tufts/localJson/grc/grc-tufts-evnous.json'
+import GrcTuftsEvnoin from '@/tufts/localJson/grc/grc-tufts-evnoin.json'
+import GrcTuftsEvnois from '@/tufts/localJson/grc/grc-tufts-evnois.json'
+import GrcTuftsEvno from '@/tufts/localJson/grc/grc-tufts-evno.json'
+
+import GrcTuftsAplou from '@/tufts/localJson/grc/grc-tufts-aplou.json'
+import GrcTuftsAploin from '@/tufts/localJson/grc/grc-tufts-aploin.json'
+import GrcTuftsAplon from '@/tufts/localJson/grc/grc-tufts-aplon.json'
+import GrcTuftsAplis from '@/tufts/localJson/grc/grc-tufts-aplis.json'
+import GrcTuftsAploun from '@/tufts/localJson/grc/grc-tufts-aploun.json'
+import GrcTuftsAploa from '@/tufts/localJson/grc/grc-tufts-aploa.json'
+
 
 
 export default class GrcTuftsFixture {
@@ -643,7 +655,19 @@ export default class GrcTuftsFixture {
       'ἀργυρᾶς': GrcTuftsArgyras,
       'ἀργυρῶν': GrcTuftsArgyron,
       'ἀργυροῦν': GrcTuftsArgyroun,
-      'ἀργυρᾶ': GrcTuftsArgyra
+      'ἀργυρᾶ': GrcTuftsArgyra,
+
+      'εὔνους': GrcTuftsEvnous,
+      'εὔνοιν': GrcTuftsEvnoin,
+      'εὔνοις': GrcTuftsEvnois,
+      'εὔνῳ': GrcTuftsEvno,
+
+      'ἁπλοῦ': GrcTuftsAplou,
+      'ἁπλοῖν': GrcTuftsAploin,
+      'ἁπλῶν': GrcTuftsAplon,
+      'ἁπλῆς': GrcTuftsAplis,
+      'ἁπλοῦν': GrcTuftsAploun,
+      'ἁπλόᾰ': GrcTuftsAploa
     }
   }
 }
