@@ -351,6 +351,24 @@ import GrcTuftsPleon from '@/tufts/localJson/grc/grc-tufts-pleon.json'
 import GrcTuftsPlea2 from '@/tufts/localJson/grc/grc-tufts-plea2.json'
 
 
+import GrcTuftsTou from '@/tufts/localJson/grc/grc-tufts-tou.json'
+import GrcTuftsTin from '@/tufts/localJson/grc/grc-tufts-tin.json'
+import GrcTuftsToin from '@/tufts/localJson/grc/grc-tufts-toin.json'
+import GrcTuftsTois from '@/tufts/localJson/grc/grc-tufts-tois.json'
+import GrcTuftsAi from '@/tufts/localJson/grc/grc-tufts-ai.json'
+import GrcTuftsTa from '@/tufts/localJson/grc/grc-tufts-ta.json'
+
+import GrcTuftsEmou from '@/tufts/localJson/grc/grc-tufts-emou.json'
+import GrcTuftsNon from '@/tufts/localJson/grc/grc-tufts-non.json'
+import GrcTuftsImin from '@/tufts/localJson/grc/grc-tufts-imin.json'
+import GrcTuftsSoi from '@/tufts/localJson/grc/grc-tufts-soi.json'
+import GrcTuftsSfon from '@/tufts/localJson/grc/grc-tufts-sfon.json'
+import GrcTuftsYmas from '@/tufts/localJson/grc/grc-tufts-ymas.json'
+import GrcTuftsSou from '@/tufts/localJson/grc/grc-tufts-sou.json'
+
+
+
+
 
 export default class GrcTuftsFixture {
   static get library () {
@@ -691,7 +709,22 @@ export default class GrcTuftsFixture {
       'πλέᾳ': GrcTuftsPlea,
       'πλέαιν': GrcTuftsPleain,
       'πλέων': GrcTuftsPleon,
-      'πλέᾰ': GrcTuftsPlea2
+      'πλέᾰ': GrcTuftsPlea2,
+
+      'τοῦ': GrcTuftsTou,
+      'τήν': GrcTuftsTin,
+      'τοῖν': GrcTuftsToin,
+      'τοῖς': GrcTuftsTois,
+      'αἱ': GrcTuftsAi,
+      'τά': GrcTuftsTa,
+
+      'ἐμοῦ': GrcTuftsEmou,
+      'νῷν': GrcTuftsNon,
+      'ἡμῖν': GrcTuftsImin,
+      'σοί': GrcTuftsSoi,
+      'σφῷν': GrcTuftsSfon,
+      'ὑμᾶς': GrcTuftsYmas,
+      'σου': GrcTuftsSou
     }
   }
 }
