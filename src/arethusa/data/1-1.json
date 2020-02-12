@@ -40,8 +40,8 @@
               },
               "mood": {
                 "$": "indicative"
-              }, "
-              pers": {
+              }, 
+              "pers": {
                 "$": "2nd"
               },
               "num": {

@@ -1,5 +1,4 @@
-import ArethusaDefault from '@/arethusa/data/default.json'
-import Aberis from '@/arethusa/data/aberis.json'
+import Aberis from '@/arethusa/data/1-1.json'
 
 export default class ArethusaFixture {
   static get library () {
@@ -10,7 +9,7 @@ export default class ArethusaFixture {
     }
   }
 
-  static async treebankServiceRequest {
+  static async treebankServiceRequest(request) {
     let wordId = request.body.getMorph.wordId
     let sentenceId = request.body.getMorph.wordId
     let response
