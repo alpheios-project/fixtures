@@ -96,6 +96,58 @@ return /******/ (function(modules) { // webpackBootstrap
 /************************************************************************/
 /******/ ({
 
+/***/ "./arethusa/arethusa-fixture.js":
+/*!**************************************!*\
+  !*** ./arethusa/arethusa-fixture.js ***!
+  \**************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return ArethusaFixture; });
+/* harmony import */ var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/arethusa/data/1-1.json */ "./arethusa/data/1-1.json");
+var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/arethusa/data/1-1.json */ "./arethusa/data/1-1.json", 1);
+
+
+class ArethusaFixture {
+  static get library () {
+    return {
+      1 : {
+        1 : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+      }
+    }
+  }
+
+  static async treebankServiceRequest(request) {
+    let wordId = request.body.getMorph.wordId
+    let sentenceId = request.body.getMorph.wordId
+    let response
+    try {
+      const sourceFile = library[sentenceId][wordId]
+      return sourceFile
+    } catch {
+      console.info(`There is no fixture for ${params}`)
+      return {}
+    }
+  }
+}
+
+
+
+/***/ }),
+
+/***/ "./arethusa/data/1-1.json":
+/*!********************************!*\
+  !*** ./arethusa/data/1-1.json ***!
+  \********************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:abcdefg123456789\",\"creator\":{\"Agent\":{\"about\":\"editorslist\"}},\"created\":{\"$\":\"2019-12-23T06:20:11.050753\"},\"rights\":{\"$\":\"cc-by-sa 4.0\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:treebank:12345.aberis\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154441263312\"},\"Body\":{\"about\":\"urn:uuid:idm140154441263312\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"pofs\":{\"$\":\"verb\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"absum\"}}}}}}}}");
+
+/***/ }),
+
 /***/ "./cedict/cedict-fixture.js":
 /*!**********************************!*\
   !*** ./cedict/cedict-fixture.js ***!
@@ -202,7 +254,7 @@ module.exports = JSON.parse("{\"metadata\":{\"version\":20191029,\"revision\":1,
 /*!******************!*\
   !*** ./index.js ***!
   \******************/
-/*! exports provided: Fixture, CedictFixture */
+/*! exports provided: Fixture, CedictFixture, ArethusaFixture */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -212,6 +264,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony import */ var _cedict_cedict_fixture_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/cedict/cedict-fixture.js */ "./cedict/cedict-fixture.js");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "CedictFixture", function() { return _cedict_cedict_fixture_js__WEBPACK_IMPORTED_MODULE_1__["default"]; });
+
+/* harmony import */ var _arethusa_arethusa_fixture_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/arethusa/arethusa-fixture.js */ "./arethusa/arethusa-fixture.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "ArethusaFixture", function() { return _arethusa_arethusa_fixture_js__WEBPACK_IMPORTED_MODULE_2__["default"]; });
+
 
 
 
