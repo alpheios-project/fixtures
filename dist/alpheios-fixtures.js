@@ -113,21 +113,21 @@ var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__
 class ArethusaFixture {
   static get library () {
     return {
-      1 : {
-        1 : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+      'example.org/treebank': {
+        '1' : {
+          '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+        }
       }
     }
   }
 
-  static async treebankServiceRequest(request) {
-    let wordId = request.body.getMorph.wordId
-    let sentenceId = request.body.getMorph.wordId
+  static async treebankServiceRequest(srcUrl,sentenceId,wordId) {
     let response
     try {
-      const sourceFile = library[sentenceId][wordId]
+      const sourceFile = ArethusaFixture.library[srcUrl][sentenceId][wordId]
       return sourceFile
-    } catch {
-      console.info(`There is no fixture for ${params}`)
+    } catch(error) {
+      console.info(`There is no fixture for ${sentenceId}-${wordId}`, error)
       return {}
     }
   }
@@ -144,7 +144,7 @@ class ArethusaFixture {
 /*! exports provided: RDF, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:abcdefg123456789\",\"creator\":{\"Agent\":{\"about\":\"editorslist\"}},\"created\":{\"$\":\"2019-12-23T06:20:11.050753\"},\"rights\":{\"$\":\"cc-by-sa 4.0\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:treebank:12345.aberis\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154441263312\"},\"Body\":{\"about\":\"urn:uuid:idm140154441263312\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"pofs\":{\"$\":\"verb\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"absum\"}}}}}}}}");
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:abcdefg123456789\",\"creator\":{\"Agent\":{\"about\":\"editorslist\"}},\"created\":{\"$\":\"2019-12-23T06:20:11.050753\"},\"rights\":{\"$\":\"cc-by-sa 4.0\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:treebank:12345.aberis\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154441263312\"},\"Body\":{\"about\":\"urn:uuid:idm140154441263312\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"form\":{\"$\":\"aberis\"}},\"pofs\":{\"$\":\"verb\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"absum\"}}}}}}}}");
 
 /***/ }),
 

@@ -29,6 +29,11 @@
         "rest": {
           "entry": {
             "infl": {
+              "term": {
+                "form": {
+                  "$" : "aberis"
+                }
+              },
               "pofs": {
                 "$": "verb"
               },
@@ -40,7 +45,7 @@
               },
               "mood": {
                 "$": "indicative"
-              }, 
+              },
               "pers": {
                 "$": "2nd"
               },
