@@ -121,13 +121,13 @@ class ArethusaFixture {
 
   static async treebankServiceRequest(request) {
     let wordId = request.body.getMorph.wordId
-    let sentenceId = request.body.getMorph.wordId
+    let sentenceId = request.body.getMorph.sentenceId
     let response
     try {
       const sourceFile = library[sentenceId][wordId]
       return sourceFile
     } catch {
-      console.info(`There is no fixture for ${params}`)
+      console.info(`There is no fixture for ${sentenceId}-${wordId}`)
       return {}
     }
   }
