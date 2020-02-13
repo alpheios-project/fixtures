@@ -14,7 +14,6 @@ export default class ArethusaFixture {
   static async treebankServiceRequest(srcUrl,sentenceId,wordId) {
     let response
     try {
-      console.info(`Retrieve ${srcUrl} ${sentenceId} ${wordId}`)
       const sourceFile = ArethusaFixture.library[srcUrl][sentenceId][wordId]
       return sourceFile
     } catch(error) {
