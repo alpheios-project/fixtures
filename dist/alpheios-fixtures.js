@@ -124,8 +124,7 @@ class ArethusaFixture {
     let sentenceId = request.body.getMorph.sentenceId
     let response
     try {
-      console.info(library)
-      const sourceFile = library[sentenceId][wordId]
+      const sourceFile = ArethusaFixture.library[sentenceId][wordId]
       return sourceFile
     } catch(error) {
       console.info(`There is no fixture for ${sentenceId}-${wordId}`, error)
