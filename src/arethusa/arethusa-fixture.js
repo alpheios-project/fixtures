@@ -3,8 +3,8 @@ import Aberis from '@/arethusa/data/1-1.json'
 export default class ArethusaFixture {
   static get library () {
     return {
-      1 : {
-        1 : Aberis
+      '1' : {
+        '1' : Aberis
       }
     }
   }
@@ -14,6 +14,7 @@ export default class ArethusaFixture {
     let sentenceId = request.body.getMorph.sentenceId
     let response
     try {
+      console.info(library)
       const sourceFile = library[sentenceId][wordId]
       return sourceFile
     } catch(error) {

@@ -113,8 +113,8 @@ var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__
 class ArethusaFixture {
   static get library () {
     return {
-      1 : {
-        1 : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+      '1' : {
+        '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
       }
     }
   }
@@ -124,6 +124,7 @@ class ArethusaFixture {
     let sentenceId = request.body.getMorph.sentenceId
     let response
     try {
+      console.info(library)
       const sourceFile = library[sentenceId][wordId]
       return sourceFile
     } catch(error) {
