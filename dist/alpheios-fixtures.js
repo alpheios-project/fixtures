@@ -113,18 +113,18 @@ var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__
 class ArethusaFixture {
   static get library () {
     return {
-      '1' : {
-        '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+      'example.org/treebank': {
+        '1' : {
+          '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
+        }
       }
     }
   }
 
-  static async treebankServiceRequest(request) {
-    let wordId = request.body.getMorph.wordId
-    let sentenceId = request.body.getMorph.sentenceId
+  static async treebankServiceRequest(srcUrl,sentenceId,wordId) {
     let response
     try {
-      const sourceFile = ArethusaFixture.library[sentenceId][wordId]
+      const sourceFile = ArethusaFixture.library[srcUrl][sentenceId][wordId]
       console.info(`Retrieved ${sourceFile}`)
       return sourceFile
     } catch(error) {
