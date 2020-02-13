@@ -124,8 +124,8 @@ class ArethusaFixture {
   static async treebankServiceRequest(srcUrl,sentenceId,wordId) {
     let response
     try {
+      console.info(`Retrieve ${srcUrl} ${sentenceId} ${wordId}`)
       const sourceFile = ArethusaFixture.library[srcUrl][sentenceId][wordId]
-      console.info(`Retrieved ${sourceFile}`)
       return sourceFile
     } catch(error) {
       console.info(`There is no fixture for ${sentenceId}-${wordId}`, error)
