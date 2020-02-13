@@ -126,8 +126,8 @@ class ArethusaFixture {
     try {
       const sourceFile = library[sentenceId][wordId]
       return sourceFile
-    } catch {
-      console.info(`There is no fixture for ${sentenceId}-${wordId}`)
+    } catch(error) {
+      console.info(`There is no fixture for ${sentenceId}-${wordId}`, error)
       return {}
     }
   }
