@@ -6113,6 +6113,45 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/syr-tufts-fixtures.js":
+/*!***********************************************!*\
+  !*** ./tufts/localJson/syr-tufts-fixtures.js ***!
+  \***********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return SyrTuftsFixture; });
+/* harmony import */ var _tufts_localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/tufts/localJson/tufts-default.json */ "./tufts/localJson/tufts-default.json");
+var _tufts_localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/tufts-default.json */ "./tufts/localJson/tufts-default.json", 1);
+/* harmony import */ var _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/tufts/localJson/syr/syr-tufts-speak.json */ "./tufts/localJson/syr/syr-tufts-speak.json");
+var _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/syr/syr-tufts-speak.json */ "./tufts/localJson/syr/syr-tufts-speak.json", 1);
+
+
+
+class SyrTuftsFixture {
+  static get library () {
+    return {
+      default: _tufts_localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0__,
+      'ܘܐܡܪܝܢ': _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1__
+    }
+  }
+}
+
+/***/ }),
+
+/***/ "./tufts/localJson/syr/syr-tufts-speak.json":
+/*!**************************************************!*\
+  !*** ./tufts/localJson/syr/syr-tufts-speak.json ***!
+  \**************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ܘܐܡܪܝܢ:sedra\",\"creator\":{\"Agent\":{\"about\":\"sedra@bethmardutho.org\"}},\"created\":{\"$\":\"2020-02-14T14:50:19.948100\"},\"rights\":{\"$\":\"Morphology provided by Sedra from the Beth Mardutho Project at The Syriac Institute.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ܘܐܡܪܝܢ\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm175541376\"},{\"resource\":\"urn:uuid:idm174337936\"},{\"resource\":\"urn:uuid:idm174368656\"},{\"resource\":\"urn:uuid:idm174436080\"}],\"Body\":[{\"about\":\"urn:uuid:idm175541376\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܡܪ\"}},\"pofs\":{\"$\":\"verb\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"masculine\"},\"pers\":{\"$\":\"3rd\"},\"paradigm\":{\"cat\":\"kaylo\",\"$\":\"pʿal\"}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܡܪ\"},\"src\":[{\"$\":\"Toma Audo, Treasure of the Syriac Language: A Dictionary of Classical Syriac (Mosul: Imprimerie des pères dominicains, 1897-[1901]. Reprints: Chicago, 1978; Stockholm, 1979; Glane/Losser, 1985; Piscataway, NJ, 2008) Vol 1, p. 32 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 20 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 23 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 122 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"George A. Kiraz, SEDRA 3 ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Bar Bahlul, Bar Bahlul ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"}]},\"mean\":[{\"lang\":\"ara\"},{\"lang\":\"eng\",\"$\":\"speak\"},{\"lang\":\"eng\",\"$\":\"say\"},{\"lang\":\"eng\",\"$\":\"Ip.\"},{\"lang\":\"eng\",\"$\":\"Ia to say, speak\"},{\"lang\":\"eng\",\"$\":\"affirm\"},{\"lang\":\"eng\",\"$\":\"announce\"},{\"lang\":\"fre\"}]}}},{\"about\":\"urn:uuid:idm174337936\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܡܪ\"}},\"pofs\":{\"$\":\"verb\"},\"tense\":{\"$\":\"perfect\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"feminine\"},\"pers\":{\"$\":\"3rd\"},\"paradigm\":{\"cat\":\"kaylo\",\"$\":\"pʿal\"}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܡܪ\"},\"src\":[{\"$\":\"Toma Audo, Treasure of the Syriac Language: A Dictionary of Classical Syriac (Mosul: Imprimerie des pères dominicains, 1897-[1901]. Reprints: Chicago, 1978; Stockholm, 1979; Glane/Losser, 1985; Piscataway, NJ, 2008) Vol 1, p. 32 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 20 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 23 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 122 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"George A. Kiraz, SEDRA 3 ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Bar Bahlul, Bar Bahlul ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"}]},\"mean\":[{\"lang\":\"ara\"},{\"lang\":\"eng\",\"$\":\"Ip.\"},{\"lang\":\"eng\",\"$\":\"speak\"},{\"lang\":\"eng\",\"$\":\"say\"},{\"lang\":\"eng\",\"$\":\"affirm\"},{\"lang\":\"eng\",\"$\":\"Ia to say, speak\"},{\"lang\":\"eng\",\"$\":\"announce\"},{\"lang\":\"fre\"}]}}},{\"about\":\"urn:uuid:idm174368656\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܡܪ\"}},\"pofs\":{\"$\":\"verb\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"masculine\"},\"pers\":{\"$\":\"1st\"},\"paradigm\":{\"cat\":\"kaylo\",\"$\":\"pʿal\"}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܡܪ\"},\"src\":[{\"$\":\"Toma Audo, Treasure of the Syriac Language: A Dictionary of Classical Syriac (Mosul: Imprimerie des pères dominicains, 1897-[1901]. Reprints: Chicago, 1978; Stockholm, 1979; Glane/Losser, 1985; Piscataway, NJ, 2008) Vol 1, p. 32 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 20 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 23 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 122 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"George A. Kiraz, SEDRA 3 ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Bar Bahlul, Bar Bahlul ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"}]},\"mean\":[{\"lang\":\"ara\"},{\"lang\":\"eng\",\"$\":\"Ip.\"},{\"lang\":\"eng\",\"$\":\"speak\"},{\"lang\":\"eng\",\"$\":\"Ia to say, speak\"},{\"lang\":\"eng\",\"$\":\"affirm\"},{\"lang\":\"eng\",\"$\":\"announce\"},{\"lang\":\"eng\",\"$\":\"say\"},{\"lang\":\"fre\"}]}}},{\"about\":\"urn:uuid:idm174436080\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܡܪ\"}},\"pofs\":{\"$\":\"verb\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"masculine\"},\"pers\":{\"$\":\"2nd\"},\"paradigm\":{\"cat\":\"kaylo\",\"$\":\"pʿal\"}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܡܪ\"},\"src\":[{\"$\":\"Toma Audo, Treasure of the Syriac Language: A Dictionary of Classical Syriac (Mosul: Imprimerie des pères dominicains, 1897-[1901]. Reprints: Chicago, 1978; Stockholm, 1979; Glane/Losser, 1985; Piscataway, NJ, 2008) Vol 1, p. 32 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 20 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 23 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 122 [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"George A. Kiraz, SEDRA 3 ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"},{\"$\":\"Bar Bahlul, Bar Bahlul ܐܡܪ [from sedra.bethmardutho.org, accessed on Feb. 14, 2020]\"}]},\"mean\":[{\"lang\":\"ara\"},{\"lang\":\"eng\",\"$\":\"say\"},{\"lang\":\"eng\",\"$\":\"announce\"},{\"lang\":\"eng\",\"$\":\"speak\"},{\"lang\":\"eng\",\"$\":\"Ia to say, speak\"},{\"lang\":\"eng\",\"$\":\"affirm\"},{\"lang\":\"eng\",\"$\":\"Ip.\"},{\"lang\":\"fre\"}]}}}]}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/tufts-default.json":
 /*!********************************************!*\
   !*** ./tufts/localJson/tufts-default.json ***!
@@ -6139,6 +6178,8 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _tufts_localJson_gez_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/tufts/localJson/gez-tufts-fixtures.js */ "./tufts/localJson/gez-tufts-fixtures.js");
 /* harmony import */ var _tufts_localJson_grc_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/tufts/localJson/grc-tufts-fixtures.js */ "./tufts/localJson/grc-tufts-fixtures.js");
 /* harmony import */ var _tufts_localJson_lat_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @/tufts/localJson/lat-tufts-fixtures.js */ "./tufts/localJson/lat-tufts-fixtures.js");
+/* harmony import */ var _tufts_localJson_syr_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @/tufts/localJson/syr-tufts-fixtures.js */ "./tufts/localJson/syr-tufts-fixtures.js");
+
 
 
 
@@ -6146,6 +6187,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 const library = {
+  syr: {
+    tufts: _tufts_localJson_syr_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_5__["default"].library
+  },
   gez: {
     tufts: _tufts_localJson_gez_tufts_fixtures_js__WEBPACK_IMPORTED_MODULE_2__["default"].library
   },
@@ -6167,14 +6211,14 @@ class Fixture {
   static defineFileByParameters (params) {
     if (!library[params.langCode]) { return }
     if (!library[params.langCode][params.adapter]) { return }
-    
+
     return library[params.langCode][params.adapter][params.word] ? library[params.langCode][params.adapter][params.word] : library[params.langCode][params.adapter].default
   }
 
   static getFixtureRes(params) {
     const sourceFile = Fixture.defineFileByParameters(params)
-    
-    if (!sourceFile) { 
+
+    if (!sourceFile) {
       console.info('There is no fixture for ', params.langCode + '-' + params.adapter + '-' + params.word)
     }
 
