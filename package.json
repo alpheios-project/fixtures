@@ -1,7 +1,7 @@
 {
   "name": "alpheios-fixtures",
   "version": "1.2.0-dev.0",
-  "description": "Alpheios Fixtures for remote service",
+  "description": "Alpheios Fixtures for remote service (1.2.0-dev.1)",
   "main": "dist/alpheios-fixtures.min.js",
   "scripts": {
     "build": "node --experimental-modules ./node_modules/alpheios-node-build/dist/build.mjs all all vue config.mjs"
