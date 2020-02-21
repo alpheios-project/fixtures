@@ -113,7 +113,7 @@ var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__
 class ArethusaFixture {
   static get library () {
     return {
-      'example.org/treebank': {
+      'http://example.org/treebank': {
         '1' : {
           '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__
         }

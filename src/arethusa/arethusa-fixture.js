@@ -3,7 +3,7 @@ import Aberis from '@/arethusa/data/1-1.json'
 export default class ArethusaFixture {
   static get library () {
     return {
-      'example.org/treebank': {
+      'http://example.org/treebank': {
         '1' : {
           '1' : Aberis
         }
