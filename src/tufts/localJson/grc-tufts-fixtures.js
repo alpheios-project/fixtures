@@ -366,6 +366,7 @@ import GrcTuftsSfon from '@/tufts/localJson/grc/grc-tufts-sfon.json'
 import GrcTuftsYmas from '@/tufts/localJson/grc/grc-tufts-ymas.json'
 import GrcTuftsSou from '@/tufts/localJson/grc/grc-tufts-sou.json'
 import GrcTuftsMues from '@/tufts/localJson/grc/grc-tufts-mues.json'
+import GrcTuftsMuthos from '@/tufts/localJson/grc/grc-tufts-muthos.json'
 
 
 
@@ -726,7 +727,8 @@ export default class GrcTuftsFixture {
       'σφῷν': GrcTuftsSfon,
       'ὑμᾶς': GrcTuftsYmas,
       'σου': GrcTuftsSou,
-      'μύες': GrcTuftsMues
+      'μύες': GrcTuftsMues,
+      'μῦθος': GrcTuftsMuthos
 
     }
   }
