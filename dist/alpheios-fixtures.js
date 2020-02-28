@@ -1029,6 +1029,9 @@ var _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_307___name
 var _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_308___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ymas.json */ "./tufts/localJson/grc/grc-tufts-ymas.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json");
 var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json");
+var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json", 1);
+
 
 
 
@@ -1513,7 +1516,7 @@ class GrcTuftsFixture {
       'λελύσθαι': _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106__,
       'ἐλελύκη': _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__,
       'ἀγάγηται': _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108__,
-      
+
       'ἐβουλεύθην': _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_109__,
       'βουλευθῶ': _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__,
       'βουλευθείην': _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111__,
@@ -1536,7 +1539,7 @@ class GrcTuftsFixture {
       'νεανίαιν': _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_124__,
       'στρατιώτην': _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_125__,
       'στρατιώταις': _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_126__,
-      
+
       'ξηρή': _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_127__,
 
       'κλώψ': _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_128__,
@@ -1755,7 +1758,9 @@ class GrcTuftsFixture {
       'σοί': _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_306__,
       'σφῷν': _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_307__,
       'ὑμᾶς': _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_308__,
-      'σου': _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__
+      'σου': _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__,
+      'μύες': _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310__
+
     }
   }
 }
@@ -4091,6 +4096,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:μνᾶς:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-28T11:45:58.983919\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:μνᾶς\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140090967893368\"},\"Body\":{\"about\":\"urn:uuid:idm140090967893368\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"μνᾶ\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"gend\":{\"$\":\"feminine\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μν\"},\"suff\":{\"$\":\"ᾶς\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"ah_ahs\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μν\"},\"suff\":{\"$\":\"ᾶς\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic epic Doric Ionic Aeolic\"},\"stemtype\":{\"$\":\"ah_ahs\"},\"morph\":{\"$\":\"contr\"}}]}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-mues.json":
+/*!*************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-mues.json ***!
+  \*************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:μύες:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-02-28T18:45:02.664443\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:μύες\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140705326092680\"},{\"resource\":\"urn:uuid:idm140705331235272\"}],\"Body\":[{\"about\":\"urn:uuid:idm140705326092680\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"μύω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μυ\"},\"suff\":{\"$\":\"ε̄ς\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Doric\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μυ\"},\"suff\":{\"$\":\"ες\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Homeric Ionic\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"},\"morph\":{\"$\":\"unaugmented\"}}]}}},{\"about\":\"urn:uuid:idm140705331235272\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"μῦς\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"gend\":{\"$\":\"masculine\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μ\"},\"suff\":{\"$\":\"υες\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"uLs_uos\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μ\"},\"suff\":{\"$\":\"υες\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"uLs_uos\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"μ\"},\"suff\":{\"$\":\"υες\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"uLs_uos\"}}]}}}]}}}");
 
 /***/ }),
 
