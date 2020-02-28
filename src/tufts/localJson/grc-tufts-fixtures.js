@@ -365,6 +365,8 @@ import GrcTuftsSoi from '@/tufts/localJson/grc/grc-tufts-soi.json'
 import GrcTuftsSfon from '@/tufts/localJson/grc/grc-tufts-sfon.json'
 import GrcTuftsYmas from '@/tufts/localJson/grc/grc-tufts-ymas.json'
 import GrcTuftsSou from '@/tufts/localJson/grc/grc-tufts-sou.json'
+import GrcTuftsMues from '@/tufts/localJson/grc/grc-tufts-mues.json'
+import GrcTuftsMuthos from '@/tufts/localJson/grc/grc-tufts-muthos.json'
 
 
 
@@ -482,7 +484,7 @@ export default class GrcTuftsFixture {
       'λελύσθαι': GrcTuftsLelysthai,
       'ἐλελύκη': GrcTuftsElelyki,
       'ἀγάγηται': GrcTuftsAgagitai,
-      
+
       'ἐβουλεύθην': GrcTuftsEvolefthin,
       'βουλευθῶ': GrcTuftsVouleftho,
       'βουλευθείην': GrcTuftsVouleftheiin,
@@ -505,7 +507,7 @@ export default class GrcTuftsFixture {
       'νεανίαιν': GrcTuftsNeaniain,
       'στρατιώτην': GrcTuftsStratiotin,
       'στρατιώταις': GrcTuftsStratiotais,
-      
+
       'ξηρή': GrcTuftsXiri,
 
       'κλώψ': GrcTuftsKlops,
@@ -724,7 +726,10 @@ export default class GrcTuftsFixture {
       'σοί': GrcTuftsSoi,
       'σφῷν': GrcTuftsSfon,
       'ὑμᾶς': GrcTuftsYmas,
-      'σου': GrcTuftsSou
+      'σου': GrcTuftsSou,
+      'μύες': GrcTuftsMues,
+      'μῦθος': GrcTuftsMuthos
+
     }
   }
 }
