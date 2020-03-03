@@ -1035,6 +1035,9 @@ var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310___name
 var _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_311___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-muthos.json */ "./tufts/localJson/grc/grc-tufts-muthos.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json");
 var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json");
+var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json", 1);
+
 
 
 
@@ -1767,7 +1770,8 @@ class GrcTuftsFixture {
       'σου': _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__,
       'μύες': _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310__,
       'μῦθος': _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_311__,
-      'εἷκα': _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__
+      'εἷκα': _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__,
+      'ἑά̄λων': _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313__
     }
   }
 }
@@ -2806,6 +2810,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:δῦθι:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T12:55:14.862278\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:δῦθι\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140154430056160\"},\"Body\":{\"about\":\"urn:uuid:idm140154430056160\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"δύω2\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"δ\"},\"suff\":{\"$\":\"ῡθι\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"imperative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ath_u_aor\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-eagon.json":
+/*!**************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-eagon.json ***!
+  \**************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἑά̄λων:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-03T20:09:20.268877\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἑά̄λων\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm139871701313088\"},\"Body\":{\"about\":\"urn:uuid:idm139871701313088\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἁλίσκομαι\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἑᾱλ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"plural\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Attic epic Doric Aeolic\"},\"stemtype\":{\"$\":\"ath_w_aor\"},\"morph\":{\"$\":\"attic_redupl\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἑᾱλ\"},\"suff\":{\"$\":\"ων\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"ath_w_aor\"},\"morph\":{\"$\":\"attic_redupl\"}}]}}}}}}");
 
 /***/ }),
 
