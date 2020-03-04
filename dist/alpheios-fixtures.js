@@ -1039,6 +1039,9 @@ var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312___name
 var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json");
 var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json");
+var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json", 1);
+
 
 
 
@@ -1776,6 +1779,7 @@ class GrcTuftsFixture {
       'εἷκα': _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__,
       'ἑά̄λων': _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313__,
       'εἷμαι': _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314__,
+      'ἐπτάμην': _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315__
     }
   }
 }
@@ -3067,6 +3071,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἐποιοῦ:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T12:12:39.248210\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἐποιοῦ\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140440209562200\"},{\"resource\":\"urn:uuid:idm140440210087544\"}],\"Body\":[{\"about\":\"urn:uuid:idm140440209562200\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ποιέω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐ:ποι\"},\"suff\":{\"$\":\"οῦ\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"mediopassive\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"ew_pr\"},\"derivtype\":{\"$\":\"ew_denom\"},\"morph\":{\"$\":\"contr\"}}}}},{\"about\":\"urn:uuid:idm140440210087544\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ποιόω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐ:ποι\"},\"suff\":{\"$\":\"οῦ\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"mediopassive\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}}}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-eptamen.json":
+/*!****************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-eptamen.json ***!
+  \****************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἐπτάμην:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-04T20:45:51.174945\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἐπτάμην\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140705327865528\"},\"Body\":{\"about\":\"urn:uuid:idm140705327865528\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"πέτομαι\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐ:πτ\"},\"suff\":{\"$\":\"άμην\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"middle\"},\"stemtype\":{\"$\":\"ami_aor\"},\"derivtype\":{\"$\":\"a_stem\"},\"morph\":{\"$\":\"syncope\"}}}}}}}}");
 
 /***/ }),
 
