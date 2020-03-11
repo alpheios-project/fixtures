@@ -10,6 +10,15 @@ const webpack = {
         // Below will force all imported modules with unresolved dependencies to use a single instance of that dependency
         '@': path.join(projectRoot, 'src')
       }
+    },
+
+    module: {
+      rules: [
+        {
+          test: /\.xml$/i,
+          use: 'raw-loader',
+        },
+      ],
     }
   },
 
