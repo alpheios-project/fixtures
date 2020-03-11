@@ -477,570 +477,573 @@ var _tufts_localJson_grc_grc_tufts_aftois_json__WEBPACK_IMPORTED_MODULE_31___nam
 var _tufts_localJson_grc_grc_tufts_fyin_json__WEBPACK_IMPORTED_MODULE_32___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-fyin.json */ "./tufts/localJson/grc/grc-tufts-fyin.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_tis_json__WEBPACK_IMPORTED_MODULE_33__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tis.json */ "./tufts/localJson/grc/grc-tufts-tis.json");
 var _tufts_localJson_grc_grc_tufts_tis_json__WEBPACK_IMPORTED_MODULE_33___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tis.json */ "./tufts/localJson/grc/grc-tufts-tis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ode.json */ "./tufts/localJson/grc/grc-tufts-ode.json");
-var _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_34___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ode.json */ "./tufts/localJson/grc/grc-tufts-ode.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tous.json */ "./tufts/localJson/grc/grc-tufts-tous.json");
-var _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_35___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tous.json */ "./tufts/localJson/grc/grc-tufts-tous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dyo.json */ "./tufts/localJson/grc/grc-tufts-dyo.json");
-var _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_36___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dyo.json */ "./tufts/localJson/grc/grc-tufts-dyo.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevis.json */ "./tufts/localJson/grc/grc-tufts-voulevis.json");
-var _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_37___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevis.json */ "./tufts/localJson/grc/grc-tufts-voulevis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevesthon.json */ "./tufts/localJson/grc/grc-tufts-voulevesthon.json");
-var _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_38___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevesthon.json */ "./tufts/localJson/grc/grc-tufts-voulevesthon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevefso.json */ "./tufts/localJson/grc/grc-tufts-voulevefso.json");
-var _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_39___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevefso.json */ "./tufts/localJson/grc/grc-tufts-voulevefso.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagois.json */ "./tufts/localJson/grc/grc-tufts-agagois.json");
-var _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_40___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagois.json */ "./tufts/localJson/grc/grc-tufts-agagois.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagou.json */ "./tufts/localJson/grc/grc-tufts-agagou.json");
-var _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_41___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagou.json */ "./tufts/localJson/grc/grc-tufts-agagou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulefthis.json */ "./tufts/localJson/grc/grc-tufts-voulefthis.json");
-var _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_42___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulefthis.json */ "./tufts/localJson/grc/grc-tufts-voulefthis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leloipi.json */ "./tufts/localJson/grc/grc-tufts-leloipi.json");
-var _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_43___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leloipi.json */ "./tufts/localJson/grc/grc-tufts-leloipi.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gegrapsai.json */ "./tufts/localJson/grc/grc-tufts-gegrapsai.json");
-var _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_44___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gegrapsai.json */ "./tufts/localJson/grc/grc-tufts-gegrapsai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-memnomai.json */ "./tufts/localJson/grc/grc-tufts-memnomai.json");
-var _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_45___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-memnomai.json */ "./tufts/localJson/grc/grc-tufts-memnomai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-egegrapso.json */ "./tufts/localJson/grc/grc-tufts-egegrapso.json");
-var _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_46___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egegrapso.json */ "./tufts/localJson/grc/grc-tufts-egegrapso.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tethnixeis.json */ "./tufts/localJson/grc/grc-tufts-tethnixeis.json");
-var _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_47___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tethnixeis.json */ "./tufts/localJson/grc/grc-tufts-tethnixeis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estathi.json */ "./tufts/localJson/grc/grc-tufts-estathi.json");
-var _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_48___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estathi.json */ "./tufts/localJson/grc/grc-tufts-estathi.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tethnaton.json */ "./tufts/localJson/grc/grc-tufts-tethnaton.json");
-var _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_49___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tethnaton.json */ "./tufts/localJson/grc/grc-tufts-tethnaton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poieiton.json */ "./tufts/localJson/grc/grc-tufts-poieiton.json");
-var _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_50___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poieiton.json */ "./tufts/localJson/grc/grc-tufts-poieiton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eplei.json */ "./tufts/localJson/grc/grc-tufts-eplei.json");
-var _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_51___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eplei.json */ "./tufts/localJson/grc/grc-tufts-eplei.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-epoiou.json */ "./tufts/localJson/grc/grc-tufts-epoiou.json");
-var _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_52___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-epoiou.json */ "./tufts/localJson/grc/grc-tufts-epoiou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edeonto.json */ "./tufts/localJson/grc/grc-tufts-edeonto.json");
-var _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_53___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edeonto.json */ "./tufts/localJson/grc/grc-tufts-edeonto.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oras.json */ "./tufts/localJson/grc/grc-tufts-oras.json");
-var _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_54___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oras.json */ "./tufts/localJson/grc/grc-tufts-oras.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chromen.json */ "./tufts/localJson/grc/grc-tufts-chromen.json");
-var _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_55___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chromen.json */ "./tufts/localJson/grc/grc-tufts-chromen.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eorasthon.json */ "./tufts/localJson/grc/grc-tufts-eorasthon.json");
-var _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_56___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eorasthon.json */ "./tufts/localJson/grc/grc-tufts-eorasthon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chronto.json */ "./tufts/localJson/grc/grc-tufts-chronto.json");
-var _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_57___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chronto.json */ "./tufts/localJson/grc/grc-tufts-chronto.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dilois.json */ "./tufts/localJson/grc/grc-tufts-dilois.json");
-var _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_58___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dilois.json */ "./tufts/localJson/grc/grc-tufts-dilois.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dilousthon.json */ "./tufts/localJson/grc/grc-tufts-dilousthon.json");
-var _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_59___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dilousthon.json */ "./tufts/localJson/grc/grc-tufts-dilousthon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-etithetin.json */ "./tufts/localJson/grc/grc-tufts-etithetin.json");
-var _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_60___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-etithetin.json */ "./tufts/localJson/grc/grc-tufts-etithetin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tithesthon.json */ "./tufts/localJson/grc/grc-tufts-tithesthon.json");
-var _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_61___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tithesthon.json */ "./tufts/localJson/grc/grc-tufts-tithesthon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ethesan.json */ "./tufts/localJson/grc/grc-tufts-ethesan.json");
-var _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_62___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ethesan.json */ "./tufts/localJson/grc/grc-tufts-ethesan.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ethemetha.json */ "./tufts/localJson/grc/grc-tufts-ethemetha.json");
-var _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_63___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ethemetha.json */ "./tufts/localJson/grc/grc-tufts-ethemetha.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iin.json */ "./tufts/localJson/grc/grc-tufts-iin.json");
-var _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_64___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iin.json */ "./tufts/localJson/grc/grc-tufts-iin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iesthon.json */ "./tufts/localJson/grc/grc-tufts-iesthon.json");
-var _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_65___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iesthon.json */ "./tufts/localJson/grc/grc-tufts-iesthon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dido.json */ "./tufts/localJson/grc/grc-tufts-dido.json");
-var _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_66___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dido.json */ "./tufts/localJson/grc/grc-tufts-dido.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-didoio.json */ "./tufts/localJson/grc/grc-tufts-didoio.json");
-var _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_67___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-didoio.json */ "./tufts/localJson/grc/grc-tufts-didoio.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edoton.json */ "./tufts/localJson/grc/grc-tufts-edoton.json");
-var _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_68___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edoton.json */ "./tufts/localJson/grc/grc-tufts-edoton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dotai.json */ "./tufts/localJson/grc/grc-tufts-dotai.json");
-var _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_69___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dotai.json */ "./tufts/localJson/grc/grc-tufts-dotai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istatin.json */ "./tufts/localJson/grc/grc-tufts-istatin.json");
-var _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_70___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istatin.json */ "./tufts/localJson/grc/grc-tufts-istatin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istatai.json */ "./tufts/localJson/grc/grc-tufts-istatai.json");
-var _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_71___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istatai.json */ "./tufts/localJson/grc/grc-tufts-istatai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estitin.json */ "./tufts/localJson/grc/grc-tufts-estitin.json");
-var _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_72___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estitin.json */ "./tufts/localJson/grc/grc-tufts-estitin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edynato.json */ "./tufts/localJson/grc/grc-tufts-edynato.json");
-var _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_73___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edynato.json */ "./tufts/localJson/grc/grc-tufts-edynato.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-epististhe.json */ "./tufts/localJson/grc/grc-tufts-epististhe.json");
-var _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_74___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-epististhe.json */ "./tufts/localJson/grc/grc-tufts-epististhe.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edeiknyte.json */ "./tufts/localJson/grc/grc-tufts-edeiknyte.json");
-var _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_75___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edeiknyte.json */ "./tufts/localJson/grc/grc-tufts-edeiknyte.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-deiknytai.json */ "./tufts/localJson/grc/grc-tufts-deiknytai.json");
-var _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_76___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-deiknytai.json */ "./tufts/localJson/grc/grc-tufts-deiknytai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eston.json */ "./tufts/localJson/grc/grc-tufts-eston.json");
-var _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_77___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eston.json */ "./tufts/localJson/grc/grc-tufts-eston.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iton.json */ "./tufts/localJson/grc/grc-tufts-iton.json");
-var _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_78___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iton.json */ "./tufts/localJson/grc/grc-tufts-iton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-faiis.json */ "./tufts/localJson/grc/grc-tufts-faiis.json");
-var _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_79___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-faiis.json */ "./tufts/localJson/grc/grc-tufts-faiis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vito.json */ "./tufts/localJson/grc/grc-tufts-vito.json");
-var _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_80___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vito.json */ "./tufts/localJson/grc/grc-tufts-vito.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnoton.json */ "./tufts/localJson/grc/grc-tufts-gnoton.json");
-var _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_81___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnoton.json */ "./tufts/localJson/grc/grc-tufts-gnoton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dythi.json */ "./tufts/localJson/grc/grc-tufts-dythi.json");
-var _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_82___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dythi.json */ "./tufts/localJson/grc/grc-tufts-dythi.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideis.json */ "./tufts/localJson/grc/grc-tufts-ideis.json");
-var _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_83___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideis.json */ "./tufts/localJson/grc/grc-tufts-ideis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agontos.json */ "./tufts/localJson/grc/grc-tufts-agontos.json");
-var _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_84___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agontos.json */ "./tufts/localJson/grc/grc-tufts-agontos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-menoun.json */ "./tufts/localJson/grc/grc-tufts-menoun.json");
-var _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_85___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-menoun.json */ "./tufts/localJson/grc/grc-tufts-menoun.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-orosa.json */ "./tufts/localJson/grc/grc-tufts-orosa.json");
-var _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_86___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-orosa.json */ "./tufts/localJson/grc/grc-tufts-orosa.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lipon.json */ "./tufts/localJson/grc/grc-tufts-lipon.json");
-var _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_87___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lipon.json */ "./tufts/localJson/grc/grc-tufts-lipon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istante.json */ "./tufts/localJson/grc/grc-tufts-istante.json");
-var _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_88___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istante.json */ "./tufts/localJson/grc/grc-tufts-istante.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lysanta.json */ "./tufts/localJson/grc/grc-tufts-lysanta.json");
-var _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_89___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lysanta.json */ "./tufts/localJson/grc/grc-tufts-lysanta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lythentos.json */ "./tufts/localJson/grc/grc-tufts-lythentos.json");
-var _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_90___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lythentos.json */ "./tufts/localJson/grc/grc-tufts-lythentos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-didontoin.json */ "./tufts/localJson/grc/grc-tufts-didontoin.json");
-var _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_91___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-didontoin.json */ "./tufts/localJson/grc/grc-tufts-didontoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-deiknynta.json */ "./tufts/localJson/grc/grc-tufts-deiknynta.json");
-var _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_92___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-deiknynta.json */ "./tufts/localJson/grc/grc-tufts-deiknynta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leloipoton.json */ "./tufts/localJson/grc/grc-tufts-leloipoton.json");
-var _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_93___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leloipoton.json */ "./tufts/localJson/grc/grc-tufts-leloipoton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estosai.json */ "./tufts/localJson/grc/grc-tufts-estosai.json");
-var _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_94___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estosai.json */ "./tufts/localJson/grc/grc-tufts-estosai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pempomenous.json */ "./tufts/localJson/grc/grc-tufts-pempomenous.json");
-var _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_95___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pempomenous.json */ "./tufts/localJson/grc/grc-tufts-pempomenous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gegrammenoin.json */ "./tufts/localJson/grc/grc-tufts-gegrammenoin.json");
-var _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_96___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gegrammenoin.json */ "./tufts/localJson/grc/grc-tufts-gegrammenoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-zoni.json */ "./tufts/localJson/grc/grc-tufts-zoni.json");
-var _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_97___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-zoni.json */ "./tufts/localJson/grc/grc-tufts-zoni.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-syndeei.json */ "./tufts/localJson/grc/grc-tufts-syndeei.json");
-var _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_98___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-syndeei.json */ "./tufts/localJson/grc/grc-tufts-syndeei.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-me.json */ "./tufts/localJson/grc/grc-tufts-me.json");
-var _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_99___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-me.json */ "./tufts/localJson/grc/grc-tufts-me.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-synechis.json */ "./tufts/localJson/grc/grc-tufts-synechis.json");
-var _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_100___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-synechis.json */ "./tufts/localJson/grc/grc-tufts-synechis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tain.json */ "./tufts/localJson/grc/grc-tufts-tain.json");
-var _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_101___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tain.json */ "./tufts/localJson/grc/grc-tufts-tain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-emaftou.json */ "./tufts/localJson/grc/grc-tufts-emaftou.json");
-var _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_102___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-emaftou.json */ "./tufts/localJson/grc/grc-tufts-emaftou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agon.json */ "./tufts/localJson/grc/grc-tufts-agon.json");
-var _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_103___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agon.json */ "./tufts/localJson/grc/grc-tufts-agon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-anthropos.json */ "./tufts/localJson/grc/grc-tufts-anthropos.json");
-var _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_104___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-anthropos.json */ "./tufts/localJson/grc/grc-tufts-anthropos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estatin.json */ "./tufts/localJson/grc/grc-tufts-estatin.json");
-var _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_105___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estatin.json */ "./tufts/localJson/grc/grc-tufts-estatin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lelysthai.json */ "./tufts/localJson/grc/grc-tufts-lelysthai.json");
-var _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lelysthai.json */ "./tufts/localJson/grc/grc-tufts-lelysthai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json");
-var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json");
-var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evolefthin.json */ "./tufts/localJson/grc/grc-tufts-evolefthin.json");
-var _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_109___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evolefthin.json */ "./tufts/localJson/grc/grc-tufts-evolefthin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vouleftho.json */ "./tufts/localJson/grc/grc-tufts-vouleftho.json");
-var _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vouleftho.json */ "./tufts/localJson/grc/grc-tufts-vouleftho.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vouleftheiin.json */ "./tufts/localJson/grc/grc-tufts-vouleftheiin.json");
-var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vouleftheiin.json */ "./tufts/localJson/grc/grc-tufts-vouleftheiin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json");
-var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json");
-var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ergon.json */ "./tufts/localJson/grc/grc-tufts-ergon.json");
-var _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_114___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ergon.json */ "./tufts/localJson/grc/grc-tufts-ergon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-choras.json */ "./tufts/localJson/grc/grc-tufts-choras.json");
-var _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_115___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-choras.json */ "./tufts/localJson/grc/grc-tufts-choras.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chorain.json */ "./tufts/localJson/grc/grc-tufts-chorain.json");
-var _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_116___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chorain.json */ "./tufts/localJson/grc/grc-tufts-chorain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnomon.json */ "./tufts/localJson/grc/grc-tufts-gnomon.json");
-var _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_117___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnomon.json */ "./tufts/localJson/grc/grc-tufts-gnomon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnomin.json */ "./tufts/localJson/grc/grc-tufts-gnomin.json");
-var _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_118___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnomin.json */ "./tufts/localJson/grc/grc-tufts-gnomin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ygieia.json */ "./tufts/localJson/grc/grc-tufts-ygieia.json");
-var _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_119___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ygieia.json */ "./tufts/localJson/grc/grc-tufts-ygieia.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ygieiain.json */ "./tufts/localJson/grc/grc-tufts-ygieiain.json");
-var _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_120___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ygieiain.json */ "./tufts/localJson/grc/grc-tufts-ygieiain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thalattan.json */ "./tufts/localJson/grc/grc-tufts-thalattan.json");
-var _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_121___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thalattan.json */ "./tufts/localJson/grc/grc-tufts-thalattan.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thalattas.json */ "./tufts/localJson/grc/grc-tufts-thalattas.json");
-var _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_122___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thalattas.json */ "./tufts/localJson/grc/grc-tufts-thalattas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neaniou.json */ "./tufts/localJson/grc/grc-tufts-neaniou.json");
-var _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_123___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neaniou.json */ "./tufts/localJson/grc/grc-tufts-neaniou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neaniain.json */ "./tufts/localJson/grc/grc-tufts-neaniain.json");
-var _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_124___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neaniain.json */ "./tufts/localJson/grc/grc-tufts-neaniain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-stratiotin.json */ "./tufts/localJson/grc/grc-tufts-stratiotin.json");
-var _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_125___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-stratiotin.json */ "./tufts/localJson/grc/grc-tufts-stratiotin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-stratiotais.json */ "./tufts/localJson/grc/grc-tufts-stratiotais.json");
-var _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_126___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-stratiotais.json */ "./tufts/localJson/grc/grc-tufts-stratiotais.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json");
-var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_127___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-klops.json */ "./tufts/localJson/grc/grc-tufts-klops.json");
-var _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_128___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-klops.json */ "./tufts/localJson/grc/grc-tufts-klops.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-klope.json */ "./tufts/localJson/grc/grc-tufts-klope.json");
-var _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_129___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-klope.json */ "./tufts/localJson/grc/grc-tufts-klope.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-fylakon.json */ "./tufts/localJson/grc/grc-tufts-fylakon.json");
-var _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_130___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-fylakon.json */ "./tufts/localJson/grc/grc-tufts-fylakon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-fylax.json */ "./tufts/localJson/grc/grc-tufts-fylax.json");
-var _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_131___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-fylax.json */ "./tufts/localJson/grc/grc-tufts-fylax.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charis.json */ "./tufts/localJson/grc/grc-tufts-charis.json");
-var _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_132___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charis.json */ "./tufts/localJson/grc/grc-tufts-charis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charites.json */ "./tufts/localJson/grc/grc-tufts-charites.json");
-var _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_133___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charites.json */ "./tufts/localJson/grc/grc-tufts-charites.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aspidoin.json */ "./tufts/localJson/grc/grc-tufts-aspidoin.json");
-var _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_134___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aspidoin.json */ "./tufts/localJson/grc/grc-tufts-aspidoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aspidas.json */ "./tufts/localJson/grc/grc-tufts-aspidas.json");
-var _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_135___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aspidas.json */ "./tufts/localJson/grc/grc-tufts-aspidas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ellada.json */ "./tufts/localJson/grc/grc-tufts-ellada.json");
-var _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_136___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ellada.json */ "./tufts/localJson/grc/grc-tufts-ellada.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-elladoin.json */ "./tufts/localJson/grc/grc-tufts-elladoin.json");
-var _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_137___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-elladoin.json */ "./tufts/localJson/grc/grc-tufts-elladoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gerontos.json */ "./tufts/localJson/grc/grc-tufts-gerontos.json");
-var _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_138___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gerontos.json */ "./tufts/localJson/grc/grc-tufts-gerontos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geronton.json */ "./tufts/localJson/grc/grc-tufts-geronton.json");
-var _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_139___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geronton.json */ "./tufts/localJson/grc/grc-tufts-geronton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-giganta.json */ "./tufts/localJson/grc/grc-tufts-giganta.json");
-var _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_140___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-giganta.json */ "./tufts/localJson/grc/grc-tufts-giganta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-giganton.json */ "./tufts/localJson/grc/grc-tufts-giganton.json");
-var _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_141___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-giganton.json */ "./tufts/localJson/grc/grc-tufts-giganton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-odontoin.json */ "./tufts/localJson/grc/grc-tufts-odontoin.json");
-var _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_142___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-odontoin.json */ "./tufts/localJson/grc/grc-tufts-odontoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-odontos.json */ "./tufts/localJson/grc/grc-tufts-odontos.json");
-var _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_143___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-odontos.json */ "./tufts/localJson/grc/grc-tufts-odontos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pragmatos.json */ "./tufts/localJson/grc/grc-tufts-pragmatos.json");
-var _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_144___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pragmatos.json */ "./tufts/localJson/grc/grc-tufts-pragmatos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_145__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pragmatoin.json */ "./tufts/localJson/grc/grc-tufts-pragmatoin.json");
-var _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_145___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pragmatoin.json */ "./tufts/localJson/grc/grc-tufts-pragmatoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_146__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-terati.json */ "./tufts/localJson/grc/grc-tufts-terati.json");
-var _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_146___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-terati.json */ "./tufts/localJson/grc/grc-tufts-terati.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_147__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-teraton.json */ "./tufts/localJson/grc/grc-tufts-teraton.json");
-var _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_147___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-teraton.json */ "./tufts/localJson/grc/grc-tufts-teraton.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_148__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ritoros.json */ "./tufts/localJson/grc/grc-tufts-ritoros.json");
-var _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_148___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ritoros.json */ "./tufts/localJson/grc/grc-tufts-ritoros.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_149__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ritores.json */ "./tufts/localJson/grc/grc-tufts-ritores.json");
-var _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_149___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ritores.json */ "./tufts/localJson/grc/grc-tufts-ritores.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_150__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-daimon.json */ "./tufts/localJson/grc/grc-tufts-daimon.json");
-var _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_150___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-daimon.json */ "./tufts/localJson/grc/grc-tufts-daimon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_151__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-daimonas.json */ "./tufts/localJson/grc/grc-tufts-daimonas.json");
-var _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_151___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-daimonas.json */ "./tufts/localJson/grc/grc-tufts-daimonas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_152__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agona.json */ "./tufts/localJson/grc/grc-tufts-agona.json");
-var _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_152___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agona.json */ "./tufts/localJson/grc/grc-tufts-agona.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_153__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agonon.json */ "./tufts/localJson/grc/grc-tufts-agonon.json");
-var _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_153___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agonon.json */ "./tufts/localJson/grc/grc-tufts-agonon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_154__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ali.json */ "./tufts/localJson/grc/grc-tufts-ali.json");
-var _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_154___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ali.json */ "./tufts/localJson/grc/grc-tufts-ali.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_155__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aloin.json */ "./tufts/localJson/grc/grc-tufts-aloin.json");
-var _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_155___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aloin.json */ "./tufts/localJson/grc/grc-tufts-aloin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_156__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-patri.json */ "./tufts/localJson/grc/grc-tufts-patri.json");
-var _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_156___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-patri.json */ "./tufts/localJson/grc/grc-tufts-patri.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_157__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pateroin.json */ "./tufts/localJson/grc/grc-tufts-pateroin.json");
-var _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pateroin.json */ "./tufts/localJson/grc/grc-tufts-pateroin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mitera.json */ "./tufts/localJson/grc/grc-tufts-mitera.json");
-var _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mitera.json */ "./tufts/localJson/grc/grc-tufts-mitera.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-miteron.json */ "./tufts/localJson/grc/grc-tufts-miteron.json");
-var _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-miteron.json */ "./tufts/localJson/grc/grc-tufts-miteron.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_160__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thygatera.json */ "./tufts/localJson/grc/grc-tufts-thygatera.json");
-var _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_160___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thygatera.json */ "./tufts/localJson/grc/grc-tufts-thygatera.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_161__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thygateroin.json */ "./tufts/localJson/grc/grc-tufts-thygateroin.json");
-var _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_161___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thygateroin.json */ "./tufts/localJson/grc/grc-tufts-thygateroin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_162__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-andri.json */ "./tufts/localJson/grc/grc-tufts-andri.json");
-var _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_162___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-andri.json */ "./tufts/localJson/grc/grc-tufts-andri.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_163__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-andron.json */ "./tufts/localJson/grc/grc-tufts-andron.json");
-var _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_163___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-andron.json */ "./tufts/localJson/grc/grc-tufts-andron.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_164__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-triirous.json */ "./tufts/localJson/grc/grc-tufts-triirous.json");
-var _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_164___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-triirous.json */ "./tufts/localJson/grc/grc-tufts-triirous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_165__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-triireis.json */ "./tufts/localJson/grc/grc-tufts-triireis.json");
-var _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_165___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-triireis.json */ "./tufts/localJson/grc/grc-tufts-triireis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_166__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-genei.json */ "./tufts/localJson/grc/grc-tufts-genei.json");
-var _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_166___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-genei.json */ "./tufts/localJson/grc/grc-tufts-genei.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_167__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geni.json */ "./tufts/localJson/grc/grc-tufts-geni.json");
-var _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_167___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geni.json */ "./tufts/localJson/grc/grc-tufts-geni.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_168__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gera.json */ "./tufts/localJson/grc/grc-tufts-gera.json");
-var _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_168___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gera.json */ "./tufts/localJson/grc/grc-tufts-gera.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_169__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geron.json */ "./tufts/localJson/grc/grc-tufts-geron.json");
-var _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_169___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geron.json */ "./tufts/localJson/grc/grc-tufts-geron.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_170__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gynaiki.json */ "./tufts/localJson/grc/grc-tufts-gynaiki.json");
-var _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_170___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gynaiki.json */ "./tufts/localJson/grc/grc-tufts-gynaiki.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_171__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gynaikas.json */ "./tufts/localJson/grc/grc-tufts-gynaikas.json");
-var _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_171___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gynaikas.json */ "./tufts/localJson/grc/grc-tufts-gynaikas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_172__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-cheire.json */ "./tufts/localJson/grc/grc-tufts-cheire.json");
-var _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_172___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-cheire.json */ "./tufts/localJson/grc/grc-tufts-cheire.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_173__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-cheiras.json */ "./tufts/localJson/grc/grc-tufts-cheiras.json");
-var _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_173___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-cheiras.json */ "./tufts/localJson/grc/grc-tufts-cheiras.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_174__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yeos.json */ "./tufts/localJson/grc/grc-tufts-yeos.json");
-var _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_174___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yeos.json */ "./tufts/localJson/grc/grc-tufts-yeos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_175__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yieos.json */ "./tufts/localJson/grc/grc-tufts-yieos.json");
-var _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_175___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yieos.json */ "./tufts/localJson/grc/grc-tufts-yieos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_176__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yioin.json */ "./tufts/localJson/grc/grc-tufts-yioin.json");
-var _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_176___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yioin.json */ "./tufts/localJson/grc/grc-tufts-yioin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_177__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poleos.json */ "./tufts/localJson/grc/grc-tufts-poleos.json");
-var _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_177___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poleos.json */ "./tufts/localJson/grc/grc-tufts-poleos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_178__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poleoin.json */ "./tufts/localJson/grc/grc-tufts-poleoin.json");
-var _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_178___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poleoin.json */ "./tufts/localJson/grc/grc-tufts-poleoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_179__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pichyn.json */ "./tufts/localJson/grc/grc-tufts-pichyn.json");
-var _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_179___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pichyn.json */ "./tufts/localJson/grc/grc-tufts-pichyn.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_180__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-picheon.json */ "./tufts/localJson/grc/grc-tufts-picheon.json");
-var _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_180___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-picheon.json */ "./tufts/localJson/grc/grc-tufts-picheon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_181__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-astei.json */ "./tufts/localJson/grc/grc-tufts-astei.json");
-var _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_181___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-astei.json */ "./tufts/localJson/grc/grc-tufts-astei.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_182__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-asteon.json */ "./tufts/localJson/grc/grc-tufts-asteon.json");
-var _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_182___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-asteon.json */ "./tufts/localJson/grc/grc-tufts-asteon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_183__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ichthyos.json */ "./tufts/localJson/grc/grc-tufts-ichthyos.json");
-var _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_183___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ichthyos.json */ "./tufts/localJson/grc/grc-tufts-ichthyos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_184__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ichthyes.json */ "./tufts/localJson/grc/grc-tufts-ichthyes.json");
-var _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_184___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ichthyes.json */ "./tufts/localJson/grc/grc-tufts-ichthyes.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_185__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ippeos.json */ "./tufts/localJson/grc/grc-tufts-ippeos.json");
-var _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_185___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ippeos.json */ "./tufts/localJson/grc/grc-tufts-ippeos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_186__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ippeoin.json */ "./tufts/localJson/grc/grc-tufts-ippeoin.json");
-var _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_186___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ippeoin.json */ "./tufts/localJson/grc/grc-tufts-ippeoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_187__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gravn.json */ "./tufts/localJson/grc/grc-tufts-gravn.json");
-var _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_187___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gravn.json */ "./tufts/localJson/grc/grc-tufts-gravn.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_188__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-graoin.json */ "./tufts/localJson/grc/grc-tufts-graoin.json");
-var _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_188___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-graoin.json */ "./tufts/localJson/grc/grc-tufts-graoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_189__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-navn.json */ "./tufts/localJson/grc/grc-tufts-navn.json");
-var _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_189___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-navn.json */ "./tufts/localJson/grc/grc-tufts-navn.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_190__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neon.json */ "./tufts/localJson/grc/grc-tufts-neon.json");
-var _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_190___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neon.json */ "./tufts/localJson/grc/grc-tufts-neon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_191__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voun.json */ "./tufts/localJson/grc/grc-tufts-voun.json");
-var _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_191___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voun.json */ "./tufts/localJson/grc/grc-tufts-voun.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_192__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voon.json */ "./tufts/localJson/grc/grc-tufts-voon.json");
-var _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_192___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voon.json */ "./tufts/localJson/grc/grc-tufts-voon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_193__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-nou.json */ "./tufts/localJson/grc/grc-tufts-nou.json");
-var _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_193___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-nou.json */ "./tufts/localJson/grc/grc-tufts-nou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_194__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-noin.json */ "./tufts/localJson/grc/grc-tufts-noin.json");
-var _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_194___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-noin.json */ "./tufts/localJson/grc/grc-tufts-noin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_195__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-kanou.json */ "./tufts/localJson/grc/grc-tufts-kanou.json");
-var _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_195___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-kanou.json */ "./tufts/localJson/grc/grc-tufts-kanou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_196__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-kanoin.json */ "./tufts/localJson/grc/grc-tufts-kanoin.json");
-var _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_196___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-kanoin.json */ "./tufts/localJson/grc/grc-tufts-kanoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_197__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gis.json */ "./tufts/localJson/grc/grc-tufts-gis.json");
-var _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_197___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gis.json */ "./tufts/localJson/grc/grc-tufts-gis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_198__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gin.json */ "./tufts/localJson/grc/grc-tufts-gin.json");
-var _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_198___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gin.json */ "./tufts/localJson/grc/grc-tufts-gin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_199__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sykis.json */ "./tufts/localJson/grc/grc-tufts-sykis.json");
-var _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_199___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sykis.json */ "./tufts/localJson/grc/grc-tufts-sykis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_200__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sykai.json */ "./tufts/localJson/grc/grc-tufts-sykai.json");
-var _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_200___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sykai.json */ "./tufts/localJson/grc/grc-tufts-sykai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_201__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mnas.json */ "./tufts/localJson/grc/grc-tufts-mnas.json");
-var _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_201___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mnas.json */ "./tufts/localJson/grc/grc-tufts-mnas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_202__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mnais.json */ "./tufts/localJson/grc/grc-tufts-mnais.json");
-var _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_202___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mnais.json */ "./tufts/localJson/grc/grc-tufts-mnais.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_203__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ermin.json */ "./tufts/localJson/grc/grc-tufts-ermin.json");
-var _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_203___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ermin.json */ "./tufts/localJson/grc/grc-tufts-ermin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_204__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ermas.json */ "./tufts/localJson/grc/grc-tufts-ermas.json");
-var _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_204___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ermas.json */ "./tufts/localJson/grc/grc-tufts-ermas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_205__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neo.json */ "./tufts/localJson/grc/grc-tufts-neo.json");
-var _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_205___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neo.json */ "./tufts/localJson/grc/grc-tufts-neo.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_206__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neos.json */ "./tufts/localJson/grc/grc-tufts-neos.json");
-var _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_206___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neos.json */ "./tufts/localJson/grc/grc-tufts-neos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_207__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leon.json */ "./tufts/localJson/grc/grc-tufts-leon.json");
-var _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_207___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leon.json */ "./tufts/localJson/grc/grc-tufts-leon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_208__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leos.json */ "./tufts/localJson/grc/grc-tufts-leos.json");
-var _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_208___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leos.json */ "./tufts/localJson/grc/grc-tufts-leos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_209__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lago.json */ "./tufts/localJson/grc/grc-tufts-lago.json");
-var _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_209___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lago.json */ "./tufts/localJson/grc/grc-tufts-lago.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_210__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lagos.json */ "./tufts/localJson/grc/grc-tufts-lagos.json");
-var _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_210___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lagos.json */ "./tufts/localJson/grc/grc-tufts-lagos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_211__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eos.json */ "./tufts/localJson/grc/grc-tufts-eos.json");
-var _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_211___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eos.json */ "./tufts/localJson/grc/grc-tufts-eos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_212__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eo.json */ "./tufts/localJson/grc/grc-tufts-eo.json");
-var _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_212___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eo.json */ "./tufts/localJson/grc/grc-tufts-eo.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_213__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aidous.json */ "./tufts/localJson/grc/grc-tufts-aidous.json");
-var _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_213___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aidous.json */ "./tufts/localJson/grc/grc-tufts-aidous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_214__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aidos.json */ "./tufts/localJson/grc/grc-tufts-aidos.json");
-var _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_214___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aidos.json */ "./tufts/localJson/grc/grc-tufts-aidos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_215__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iroa.json */ "./tufts/localJson/grc/grc-tufts-iroa.json");
-var _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_215___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iroa.json */ "./tufts/localJson/grc/grc-tufts-iroa.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_216__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iroon.json */ "./tufts/localJson/grc/grc-tufts-iroon.json");
-var _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_216___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iroon.json */ "./tufts/localJson/grc/grc-tufts-iroon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_217__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axiou.json */ "./tufts/localJson/grc/grc-tufts-axiou.json");
-var _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_217___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axiou.json */ "./tufts/localJson/grc/grc-tufts-axiou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_218__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axioin.json */ "./tufts/localJson/grc/grc-tufts-axioin.json");
-var _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_218___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axioin.json */ "./tufts/localJson/grc/grc-tufts-axioin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_219__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axious.json */ "./tufts/localJson/grc/grc-tufts-axious.json");
-var _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_219___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axious.json */ "./tufts/localJson/grc/grc-tufts-axious.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_220__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axian.json */ "./tufts/localJson/grc/grc-tufts-axian.json");
-var _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_220___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axian.json */ "./tufts/localJson/grc/grc-tufts-axian.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_221__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axion.json */ "./tufts/localJson/grc/grc-tufts-axion.json");
-var _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_221___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axion.json */ "./tufts/localJson/grc/grc-tufts-axion.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_222__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axio.json */ "./tufts/localJson/grc/grc-tufts-axio.json");
-var _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_222___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axio.json */ "./tufts/localJson/grc/grc-tufts-axio.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_223__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axiois.json */ "./tufts/localJson/grc/grc-tufts-axiois.json");
-var _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_223___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axiois.json */ "./tufts/localJson/grc/grc-tufts-axiois.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_224__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathou.json */ "./tufts/localJson/grc/grc-tufts-agathou.json");
-var _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_224___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathou.json */ "./tufts/localJson/grc/grc-tufts-agathou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_225__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathoin.json */ "./tufts/localJson/grc/grc-tufts-agathoin.json");
-var _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_225___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathoin.json */ "./tufts/localJson/grc/grc-tufts-agathoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_226__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathin.json */ "./tufts/localJson/grc/grc-tufts-agathin.json");
-var _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_226___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathin.json */ "./tufts/localJson/grc/grc-tufts-agathin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_227__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathon.json */ "./tufts/localJson/grc/grc-tufts-agathon.json");
-var _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_227___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathon.json */ "./tufts/localJson/grc/grc-tufts-agathon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_228__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agatho.json */ "./tufts/localJson/grc/grc-tufts-agatho.json");
-var _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_228___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agatho.json */ "./tufts/localJson/grc/grc-tufts-agatho.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_229__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agatha.json */ "./tufts/localJson/grc/grc-tufts-agatha.json");
-var _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_229___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agatha.json */ "./tufts/localJson/grc/grc-tufts-agatha.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_230__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikou.json */ "./tufts/localJson/grc/grc-tufts-adikou.json");
-var _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_230___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikou.json */ "./tufts/localJson/grc/grc-tufts-adikou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_231__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikon.json */ "./tufts/localJson/grc/grc-tufts-adikon.json");
-var _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_231___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikon.json */ "./tufts/localJson/grc/grc-tufts-adikon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_232__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikoin.json */ "./tufts/localJson/grc/grc-tufts-adikoin.json");
-var _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_232___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikoin.json */ "./tufts/localJson/grc/grc-tufts-adikoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_233__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adika.json */ "./tufts/localJson/grc/grc-tufts-adika.json");
-var _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_233___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adika.json */ "./tufts/localJson/grc/grc-tufts-adika.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_234__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithous.json */ "./tufts/localJson/grc/grc-tufts-alithous.json");
-var _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_234___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithous.json */ "./tufts/localJson/grc/grc-tufts-alithous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_235__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alitheis.json */ "./tufts/localJson/grc/grc-tufts-alitheis.json");
-var _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_235___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alitheis.json */ "./tufts/localJson/grc/grc-tufts-alitheis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_236__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithes.json */ "./tufts/localJson/grc/grc-tufts-alithes.json");
-var _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_236___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithes.json */ "./tufts/localJson/grc/grc-tufts-alithes.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_237__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithoin.json */ "./tufts/localJson/grc/grc-tufts-alithoin.json");
-var _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_237___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithoin.json */ "./tufts/localJson/grc/grc-tufts-alithoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_238__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofron.json */ "./tufts/localJson/grc/grc-tufts-sofron.json");
-var _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_238___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofron.json */ "./tufts/localJson/grc/grc-tufts-sofron.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_239__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofronas.json */ "./tufts/localJson/grc/grc-tufts-sofronas.json");
-var _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_239___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofronas.json */ "./tufts/localJson/grc/grc-tufts-sofronas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_240__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofrone.json */ "./tufts/localJson/grc/grc-tufts-sofrone.json");
-var _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_240___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofrone.json */ "./tufts/localJson/grc/grc-tufts-sofrone.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_241__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofrona.json */ "./tufts/localJson/grc/grc-tufts-sofrona.json");
-var _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_241___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofrona.json */ "./tufts/localJson/grc/grc-tufts-sofrona.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_242__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideos.json */ "./tufts/localJson/grc/grc-tufts-ideos.json");
-var _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_242___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideos.json */ "./tufts/localJson/grc/grc-tufts-ideos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_243__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideoin.json */ "./tufts/localJson/grc/grc-tufts-ideoin.json");
-var _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_243___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideoin.json */ "./tufts/localJson/grc/grc-tufts-ideoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_244__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideian.json */ "./tufts/localJson/grc/grc-tufts-ideian.json");
-var _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_244___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideian.json */ "./tufts/localJson/grc/grc-tufts-ideian.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_245__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideiais.json */ "./tufts/localJson/grc/grc-tufts-ideiais.json");
-var _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_245___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideiais.json */ "./tufts/localJson/grc/grc-tufts-ideiais.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_246__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-idy.json */ "./tufts/localJson/grc/grc-tufts-idy.json");
-var _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_246___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-idy.json */ "./tufts/localJson/grc/grc-tufts-idy.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_247__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-idea.json */ "./tufts/localJson/grc/grc-tufts-idea.json");
-var _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_247___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-idea.json */ "./tufts/localJson/grc/grc-tufts-idea.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_248__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melani.json */ "./tufts/localJson/grc/grc-tufts-melani.json");
-var _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_248___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melani.json */ "./tufts/localJson/grc/grc-tufts-melani.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_249__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melanoin.json */ "./tufts/localJson/grc/grc-tufts-melanoin.json");
-var _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_249___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melanoin.json */ "./tufts/localJson/grc/grc-tufts-melanoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_250__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melainis.json */ "./tufts/localJson/grc/grc-tufts-melainis.json");
-var _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_250___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melainis.json */ "./tufts/localJson/grc/grc-tufts-melainis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_251__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melainais.json */ "./tufts/localJson/grc/grc-tufts-melainais.json");
-var _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_251___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melainais.json */ "./tufts/localJson/grc/grc-tufts-melainais.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_252__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melan.json */ "./tufts/localJson/grc/grc-tufts-melan.json");
-var _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_252___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melan.json */ "./tufts/localJson/grc/grc-tufts-melan.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_253__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melana.json */ "./tufts/localJson/grc/grc-tufts-melana.json");
-var _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_253___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melana.json */ "./tufts/localJson/grc/grc-tufts-melana.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_254__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charientos.json */ "./tufts/localJson/grc/grc-tufts-charientos.json");
-var _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_254___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charientos.json */ "./tufts/localJson/grc/grc-tufts-charientos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_255__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariente.json */ "./tufts/localJson/grc/grc-tufts-chariente.json");
-var _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_255___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariente.json */ "./tufts/localJson/grc/grc-tufts-chariente.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_256__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariessain.json */ "./tufts/localJson/grc/grc-tufts-chariessain.json");
-var _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_256___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariessain.json */ "./tufts/localJson/grc/grc-tufts-chariessain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_257__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariessas.json */ "./tufts/localJson/grc/grc-tufts-chariessas.json");
-var _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_257___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariessas.json */ "./tufts/localJson/grc/grc-tufts-chariessas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_258__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charienti.json */ "./tufts/localJson/grc/grc-tufts-charienti.json");
-var _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_258___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charienti.json */ "./tufts/localJson/grc/grc-tufts-charienti.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_259__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charienta.json */ "./tufts/localJson/grc/grc-tufts-charienta.json");
-var _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_259___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charienta.json */ "./tufts/localJson/grc/grc-tufts-charienta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_260__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pas.json */ "./tufts/localJson/grc/grc-tufts-pas.json");
-var _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_260___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pas.json */ "./tufts/localJson/grc/grc-tufts-pas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_261__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pantes.json */ "./tufts/localJson/grc/grc-tufts-pantes.json");
-var _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_261___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pantes.json */ "./tufts/localJson/grc/grc-tufts-pantes.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_262__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pasas.json */ "./tufts/localJson/grc/grc-tufts-pasas.json");
-var _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_262___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pasas.json */ "./tufts/localJson/grc/grc-tufts-pasas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_263__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-panti.json */ "./tufts/localJson/grc/grc-tufts-panti.json");
-var _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_263___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-panti.json */ "./tufts/localJson/grc/grc-tufts-panti.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_264__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-panta.json */ "./tufts/localJson/grc/grc-tufts-panta.json");
-var _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_264___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-panta.json */ "./tufts/localJson/grc/grc-tufts-panta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_265__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysou.json */ "./tufts/localJson/grc/grc-tufts-chrysou.json");
-var _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_265___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysou.json */ "./tufts/localJson/grc/grc-tufts-chrysou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_266__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysoin.json */ "./tufts/localJson/grc/grc-tufts-chrysoin.json");
-var _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_266___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysoin.json */ "./tufts/localJson/grc/grc-tufts-chrysoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_267__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysin.json */ "./tufts/localJson/grc/grc-tufts-chrysin.json");
-var _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_267___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysin.json */ "./tufts/localJson/grc/grc-tufts-chrysin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_268__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysais.json */ "./tufts/localJson/grc/grc-tufts-chrysais.json");
-var _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_268___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysais.json */ "./tufts/localJson/grc/grc-tufts-chrysais.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_269__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chryso.json */ "./tufts/localJson/grc/grc-tufts-chryso.json");
-var _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_269___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chryso.json */ "./tufts/localJson/grc/grc-tufts-chryso.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_270__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysa.json */ "./tufts/localJson/grc/grc-tufts-chrysa.json");
-var _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_270___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysa.json */ "./tufts/localJson/grc/grc-tufts-chrysa.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_271__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyrous.json */ "./tufts/localJson/grc/grc-tufts-argyrous.json");
-var _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_271___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyrous.json */ "./tufts/localJson/grc/grc-tufts-argyrous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_272__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyroin.json */ "./tufts/localJson/grc/grc-tufts-argyroin.json");
-var _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_272___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyroin.json */ "./tufts/localJson/grc/grc-tufts-argyroin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_273__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyras.json */ "./tufts/localJson/grc/grc-tufts-argyras.json");
-var _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_273___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyras.json */ "./tufts/localJson/grc/grc-tufts-argyras.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_274__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyron.json */ "./tufts/localJson/grc/grc-tufts-argyron.json");
-var _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_274___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyron.json */ "./tufts/localJson/grc/grc-tufts-argyron.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_275__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyroun.json */ "./tufts/localJson/grc/grc-tufts-argyroun.json");
-var _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_275___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyroun.json */ "./tufts/localJson/grc/grc-tufts-argyroun.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_276__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyra.json */ "./tufts/localJson/grc/grc-tufts-argyra.json");
-var _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_276___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyra.json */ "./tufts/localJson/grc/grc-tufts-argyra.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_277__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnous.json */ "./tufts/localJson/grc/grc-tufts-evnous.json");
-var _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_277___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnous.json */ "./tufts/localJson/grc/grc-tufts-evnous.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_278__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnoin.json */ "./tufts/localJson/grc/grc-tufts-evnoin.json");
-var _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_278___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnoin.json */ "./tufts/localJson/grc/grc-tufts-evnoin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_279__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnois.json */ "./tufts/localJson/grc/grc-tufts-evnois.json");
-var _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_279___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnois.json */ "./tufts/localJson/grc/grc-tufts-evnois.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_280__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evno.json */ "./tufts/localJson/grc/grc-tufts-evno.json");
-var _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_280___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evno.json */ "./tufts/localJson/grc/grc-tufts-evno.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_281__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplou.json */ "./tufts/localJson/grc/grc-tufts-aplou.json");
-var _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_281___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplou.json */ "./tufts/localJson/grc/grc-tufts-aplou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_282__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploin.json */ "./tufts/localJson/grc/grc-tufts-aploin.json");
-var _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_282___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploin.json */ "./tufts/localJson/grc/grc-tufts-aploin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_283__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplon.json */ "./tufts/localJson/grc/grc-tufts-aplon.json");
-var _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_283___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplon.json */ "./tufts/localJson/grc/grc-tufts-aplon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_284__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplis.json */ "./tufts/localJson/grc/grc-tufts-aplis.json");
-var _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_284___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplis.json */ "./tufts/localJson/grc/grc-tufts-aplis.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_285__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploun.json */ "./tufts/localJson/grc/grc-tufts-aploun.json");
-var _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_285___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploun.json */ "./tufts/localJson/grc/grc-tufts-aploun.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_286__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploa.json */ "./tufts/localJson/grc/grc-tufts-aploa.json");
-var _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_286___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploa.json */ "./tufts/localJson/grc/grc-tufts-aploa.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_287__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileos.json */ "./tufts/localJson/grc/grc-tufts-ileos.json");
-var _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_287___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileos.json */ "./tufts/localJson/grc/grc-tufts-ileos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_288__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileo.json */ "./tufts/localJson/grc/grc-tufts-ileo.json");
-var _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_288___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileo.json */ "./tufts/localJson/grc/grc-tufts-ileo.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_289__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileon.json */ "./tufts/localJson/grc/grc-tufts-ileon.json");
-var _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_289___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileon.json */ "./tufts/localJson/grc/grc-tufts-ileon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_290__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ilea.json */ "./tufts/localJson/grc/grc-tufts-ilea.json");
-var _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_290___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ilea.json */ "./tufts/localJson/grc/grc-tufts-ilea.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_291__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleo.json */ "./tufts/localJson/grc/grc-tufts-pleo.json");
-var _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_291___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleo.json */ "./tufts/localJson/grc/grc-tufts-pleo.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_292__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleos.json */ "./tufts/localJson/grc/grc-tufts-pleos.json");
-var _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_292___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleos.json */ "./tufts/localJson/grc/grc-tufts-pleos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_293__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-plea.json */ "./tufts/localJson/grc/grc-tufts-plea.json");
-var _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_293___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-plea.json */ "./tufts/localJson/grc/grc-tufts-plea.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_294__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleain.json */ "./tufts/localJson/grc/grc-tufts-pleain.json");
-var _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_294___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleain.json */ "./tufts/localJson/grc/grc-tufts-pleain.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_295__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleon.json */ "./tufts/localJson/grc/grc-tufts-pleon.json");
-var _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_295___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleon.json */ "./tufts/localJson/grc/grc-tufts-pleon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_296__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-plea2.json */ "./tufts/localJson/grc/grc-tufts-plea2.json");
-var _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_296___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-plea2.json */ "./tufts/localJson/grc/grc-tufts-plea2.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_297__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tou.json */ "./tufts/localJson/grc/grc-tufts-tou.json");
-var _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_297___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tou.json */ "./tufts/localJson/grc/grc-tufts-tou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_298__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tin.json */ "./tufts/localJson/grc/grc-tufts-tin.json");
-var _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_298___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tin.json */ "./tufts/localJson/grc/grc-tufts-tin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_299__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-toin.json */ "./tufts/localJson/grc/grc-tufts-toin.json");
-var _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_299___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-toin.json */ "./tufts/localJson/grc/grc-tufts-toin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_300__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tois.json */ "./tufts/localJson/grc/grc-tufts-tois.json");
-var _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_300___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tois.json */ "./tufts/localJson/grc/grc-tufts-tois.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_301__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ai.json */ "./tufts/localJson/grc/grc-tufts-ai.json");
-var _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_301___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ai.json */ "./tufts/localJson/grc/grc-tufts-ai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_302__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ta.json */ "./tufts/localJson/grc/grc-tufts-ta.json");
-var _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_302___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ta.json */ "./tufts/localJson/grc/grc-tufts-ta.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_303__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-emou.json */ "./tufts/localJson/grc/grc-tufts-emou.json");
-var _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_303___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-emou.json */ "./tufts/localJson/grc/grc-tufts-emou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_304__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-non.json */ "./tufts/localJson/grc/grc-tufts-non.json");
-var _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_304___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-non.json */ "./tufts/localJson/grc/grc-tufts-non.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_305__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-imin.json */ "./tufts/localJson/grc/grc-tufts-imin.json");
-var _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_305___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-imin.json */ "./tufts/localJson/grc/grc-tufts-imin.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_306__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-soi.json */ "./tufts/localJson/grc/grc-tufts-soi.json");
-var _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_306___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-soi.json */ "./tufts/localJson/grc/grc-tufts-soi.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_307__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sfon.json */ "./tufts/localJson/grc/grc-tufts-sfon.json");
-var _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_307___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sfon.json */ "./tufts/localJson/grc/grc-tufts-sfon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_308__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ymas.json */ "./tufts/localJson/grc/grc-tufts-ymas.json");
-var _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_308___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ymas.json */ "./tufts/localJson/grc/grc-tufts-ymas.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json");
-var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json");
-var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_311__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-muthos.json */ "./tufts/localJson/grc/grc-tufts-muthos.json");
-var _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_311___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-muthos.json */ "./tufts/localJson/grc/grc-tufts-muthos.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json");
-var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json");
-var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json");
-var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json", 1);
-/* harmony import */ var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json");
-var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tis_irreg_json__WEBPACK_IMPORTED_MODULE_34__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tis-irreg.json */ "./tufts/localJson/grc/grc-tufts-tis-irreg.json");
+var _tufts_localJson_grc_grc_tufts_tis_irreg_json__WEBPACK_IMPORTED_MODULE_34___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tis-irreg.json */ "./tufts/localJson/grc/grc-tufts-tis-irreg.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_35__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ode.json */ "./tufts/localJson/grc/grc-tufts-ode.json");
+var _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_35___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ode.json */ "./tufts/localJson/grc/grc-tufts-ode.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_36__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tous.json */ "./tufts/localJson/grc/grc-tufts-tous.json");
+var _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_36___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tous.json */ "./tufts/localJson/grc/grc-tufts-tous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_37__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dyo.json */ "./tufts/localJson/grc/grc-tufts-dyo.json");
+var _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_37___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dyo.json */ "./tufts/localJson/grc/grc-tufts-dyo.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_38__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevis.json */ "./tufts/localJson/grc/grc-tufts-voulevis.json");
+var _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_38___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevis.json */ "./tufts/localJson/grc/grc-tufts-voulevis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_39__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevesthon.json */ "./tufts/localJson/grc/grc-tufts-voulevesthon.json");
+var _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_39___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevesthon.json */ "./tufts/localJson/grc/grc-tufts-voulevesthon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_40__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulevefso.json */ "./tufts/localJson/grc/grc-tufts-voulevefso.json");
+var _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_40___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulevefso.json */ "./tufts/localJson/grc/grc-tufts-voulevefso.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_41__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagois.json */ "./tufts/localJson/grc/grc-tufts-agagois.json");
+var _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_41___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagois.json */ "./tufts/localJson/grc/grc-tufts-agagois.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_42__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagou.json */ "./tufts/localJson/grc/grc-tufts-agagou.json");
+var _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_42___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagou.json */ "./tufts/localJson/grc/grc-tufts-agagou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_43__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voulefthis.json */ "./tufts/localJson/grc/grc-tufts-voulefthis.json");
+var _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_43___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voulefthis.json */ "./tufts/localJson/grc/grc-tufts-voulefthis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_44__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leloipi.json */ "./tufts/localJson/grc/grc-tufts-leloipi.json");
+var _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_44___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leloipi.json */ "./tufts/localJson/grc/grc-tufts-leloipi.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_45__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gegrapsai.json */ "./tufts/localJson/grc/grc-tufts-gegrapsai.json");
+var _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_45___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gegrapsai.json */ "./tufts/localJson/grc/grc-tufts-gegrapsai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_46__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-memnomai.json */ "./tufts/localJson/grc/grc-tufts-memnomai.json");
+var _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_46___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-memnomai.json */ "./tufts/localJson/grc/grc-tufts-memnomai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_47__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-egegrapso.json */ "./tufts/localJson/grc/grc-tufts-egegrapso.json");
+var _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_47___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egegrapso.json */ "./tufts/localJson/grc/grc-tufts-egegrapso.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_48__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tethnixeis.json */ "./tufts/localJson/grc/grc-tufts-tethnixeis.json");
+var _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_48___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tethnixeis.json */ "./tufts/localJson/grc/grc-tufts-tethnixeis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_49__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estathi.json */ "./tufts/localJson/grc/grc-tufts-estathi.json");
+var _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_49___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estathi.json */ "./tufts/localJson/grc/grc-tufts-estathi.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_50__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tethnaton.json */ "./tufts/localJson/grc/grc-tufts-tethnaton.json");
+var _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_50___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tethnaton.json */ "./tufts/localJson/grc/grc-tufts-tethnaton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_51__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poieiton.json */ "./tufts/localJson/grc/grc-tufts-poieiton.json");
+var _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_51___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poieiton.json */ "./tufts/localJson/grc/grc-tufts-poieiton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_52__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eplei.json */ "./tufts/localJson/grc/grc-tufts-eplei.json");
+var _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_52___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eplei.json */ "./tufts/localJson/grc/grc-tufts-eplei.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_53__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-epoiou.json */ "./tufts/localJson/grc/grc-tufts-epoiou.json");
+var _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_53___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-epoiou.json */ "./tufts/localJson/grc/grc-tufts-epoiou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_54__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edeonto.json */ "./tufts/localJson/grc/grc-tufts-edeonto.json");
+var _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_54___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edeonto.json */ "./tufts/localJson/grc/grc-tufts-edeonto.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_55__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oras.json */ "./tufts/localJson/grc/grc-tufts-oras.json");
+var _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_55___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oras.json */ "./tufts/localJson/grc/grc-tufts-oras.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_56__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chromen.json */ "./tufts/localJson/grc/grc-tufts-chromen.json");
+var _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_56___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chromen.json */ "./tufts/localJson/grc/grc-tufts-chromen.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_57__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eorasthon.json */ "./tufts/localJson/grc/grc-tufts-eorasthon.json");
+var _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_57___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eorasthon.json */ "./tufts/localJson/grc/grc-tufts-eorasthon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_58__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chronto.json */ "./tufts/localJson/grc/grc-tufts-chronto.json");
+var _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_58___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chronto.json */ "./tufts/localJson/grc/grc-tufts-chronto.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_59__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dilois.json */ "./tufts/localJson/grc/grc-tufts-dilois.json");
+var _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_59___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dilois.json */ "./tufts/localJson/grc/grc-tufts-dilois.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dilousthon.json */ "./tufts/localJson/grc/grc-tufts-dilousthon.json");
+var _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_60___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dilousthon.json */ "./tufts/localJson/grc/grc-tufts-dilousthon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-etithetin.json */ "./tufts/localJson/grc/grc-tufts-etithetin.json");
+var _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_61___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-etithetin.json */ "./tufts/localJson/grc/grc-tufts-etithetin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tithesthon.json */ "./tufts/localJson/grc/grc-tufts-tithesthon.json");
+var _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_62___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tithesthon.json */ "./tufts/localJson/grc/grc-tufts-tithesthon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ethesan.json */ "./tufts/localJson/grc/grc-tufts-ethesan.json");
+var _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_63___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ethesan.json */ "./tufts/localJson/grc/grc-tufts-ethesan.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ethemetha.json */ "./tufts/localJson/grc/grc-tufts-ethemetha.json");
+var _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_64___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ethemetha.json */ "./tufts/localJson/grc/grc-tufts-ethemetha.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iin.json */ "./tufts/localJson/grc/grc-tufts-iin.json");
+var _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_65___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iin.json */ "./tufts/localJson/grc/grc-tufts-iin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_66__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iesthon.json */ "./tufts/localJson/grc/grc-tufts-iesthon.json");
+var _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_66___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iesthon.json */ "./tufts/localJson/grc/grc-tufts-iesthon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_67__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dido.json */ "./tufts/localJson/grc/grc-tufts-dido.json");
+var _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_67___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dido.json */ "./tufts/localJson/grc/grc-tufts-dido.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_68__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-didoio.json */ "./tufts/localJson/grc/grc-tufts-didoio.json");
+var _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_68___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-didoio.json */ "./tufts/localJson/grc/grc-tufts-didoio.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_69__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edoton.json */ "./tufts/localJson/grc/grc-tufts-edoton.json");
+var _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_69___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edoton.json */ "./tufts/localJson/grc/grc-tufts-edoton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_70__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dotai.json */ "./tufts/localJson/grc/grc-tufts-dotai.json");
+var _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_70___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dotai.json */ "./tufts/localJson/grc/grc-tufts-dotai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_71__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istatin.json */ "./tufts/localJson/grc/grc-tufts-istatin.json");
+var _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_71___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istatin.json */ "./tufts/localJson/grc/grc-tufts-istatin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_72__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istatai.json */ "./tufts/localJson/grc/grc-tufts-istatai.json");
+var _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_72___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istatai.json */ "./tufts/localJson/grc/grc-tufts-istatai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_73__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estitin.json */ "./tufts/localJson/grc/grc-tufts-estitin.json");
+var _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_73___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estitin.json */ "./tufts/localJson/grc/grc-tufts-estitin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_74__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edynato.json */ "./tufts/localJson/grc/grc-tufts-edynato.json");
+var _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_74___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edynato.json */ "./tufts/localJson/grc/grc-tufts-edynato.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_75__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-epististhe.json */ "./tufts/localJson/grc/grc-tufts-epististhe.json");
+var _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_75___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-epististhe.json */ "./tufts/localJson/grc/grc-tufts-epististhe.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_76__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-edeiknyte.json */ "./tufts/localJson/grc/grc-tufts-edeiknyte.json");
+var _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_76___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-edeiknyte.json */ "./tufts/localJson/grc/grc-tufts-edeiknyte.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_77__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-deiknytai.json */ "./tufts/localJson/grc/grc-tufts-deiknytai.json");
+var _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_77___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-deiknytai.json */ "./tufts/localJson/grc/grc-tufts-deiknytai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_78__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eston.json */ "./tufts/localJson/grc/grc-tufts-eston.json");
+var _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_78___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eston.json */ "./tufts/localJson/grc/grc-tufts-eston.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_79__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iton.json */ "./tufts/localJson/grc/grc-tufts-iton.json");
+var _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_79___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iton.json */ "./tufts/localJson/grc/grc-tufts-iton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_80__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-faiis.json */ "./tufts/localJson/grc/grc-tufts-faiis.json");
+var _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_80___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-faiis.json */ "./tufts/localJson/grc/grc-tufts-faiis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_81__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vito.json */ "./tufts/localJson/grc/grc-tufts-vito.json");
+var _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_81___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vito.json */ "./tufts/localJson/grc/grc-tufts-vito.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_82__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnoton.json */ "./tufts/localJson/grc/grc-tufts-gnoton.json");
+var _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_82___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnoton.json */ "./tufts/localJson/grc/grc-tufts-gnoton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_83__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-dythi.json */ "./tufts/localJson/grc/grc-tufts-dythi.json");
+var _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_83___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-dythi.json */ "./tufts/localJson/grc/grc-tufts-dythi.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_84__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideis.json */ "./tufts/localJson/grc/grc-tufts-ideis.json");
+var _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_84___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideis.json */ "./tufts/localJson/grc/grc-tufts-ideis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_85__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agontos.json */ "./tufts/localJson/grc/grc-tufts-agontos.json");
+var _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_85___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agontos.json */ "./tufts/localJson/grc/grc-tufts-agontos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_86__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-menoun.json */ "./tufts/localJson/grc/grc-tufts-menoun.json");
+var _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_86___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-menoun.json */ "./tufts/localJson/grc/grc-tufts-menoun.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_87__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-orosa.json */ "./tufts/localJson/grc/grc-tufts-orosa.json");
+var _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_87___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-orosa.json */ "./tufts/localJson/grc/grc-tufts-orosa.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_88__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lipon.json */ "./tufts/localJson/grc/grc-tufts-lipon.json");
+var _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_88___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lipon.json */ "./tufts/localJson/grc/grc-tufts-lipon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_89__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-istante.json */ "./tufts/localJson/grc/grc-tufts-istante.json");
+var _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_89___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-istante.json */ "./tufts/localJson/grc/grc-tufts-istante.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_90__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lysanta.json */ "./tufts/localJson/grc/grc-tufts-lysanta.json");
+var _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_90___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lysanta.json */ "./tufts/localJson/grc/grc-tufts-lysanta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_91__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lythentos.json */ "./tufts/localJson/grc/grc-tufts-lythentos.json");
+var _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_91___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lythentos.json */ "./tufts/localJson/grc/grc-tufts-lythentos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_92__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-didontoin.json */ "./tufts/localJson/grc/grc-tufts-didontoin.json");
+var _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_92___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-didontoin.json */ "./tufts/localJson/grc/grc-tufts-didontoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_93__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-deiknynta.json */ "./tufts/localJson/grc/grc-tufts-deiknynta.json");
+var _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_93___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-deiknynta.json */ "./tufts/localJson/grc/grc-tufts-deiknynta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_94__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leloipoton.json */ "./tufts/localJson/grc/grc-tufts-leloipoton.json");
+var _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_94___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leloipoton.json */ "./tufts/localJson/grc/grc-tufts-leloipoton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_95__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estosai.json */ "./tufts/localJson/grc/grc-tufts-estosai.json");
+var _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_95___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estosai.json */ "./tufts/localJson/grc/grc-tufts-estosai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_96__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pempomenous.json */ "./tufts/localJson/grc/grc-tufts-pempomenous.json");
+var _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_96___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pempomenous.json */ "./tufts/localJson/grc/grc-tufts-pempomenous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_97__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gegrammenoin.json */ "./tufts/localJson/grc/grc-tufts-gegrammenoin.json");
+var _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_97___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gegrammenoin.json */ "./tufts/localJson/grc/grc-tufts-gegrammenoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_98__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-zoni.json */ "./tufts/localJson/grc/grc-tufts-zoni.json");
+var _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_98___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-zoni.json */ "./tufts/localJson/grc/grc-tufts-zoni.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_99__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-syndeei.json */ "./tufts/localJson/grc/grc-tufts-syndeei.json");
+var _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_99___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-syndeei.json */ "./tufts/localJson/grc/grc-tufts-syndeei.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_100__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-me.json */ "./tufts/localJson/grc/grc-tufts-me.json");
+var _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_100___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-me.json */ "./tufts/localJson/grc/grc-tufts-me.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_101__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-synechis.json */ "./tufts/localJson/grc/grc-tufts-synechis.json");
+var _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_101___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-synechis.json */ "./tufts/localJson/grc/grc-tufts-synechis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_102__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tain.json */ "./tufts/localJson/grc/grc-tufts-tain.json");
+var _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_102___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tain.json */ "./tufts/localJson/grc/grc-tufts-tain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-emaftou.json */ "./tufts/localJson/grc/grc-tufts-emaftou.json");
+var _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-emaftou.json */ "./tufts/localJson/grc/grc-tufts-emaftou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agon.json */ "./tufts/localJson/grc/grc-tufts-agon.json");
+var _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agon.json */ "./tufts/localJson/grc/grc-tufts-agon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_105__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-anthropos.json */ "./tufts/localJson/grc/grc-tufts-anthropos.json");
+var _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_105___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-anthropos.json */ "./tufts/localJson/grc/grc-tufts-anthropos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_106__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estatin.json */ "./tufts/localJson/grc/grc-tufts-estatin.json");
+var _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_106___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estatin.json */ "./tufts/localJson/grc/grc-tufts-estatin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_107__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lelysthai.json */ "./tufts/localJson/grc/grc-tufts-lelysthai.json");
+var _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_107___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lelysthai.json */ "./tufts/localJson/grc/grc-tufts-lelysthai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_108__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json");
+var _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_108___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-elelyki.json */ "./tufts/localJson/grc/grc-tufts-elelyki.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_109__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json");
+var _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_109___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agagitai.json */ "./tufts/localJson/grc/grc-tufts-agagitai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_110__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evolefthin.json */ "./tufts/localJson/grc/grc-tufts-evolefthin.json");
+var _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_110___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evolefthin.json */ "./tufts/localJson/grc/grc-tufts-evolefthin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_111__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vouleftho.json */ "./tufts/localJson/grc/grc-tufts-vouleftho.json");
+var _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_111___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vouleftho.json */ "./tufts/localJson/grc/grc-tufts-vouleftho.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_112__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-vouleftheiin.json */ "./tufts/localJson/grc/grc-tufts-vouleftheiin.json");
+var _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_112___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-vouleftheiin.json */ "./tufts/localJson/grc/grc-tufts-vouleftheiin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_113__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json");
+var _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_113___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-egrafin.json */ "./tufts/localJson/grc/grc-tufts-egrafin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_114__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json");
+var _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_114___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-oistrodonou.json */ "./tufts/localJson/grc/grc-tufts-oistrodonou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_115__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ergon.json */ "./tufts/localJson/grc/grc-tufts-ergon.json");
+var _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_115___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ergon.json */ "./tufts/localJson/grc/grc-tufts-ergon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_116__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-choras.json */ "./tufts/localJson/grc/grc-tufts-choras.json");
+var _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_116___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-choras.json */ "./tufts/localJson/grc/grc-tufts-choras.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_117__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chorain.json */ "./tufts/localJson/grc/grc-tufts-chorain.json");
+var _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_117___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chorain.json */ "./tufts/localJson/grc/grc-tufts-chorain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_118__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnomon.json */ "./tufts/localJson/grc/grc-tufts-gnomon.json");
+var _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_118___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnomon.json */ "./tufts/localJson/grc/grc-tufts-gnomon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_119__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gnomin.json */ "./tufts/localJson/grc/grc-tufts-gnomin.json");
+var _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_119___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gnomin.json */ "./tufts/localJson/grc/grc-tufts-gnomin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_120__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ygieia.json */ "./tufts/localJson/grc/grc-tufts-ygieia.json");
+var _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_120___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ygieia.json */ "./tufts/localJson/grc/grc-tufts-ygieia.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_121__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ygieiain.json */ "./tufts/localJson/grc/grc-tufts-ygieiain.json");
+var _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_121___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ygieiain.json */ "./tufts/localJson/grc/grc-tufts-ygieiain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_122__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thalattan.json */ "./tufts/localJson/grc/grc-tufts-thalattan.json");
+var _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_122___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thalattan.json */ "./tufts/localJson/grc/grc-tufts-thalattan.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_123__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thalattas.json */ "./tufts/localJson/grc/grc-tufts-thalattas.json");
+var _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_123___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thalattas.json */ "./tufts/localJson/grc/grc-tufts-thalattas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_124__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neaniou.json */ "./tufts/localJson/grc/grc-tufts-neaniou.json");
+var _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_124___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neaniou.json */ "./tufts/localJson/grc/grc-tufts-neaniou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_125__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neaniain.json */ "./tufts/localJson/grc/grc-tufts-neaniain.json");
+var _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_125___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neaniain.json */ "./tufts/localJson/grc/grc-tufts-neaniain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_126__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-stratiotin.json */ "./tufts/localJson/grc/grc-tufts-stratiotin.json");
+var _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_126___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-stratiotin.json */ "./tufts/localJson/grc/grc-tufts-stratiotin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_127__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-stratiotais.json */ "./tufts/localJson/grc/grc-tufts-stratiotais.json");
+var _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_127___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-stratiotais.json */ "./tufts/localJson/grc/grc-tufts-stratiotais.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_128__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json");
+var _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_128___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-xiri.json */ "./tufts/localJson/grc/grc-tufts-xiri.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_129__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-klops.json */ "./tufts/localJson/grc/grc-tufts-klops.json");
+var _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_129___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-klops.json */ "./tufts/localJson/grc/grc-tufts-klops.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_130__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-klope.json */ "./tufts/localJson/grc/grc-tufts-klope.json");
+var _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_130___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-klope.json */ "./tufts/localJson/grc/grc-tufts-klope.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_131__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-fylakon.json */ "./tufts/localJson/grc/grc-tufts-fylakon.json");
+var _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_131___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-fylakon.json */ "./tufts/localJson/grc/grc-tufts-fylakon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_132__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-fylax.json */ "./tufts/localJson/grc/grc-tufts-fylax.json");
+var _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_132___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-fylax.json */ "./tufts/localJson/grc/grc-tufts-fylax.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_133__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charis.json */ "./tufts/localJson/grc/grc-tufts-charis.json");
+var _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_133___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charis.json */ "./tufts/localJson/grc/grc-tufts-charis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_134__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charites.json */ "./tufts/localJson/grc/grc-tufts-charites.json");
+var _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_134___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charites.json */ "./tufts/localJson/grc/grc-tufts-charites.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_135__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aspidoin.json */ "./tufts/localJson/grc/grc-tufts-aspidoin.json");
+var _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_135___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aspidoin.json */ "./tufts/localJson/grc/grc-tufts-aspidoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_136__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aspidas.json */ "./tufts/localJson/grc/grc-tufts-aspidas.json");
+var _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_136___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aspidas.json */ "./tufts/localJson/grc/grc-tufts-aspidas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_137__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ellada.json */ "./tufts/localJson/grc/grc-tufts-ellada.json");
+var _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_137___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ellada.json */ "./tufts/localJson/grc/grc-tufts-ellada.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_138__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-elladoin.json */ "./tufts/localJson/grc/grc-tufts-elladoin.json");
+var _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_138___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-elladoin.json */ "./tufts/localJson/grc/grc-tufts-elladoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_139__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gerontos.json */ "./tufts/localJson/grc/grc-tufts-gerontos.json");
+var _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_139___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gerontos.json */ "./tufts/localJson/grc/grc-tufts-gerontos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_140__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geronton.json */ "./tufts/localJson/grc/grc-tufts-geronton.json");
+var _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_140___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geronton.json */ "./tufts/localJson/grc/grc-tufts-geronton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_141__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-giganta.json */ "./tufts/localJson/grc/grc-tufts-giganta.json");
+var _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_141___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-giganta.json */ "./tufts/localJson/grc/grc-tufts-giganta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_142__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-giganton.json */ "./tufts/localJson/grc/grc-tufts-giganton.json");
+var _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_142___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-giganton.json */ "./tufts/localJson/grc/grc-tufts-giganton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_143__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-odontoin.json */ "./tufts/localJson/grc/grc-tufts-odontoin.json");
+var _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_143___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-odontoin.json */ "./tufts/localJson/grc/grc-tufts-odontoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_144__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-odontos.json */ "./tufts/localJson/grc/grc-tufts-odontos.json");
+var _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_144___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-odontos.json */ "./tufts/localJson/grc/grc-tufts-odontos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_145__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pragmatos.json */ "./tufts/localJson/grc/grc-tufts-pragmatos.json");
+var _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_145___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pragmatos.json */ "./tufts/localJson/grc/grc-tufts-pragmatos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_146__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pragmatoin.json */ "./tufts/localJson/grc/grc-tufts-pragmatoin.json");
+var _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_146___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pragmatoin.json */ "./tufts/localJson/grc/grc-tufts-pragmatoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_147__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-terati.json */ "./tufts/localJson/grc/grc-tufts-terati.json");
+var _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_147___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-terati.json */ "./tufts/localJson/grc/grc-tufts-terati.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_148__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-teraton.json */ "./tufts/localJson/grc/grc-tufts-teraton.json");
+var _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_148___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-teraton.json */ "./tufts/localJson/grc/grc-tufts-teraton.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_149__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ritoros.json */ "./tufts/localJson/grc/grc-tufts-ritoros.json");
+var _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_149___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ritoros.json */ "./tufts/localJson/grc/grc-tufts-ritoros.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_150__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ritores.json */ "./tufts/localJson/grc/grc-tufts-ritores.json");
+var _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_150___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ritores.json */ "./tufts/localJson/grc/grc-tufts-ritores.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_151__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-daimon.json */ "./tufts/localJson/grc/grc-tufts-daimon.json");
+var _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_151___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-daimon.json */ "./tufts/localJson/grc/grc-tufts-daimon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_152__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-daimonas.json */ "./tufts/localJson/grc/grc-tufts-daimonas.json");
+var _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_152___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-daimonas.json */ "./tufts/localJson/grc/grc-tufts-daimonas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_153__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agona.json */ "./tufts/localJson/grc/grc-tufts-agona.json");
+var _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_153___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agona.json */ "./tufts/localJson/grc/grc-tufts-agona.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_154__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agonon.json */ "./tufts/localJson/grc/grc-tufts-agonon.json");
+var _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_154___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agonon.json */ "./tufts/localJson/grc/grc-tufts-agonon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_155__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ali.json */ "./tufts/localJson/grc/grc-tufts-ali.json");
+var _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_155___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ali.json */ "./tufts/localJson/grc/grc-tufts-ali.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_156__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aloin.json */ "./tufts/localJson/grc/grc-tufts-aloin.json");
+var _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_156___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aloin.json */ "./tufts/localJson/grc/grc-tufts-aloin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_157__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-patri.json */ "./tufts/localJson/grc/grc-tufts-patri.json");
+var _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_157___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-patri.json */ "./tufts/localJson/grc/grc-tufts-patri.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_158__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pateroin.json */ "./tufts/localJson/grc/grc-tufts-pateroin.json");
+var _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_158___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pateroin.json */ "./tufts/localJson/grc/grc-tufts-pateroin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_159__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mitera.json */ "./tufts/localJson/grc/grc-tufts-mitera.json");
+var _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_159___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mitera.json */ "./tufts/localJson/grc/grc-tufts-mitera.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_160__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-miteron.json */ "./tufts/localJson/grc/grc-tufts-miteron.json");
+var _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_160___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-miteron.json */ "./tufts/localJson/grc/grc-tufts-miteron.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_161__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thygatera.json */ "./tufts/localJson/grc/grc-tufts-thygatera.json");
+var _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_161___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thygatera.json */ "./tufts/localJson/grc/grc-tufts-thygatera.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_162__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-thygateroin.json */ "./tufts/localJson/grc/grc-tufts-thygateroin.json");
+var _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_162___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-thygateroin.json */ "./tufts/localJson/grc/grc-tufts-thygateroin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_163__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-andri.json */ "./tufts/localJson/grc/grc-tufts-andri.json");
+var _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_163___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-andri.json */ "./tufts/localJson/grc/grc-tufts-andri.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_164__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-andron.json */ "./tufts/localJson/grc/grc-tufts-andron.json");
+var _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_164___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-andron.json */ "./tufts/localJson/grc/grc-tufts-andron.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_165__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-triirous.json */ "./tufts/localJson/grc/grc-tufts-triirous.json");
+var _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_165___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-triirous.json */ "./tufts/localJson/grc/grc-tufts-triirous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_166__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-triireis.json */ "./tufts/localJson/grc/grc-tufts-triireis.json");
+var _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_166___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-triireis.json */ "./tufts/localJson/grc/grc-tufts-triireis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_167__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-genei.json */ "./tufts/localJson/grc/grc-tufts-genei.json");
+var _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_167___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-genei.json */ "./tufts/localJson/grc/grc-tufts-genei.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_168__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geni.json */ "./tufts/localJson/grc/grc-tufts-geni.json");
+var _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_168___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geni.json */ "./tufts/localJson/grc/grc-tufts-geni.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_169__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gera.json */ "./tufts/localJson/grc/grc-tufts-gera.json");
+var _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_169___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gera.json */ "./tufts/localJson/grc/grc-tufts-gera.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_170__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geron.json */ "./tufts/localJson/grc/grc-tufts-geron.json");
+var _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_170___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geron.json */ "./tufts/localJson/grc/grc-tufts-geron.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_171__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gynaiki.json */ "./tufts/localJson/grc/grc-tufts-gynaiki.json");
+var _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_171___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gynaiki.json */ "./tufts/localJson/grc/grc-tufts-gynaiki.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_172__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gynaikas.json */ "./tufts/localJson/grc/grc-tufts-gynaikas.json");
+var _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_172___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gynaikas.json */ "./tufts/localJson/grc/grc-tufts-gynaikas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_173__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-cheire.json */ "./tufts/localJson/grc/grc-tufts-cheire.json");
+var _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_173___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-cheire.json */ "./tufts/localJson/grc/grc-tufts-cheire.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_174__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-cheiras.json */ "./tufts/localJson/grc/grc-tufts-cheiras.json");
+var _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_174___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-cheiras.json */ "./tufts/localJson/grc/grc-tufts-cheiras.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_175__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yeos.json */ "./tufts/localJson/grc/grc-tufts-yeos.json");
+var _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_175___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yeos.json */ "./tufts/localJson/grc/grc-tufts-yeos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_176__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yieos.json */ "./tufts/localJson/grc/grc-tufts-yieos.json");
+var _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_176___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yieos.json */ "./tufts/localJson/grc/grc-tufts-yieos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_177__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-yioin.json */ "./tufts/localJson/grc/grc-tufts-yioin.json");
+var _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_177___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-yioin.json */ "./tufts/localJson/grc/grc-tufts-yioin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_178__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poleos.json */ "./tufts/localJson/grc/grc-tufts-poleos.json");
+var _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_178___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poleos.json */ "./tufts/localJson/grc/grc-tufts-poleos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_179__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-poleoin.json */ "./tufts/localJson/grc/grc-tufts-poleoin.json");
+var _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_179___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-poleoin.json */ "./tufts/localJson/grc/grc-tufts-poleoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_180__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pichyn.json */ "./tufts/localJson/grc/grc-tufts-pichyn.json");
+var _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_180___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pichyn.json */ "./tufts/localJson/grc/grc-tufts-pichyn.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_181__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-picheon.json */ "./tufts/localJson/grc/grc-tufts-picheon.json");
+var _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_181___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-picheon.json */ "./tufts/localJson/grc/grc-tufts-picheon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_182__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-astei.json */ "./tufts/localJson/grc/grc-tufts-astei.json");
+var _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_182___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-astei.json */ "./tufts/localJson/grc/grc-tufts-astei.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_183__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-asteon.json */ "./tufts/localJson/grc/grc-tufts-asteon.json");
+var _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_183___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-asteon.json */ "./tufts/localJson/grc/grc-tufts-asteon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_184__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ichthyos.json */ "./tufts/localJson/grc/grc-tufts-ichthyos.json");
+var _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_184___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ichthyos.json */ "./tufts/localJson/grc/grc-tufts-ichthyos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_185__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ichthyes.json */ "./tufts/localJson/grc/grc-tufts-ichthyes.json");
+var _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_185___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ichthyes.json */ "./tufts/localJson/grc/grc-tufts-ichthyes.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_186__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ippeos.json */ "./tufts/localJson/grc/grc-tufts-ippeos.json");
+var _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_186___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ippeos.json */ "./tufts/localJson/grc/grc-tufts-ippeos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_187__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ippeoin.json */ "./tufts/localJson/grc/grc-tufts-ippeoin.json");
+var _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_187___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ippeoin.json */ "./tufts/localJson/grc/grc-tufts-ippeoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_188__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gravn.json */ "./tufts/localJson/grc/grc-tufts-gravn.json");
+var _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_188___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gravn.json */ "./tufts/localJson/grc/grc-tufts-gravn.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_189__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-graoin.json */ "./tufts/localJson/grc/grc-tufts-graoin.json");
+var _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_189___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-graoin.json */ "./tufts/localJson/grc/grc-tufts-graoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_190__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-navn.json */ "./tufts/localJson/grc/grc-tufts-navn.json");
+var _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_190___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-navn.json */ "./tufts/localJson/grc/grc-tufts-navn.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_191__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neon.json */ "./tufts/localJson/grc/grc-tufts-neon.json");
+var _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_191___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neon.json */ "./tufts/localJson/grc/grc-tufts-neon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_192__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voun.json */ "./tufts/localJson/grc/grc-tufts-voun.json");
+var _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_192___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voun.json */ "./tufts/localJson/grc/grc-tufts-voun.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_193__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-voon.json */ "./tufts/localJson/grc/grc-tufts-voon.json");
+var _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_193___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-voon.json */ "./tufts/localJson/grc/grc-tufts-voon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_194__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-nou.json */ "./tufts/localJson/grc/grc-tufts-nou.json");
+var _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_194___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-nou.json */ "./tufts/localJson/grc/grc-tufts-nou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_195__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-noin.json */ "./tufts/localJson/grc/grc-tufts-noin.json");
+var _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_195___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-noin.json */ "./tufts/localJson/grc/grc-tufts-noin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_196__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-kanou.json */ "./tufts/localJson/grc/grc-tufts-kanou.json");
+var _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_196___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-kanou.json */ "./tufts/localJson/grc/grc-tufts-kanou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_197__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-kanoin.json */ "./tufts/localJson/grc/grc-tufts-kanoin.json");
+var _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_197___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-kanoin.json */ "./tufts/localJson/grc/grc-tufts-kanoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_198__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gis.json */ "./tufts/localJson/grc/grc-tufts-gis.json");
+var _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_198___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gis.json */ "./tufts/localJson/grc/grc-tufts-gis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_199__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-gin.json */ "./tufts/localJson/grc/grc-tufts-gin.json");
+var _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_199___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gin.json */ "./tufts/localJson/grc/grc-tufts-gin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_200__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sykis.json */ "./tufts/localJson/grc/grc-tufts-sykis.json");
+var _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_200___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sykis.json */ "./tufts/localJson/grc/grc-tufts-sykis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_201__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sykai.json */ "./tufts/localJson/grc/grc-tufts-sykai.json");
+var _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_201___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sykai.json */ "./tufts/localJson/grc/grc-tufts-sykai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_202__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mnas.json */ "./tufts/localJson/grc/grc-tufts-mnas.json");
+var _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_202___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mnas.json */ "./tufts/localJson/grc/grc-tufts-mnas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_203__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mnais.json */ "./tufts/localJson/grc/grc-tufts-mnais.json");
+var _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_203___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mnais.json */ "./tufts/localJson/grc/grc-tufts-mnais.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_204__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ermin.json */ "./tufts/localJson/grc/grc-tufts-ermin.json");
+var _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_204___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ermin.json */ "./tufts/localJson/grc/grc-tufts-ermin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_205__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ermas.json */ "./tufts/localJson/grc/grc-tufts-ermas.json");
+var _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_205___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ermas.json */ "./tufts/localJson/grc/grc-tufts-ermas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_206__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neo.json */ "./tufts/localJson/grc/grc-tufts-neo.json");
+var _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_206___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neo.json */ "./tufts/localJson/grc/grc-tufts-neo.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_207__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-neos.json */ "./tufts/localJson/grc/grc-tufts-neos.json");
+var _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_207___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-neos.json */ "./tufts/localJson/grc/grc-tufts-neos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_208__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leon.json */ "./tufts/localJson/grc/grc-tufts-leon.json");
+var _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_208___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leon.json */ "./tufts/localJson/grc/grc-tufts-leon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_209__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-leos.json */ "./tufts/localJson/grc/grc-tufts-leos.json");
+var _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_209___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-leos.json */ "./tufts/localJson/grc/grc-tufts-leos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_210__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lago.json */ "./tufts/localJson/grc/grc-tufts-lago.json");
+var _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_210___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lago.json */ "./tufts/localJson/grc/grc-tufts-lago.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_211__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-lagos.json */ "./tufts/localJson/grc/grc-tufts-lagos.json");
+var _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_211___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-lagos.json */ "./tufts/localJson/grc/grc-tufts-lagos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_212__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eos.json */ "./tufts/localJson/grc/grc-tufts-eos.json");
+var _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_212___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eos.json */ "./tufts/localJson/grc/grc-tufts-eos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_213__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eo.json */ "./tufts/localJson/grc/grc-tufts-eo.json");
+var _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_213___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eo.json */ "./tufts/localJson/grc/grc-tufts-eo.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_214__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aidous.json */ "./tufts/localJson/grc/grc-tufts-aidous.json");
+var _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_214___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aidous.json */ "./tufts/localJson/grc/grc-tufts-aidous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_215__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aidos.json */ "./tufts/localJson/grc/grc-tufts-aidos.json");
+var _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_215___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aidos.json */ "./tufts/localJson/grc/grc-tufts-aidos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_216__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iroa.json */ "./tufts/localJson/grc/grc-tufts-iroa.json");
+var _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_216___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iroa.json */ "./tufts/localJson/grc/grc-tufts-iroa.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_217__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-iroon.json */ "./tufts/localJson/grc/grc-tufts-iroon.json");
+var _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_217___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-iroon.json */ "./tufts/localJson/grc/grc-tufts-iroon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_218__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axiou.json */ "./tufts/localJson/grc/grc-tufts-axiou.json");
+var _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_218___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axiou.json */ "./tufts/localJson/grc/grc-tufts-axiou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_219__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axioin.json */ "./tufts/localJson/grc/grc-tufts-axioin.json");
+var _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_219___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axioin.json */ "./tufts/localJson/grc/grc-tufts-axioin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_220__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axious.json */ "./tufts/localJson/grc/grc-tufts-axious.json");
+var _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_220___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axious.json */ "./tufts/localJson/grc/grc-tufts-axious.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_221__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axian.json */ "./tufts/localJson/grc/grc-tufts-axian.json");
+var _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_221___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axian.json */ "./tufts/localJson/grc/grc-tufts-axian.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_222__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axion.json */ "./tufts/localJson/grc/grc-tufts-axion.json");
+var _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_222___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axion.json */ "./tufts/localJson/grc/grc-tufts-axion.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_223__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axio.json */ "./tufts/localJson/grc/grc-tufts-axio.json");
+var _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_223___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axio.json */ "./tufts/localJson/grc/grc-tufts-axio.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_224__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-axiois.json */ "./tufts/localJson/grc/grc-tufts-axiois.json");
+var _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_224___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-axiois.json */ "./tufts/localJson/grc/grc-tufts-axiois.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_225__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathou.json */ "./tufts/localJson/grc/grc-tufts-agathou.json");
+var _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_225___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathou.json */ "./tufts/localJson/grc/grc-tufts-agathou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_226__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathoin.json */ "./tufts/localJson/grc/grc-tufts-agathoin.json");
+var _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_226___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathoin.json */ "./tufts/localJson/grc/grc-tufts-agathoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_227__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathin.json */ "./tufts/localJson/grc/grc-tufts-agathin.json");
+var _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_227___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathin.json */ "./tufts/localJson/grc/grc-tufts-agathin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_228__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agathon.json */ "./tufts/localJson/grc/grc-tufts-agathon.json");
+var _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_228___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agathon.json */ "./tufts/localJson/grc/grc-tufts-agathon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_229__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agatho.json */ "./tufts/localJson/grc/grc-tufts-agatho.json");
+var _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_229___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agatho.json */ "./tufts/localJson/grc/grc-tufts-agatho.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_230__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-agatha.json */ "./tufts/localJson/grc/grc-tufts-agatha.json");
+var _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_230___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-agatha.json */ "./tufts/localJson/grc/grc-tufts-agatha.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_231__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikou.json */ "./tufts/localJson/grc/grc-tufts-adikou.json");
+var _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_231___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikou.json */ "./tufts/localJson/grc/grc-tufts-adikou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_232__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikon.json */ "./tufts/localJson/grc/grc-tufts-adikon.json");
+var _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_232___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikon.json */ "./tufts/localJson/grc/grc-tufts-adikon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_233__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adikoin.json */ "./tufts/localJson/grc/grc-tufts-adikoin.json");
+var _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_233___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adikoin.json */ "./tufts/localJson/grc/grc-tufts-adikoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_234__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-adika.json */ "./tufts/localJson/grc/grc-tufts-adika.json");
+var _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_234___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-adika.json */ "./tufts/localJson/grc/grc-tufts-adika.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_235__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithous.json */ "./tufts/localJson/grc/grc-tufts-alithous.json");
+var _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_235___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithous.json */ "./tufts/localJson/grc/grc-tufts-alithous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_236__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alitheis.json */ "./tufts/localJson/grc/grc-tufts-alitheis.json");
+var _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_236___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alitheis.json */ "./tufts/localJson/grc/grc-tufts-alitheis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_237__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithes.json */ "./tufts/localJson/grc/grc-tufts-alithes.json");
+var _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_237___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithes.json */ "./tufts/localJson/grc/grc-tufts-alithes.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_238__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-alithoin.json */ "./tufts/localJson/grc/grc-tufts-alithoin.json");
+var _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_238___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-alithoin.json */ "./tufts/localJson/grc/grc-tufts-alithoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_239__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofron.json */ "./tufts/localJson/grc/grc-tufts-sofron.json");
+var _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_239___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofron.json */ "./tufts/localJson/grc/grc-tufts-sofron.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_240__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofronas.json */ "./tufts/localJson/grc/grc-tufts-sofronas.json");
+var _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_240___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofronas.json */ "./tufts/localJson/grc/grc-tufts-sofronas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_241__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofrone.json */ "./tufts/localJson/grc/grc-tufts-sofrone.json");
+var _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_241___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofrone.json */ "./tufts/localJson/grc/grc-tufts-sofrone.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_242__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sofrona.json */ "./tufts/localJson/grc/grc-tufts-sofrona.json");
+var _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_242___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sofrona.json */ "./tufts/localJson/grc/grc-tufts-sofrona.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_243__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideos.json */ "./tufts/localJson/grc/grc-tufts-ideos.json");
+var _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_243___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideos.json */ "./tufts/localJson/grc/grc-tufts-ideos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_244__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideoin.json */ "./tufts/localJson/grc/grc-tufts-ideoin.json");
+var _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_244___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideoin.json */ "./tufts/localJson/grc/grc-tufts-ideoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_245__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideian.json */ "./tufts/localJson/grc/grc-tufts-ideian.json");
+var _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_245___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideian.json */ "./tufts/localJson/grc/grc-tufts-ideian.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_246__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ideiais.json */ "./tufts/localJson/grc/grc-tufts-ideiais.json");
+var _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_246___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ideiais.json */ "./tufts/localJson/grc/grc-tufts-ideiais.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_247__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-idy.json */ "./tufts/localJson/grc/grc-tufts-idy.json");
+var _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_247___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-idy.json */ "./tufts/localJson/grc/grc-tufts-idy.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_248__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-idea.json */ "./tufts/localJson/grc/grc-tufts-idea.json");
+var _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_248___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-idea.json */ "./tufts/localJson/grc/grc-tufts-idea.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_249__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melani.json */ "./tufts/localJson/grc/grc-tufts-melani.json");
+var _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_249___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melani.json */ "./tufts/localJson/grc/grc-tufts-melani.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_250__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melanoin.json */ "./tufts/localJson/grc/grc-tufts-melanoin.json");
+var _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_250___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melanoin.json */ "./tufts/localJson/grc/grc-tufts-melanoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_251__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melainis.json */ "./tufts/localJson/grc/grc-tufts-melainis.json");
+var _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_251___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melainis.json */ "./tufts/localJson/grc/grc-tufts-melainis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_252__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melainais.json */ "./tufts/localJson/grc/grc-tufts-melainais.json");
+var _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_252___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melainais.json */ "./tufts/localJson/grc/grc-tufts-melainais.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_253__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melan.json */ "./tufts/localJson/grc/grc-tufts-melan.json");
+var _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_253___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melan.json */ "./tufts/localJson/grc/grc-tufts-melan.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_254__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-melana.json */ "./tufts/localJson/grc/grc-tufts-melana.json");
+var _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_254___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-melana.json */ "./tufts/localJson/grc/grc-tufts-melana.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_255__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charientos.json */ "./tufts/localJson/grc/grc-tufts-charientos.json");
+var _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_255___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charientos.json */ "./tufts/localJson/grc/grc-tufts-charientos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_256__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariente.json */ "./tufts/localJson/grc/grc-tufts-chariente.json");
+var _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_256___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariente.json */ "./tufts/localJson/grc/grc-tufts-chariente.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_257__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariessain.json */ "./tufts/localJson/grc/grc-tufts-chariessain.json");
+var _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_257___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariessain.json */ "./tufts/localJson/grc/grc-tufts-chariessain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_258__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chariessas.json */ "./tufts/localJson/grc/grc-tufts-chariessas.json");
+var _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_258___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chariessas.json */ "./tufts/localJson/grc/grc-tufts-chariessas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_259__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charienti.json */ "./tufts/localJson/grc/grc-tufts-charienti.json");
+var _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_259___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charienti.json */ "./tufts/localJson/grc/grc-tufts-charienti.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_260__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-charienta.json */ "./tufts/localJson/grc/grc-tufts-charienta.json");
+var _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_260___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-charienta.json */ "./tufts/localJson/grc/grc-tufts-charienta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_261__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pas.json */ "./tufts/localJson/grc/grc-tufts-pas.json");
+var _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_261___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pas.json */ "./tufts/localJson/grc/grc-tufts-pas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_262__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pantes.json */ "./tufts/localJson/grc/grc-tufts-pantes.json");
+var _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_262___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pantes.json */ "./tufts/localJson/grc/grc-tufts-pantes.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_263__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pasas.json */ "./tufts/localJson/grc/grc-tufts-pasas.json");
+var _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_263___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pasas.json */ "./tufts/localJson/grc/grc-tufts-pasas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_264__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-panti.json */ "./tufts/localJson/grc/grc-tufts-panti.json");
+var _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_264___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-panti.json */ "./tufts/localJson/grc/grc-tufts-panti.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_265__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-panta.json */ "./tufts/localJson/grc/grc-tufts-panta.json");
+var _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_265___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-panta.json */ "./tufts/localJson/grc/grc-tufts-panta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_266__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysou.json */ "./tufts/localJson/grc/grc-tufts-chrysou.json");
+var _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_266___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysou.json */ "./tufts/localJson/grc/grc-tufts-chrysou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_267__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysoin.json */ "./tufts/localJson/grc/grc-tufts-chrysoin.json");
+var _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_267___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysoin.json */ "./tufts/localJson/grc/grc-tufts-chrysoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_268__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysin.json */ "./tufts/localJson/grc/grc-tufts-chrysin.json");
+var _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_268___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysin.json */ "./tufts/localJson/grc/grc-tufts-chrysin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_269__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysais.json */ "./tufts/localJson/grc/grc-tufts-chrysais.json");
+var _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_269___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysais.json */ "./tufts/localJson/grc/grc-tufts-chrysais.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_270__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chryso.json */ "./tufts/localJson/grc/grc-tufts-chryso.json");
+var _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_270___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chryso.json */ "./tufts/localJson/grc/grc-tufts-chryso.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_271__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-chrysa.json */ "./tufts/localJson/grc/grc-tufts-chrysa.json");
+var _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_271___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-chrysa.json */ "./tufts/localJson/grc/grc-tufts-chrysa.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_272__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyrous.json */ "./tufts/localJson/grc/grc-tufts-argyrous.json");
+var _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_272___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyrous.json */ "./tufts/localJson/grc/grc-tufts-argyrous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_273__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyroin.json */ "./tufts/localJson/grc/grc-tufts-argyroin.json");
+var _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_273___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyroin.json */ "./tufts/localJson/grc/grc-tufts-argyroin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_274__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyras.json */ "./tufts/localJson/grc/grc-tufts-argyras.json");
+var _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_274___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyras.json */ "./tufts/localJson/grc/grc-tufts-argyras.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_275__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyron.json */ "./tufts/localJson/grc/grc-tufts-argyron.json");
+var _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_275___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyron.json */ "./tufts/localJson/grc/grc-tufts-argyron.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_276__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyroun.json */ "./tufts/localJson/grc/grc-tufts-argyroun.json");
+var _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_276___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyroun.json */ "./tufts/localJson/grc/grc-tufts-argyroun.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_277__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-argyra.json */ "./tufts/localJson/grc/grc-tufts-argyra.json");
+var _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_277___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-argyra.json */ "./tufts/localJson/grc/grc-tufts-argyra.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_278__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnous.json */ "./tufts/localJson/grc/grc-tufts-evnous.json");
+var _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_278___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnous.json */ "./tufts/localJson/grc/grc-tufts-evnous.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_279__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnoin.json */ "./tufts/localJson/grc/grc-tufts-evnoin.json");
+var _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_279___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnoin.json */ "./tufts/localJson/grc/grc-tufts-evnoin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_280__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evnois.json */ "./tufts/localJson/grc/grc-tufts-evnois.json");
+var _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_280___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evnois.json */ "./tufts/localJson/grc/grc-tufts-evnois.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_281__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-evno.json */ "./tufts/localJson/grc/grc-tufts-evno.json");
+var _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_281___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-evno.json */ "./tufts/localJson/grc/grc-tufts-evno.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_282__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplou.json */ "./tufts/localJson/grc/grc-tufts-aplou.json");
+var _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_282___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplou.json */ "./tufts/localJson/grc/grc-tufts-aplou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_283__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploin.json */ "./tufts/localJson/grc/grc-tufts-aploin.json");
+var _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_283___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploin.json */ "./tufts/localJson/grc/grc-tufts-aploin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_284__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplon.json */ "./tufts/localJson/grc/grc-tufts-aplon.json");
+var _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_284___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplon.json */ "./tufts/localJson/grc/grc-tufts-aplon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_285__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplis.json */ "./tufts/localJson/grc/grc-tufts-aplis.json");
+var _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_285___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplis.json */ "./tufts/localJson/grc/grc-tufts-aplis.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_286__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploun.json */ "./tufts/localJson/grc/grc-tufts-aploun.json");
+var _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_286___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploun.json */ "./tufts/localJson/grc/grc-tufts-aploun.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_287__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aploa.json */ "./tufts/localJson/grc/grc-tufts-aploa.json");
+var _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_287___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aploa.json */ "./tufts/localJson/grc/grc-tufts-aploa.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_288__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileos.json */ "./tufts/localJson/grc/grc-tufts-ileos.json");
+var _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_288___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileos.json */ "./tufts/localJson/grc/grc-tufts-ileos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_289__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileo.json */ "./tufts/localJson/grc/grc-tufts-ileo.json");
+var _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_289___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileo.json */ "./tufts/localJson/grc/grc-tufts-ileo.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_290__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ileon.json */ "./tufts/localJson/grc/grc-tufts-ileon.json");
+var _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_290___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ileon.json */ "./tufts/localJson/grc/grc-tufts-ileon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_291__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ilea.json */ "./tufts/localJson/grc/grc-tufts-ilea.json");
+var _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_291___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ilea.json */ "./tufts/localJson/grc/grc-tufts-ilea.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_292__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleo.json */ "./tufts/localJson/grc/grc-tufts-pleo.json");
+var _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_292___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleo.json */ "./tufts/localJson/grc/grc-tufts-pleo.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_293__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleos.json */ "./tufts/localJson/grc/grc-tufts-pleos.json");
+var _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_293___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleos.json */ "./tufts/localJson/grc/grc-tufts-pleos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_294__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-plea.json */ "./tufts/localJson/grc/grc-tufts-plea.json");
+var _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_294___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-plea.json */ "./tufts/localJson/grc/grc-tufts-plea.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_295__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleain.json */ "./tufts/localJson/grc/grc-tufts-pleain.json");
+var _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_295___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleain.json */ "./tufts/localJson/grc/grc-tufts-pleain.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_296__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-pleon.json */ "./tufts/localJson/grc/grc-tufts-pleon.json");
+var _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_296___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-pleon.json */ "./tufts/localJson/grc/grc-tufts-pleon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_297__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-plea2.json */ "./tufts/localJson/grc/grc-tufts-plea2.json");
+var _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_297___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-plea2.json */ "./tufts/localJson/grc/grc-tufts-plea2.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_298__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tou.json */ "./tufts/localJson/grc/grc-tufts-tou.json");
+var _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_298___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tou.json */ "./tufts/localJson/grc/grc-tufts-tou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_299__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tin.json */ "./tufts/localJson/grc/grc-tufts-tin.json");
+var _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_299___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tin.json */ "./tufts/localJson/grc/grc-tufts-tin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_300__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-toin.json */ "./tufts/localJson/grc/grc-tufts-toin.json");
+var _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_300___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-toin.json */ "./tufts/localJson/grc/grc-tufts-toin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_301__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-tois.json */ "./tufts/localJson/grc/grc-tufts-tois.json");
+var _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_301___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-tois.json */ "./tufts/localJson/grc/grc-tufts-tois.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_302__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ai.json */ "./tufts/localJson/grc/grc-tufts-ai.json");
+var _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_302___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ai.json */ "./tufts/localJson/grc/grc-tufts-ai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_303__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ta.json */ "./tufts/localJson/grc/grc-tufts-ta.json");
+var _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_303___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ta.json */ "./tufts/localJson/grc/grc-tufts-ta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_304__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-emou.json */ "./tufts/localJson/grc/grc-tufts-emou.json");
+var _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_304___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-emou.json */ "./tufts/localJson/grc/grc-tufts-emou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_305__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-non.json */ "./tufts/localJson/grc/grc-tufts-non.json");
+var _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_305___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-non.json */ "./tufts/localJson/grc/grc-tufts-non.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_306__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-imin.json */ "./tufts/localJson/grc/grc-tufts-imin.json");
+var _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_306___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-imin.json */ "./tufts/localJson/grc/grc-tufts-imin.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_307__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-soi.json */ "./tufts/localJson/grc/grc-tufts-soi.json");
+var _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_307___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-soi.json */ "./tufts/localJson/grc/grc-tufts-soi.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_308__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sfon.json */ "./tufts/localJson/grc/grc-tufts-sfon.json");
+var _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_308___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sfon.json */ "./tufts/localJson/grc/grc-tufts-sfon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_309__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-ymas.json */ "./tufts/localJson/grc/grc-tufts-ymas.json");
+var _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_309___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-ymas.json */ "./tufts/localJson/grc/grc-tufts-ymas.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_310__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json");
+var _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_310___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-sou.json */ "./tufts/localJson/grc/grc-tufts-sou.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_311__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json");
+var _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_311___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-mues.json */ "./tufts/localJson/grc/grc-tufts-mues.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_312__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-muthos.json */ "./tufts/localJson/grc/grc-tufts-muthos.json");
+var _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_312___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-muthos.json */ "./tufts/localJson/grc/grc-tufts-muthos.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_313__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json");
+var _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_313___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eika.json */ "./tufts/localJson/grc/grc-tufts-eika.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_314__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json");
+var _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_314___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eagon.json */ "./tufts/localJson/grc/grc-tufts-eagon.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_315__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json");
+var _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_315___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eimai.json */ "./tufts/localJson/grc/grc-tufts-eimai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_316__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json");
+var _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_316___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-eptamen.json */ "./tufts/localJson/grc/grc-tufts-eptamen.json", 1);
+
 
 
 
@@ -1454,332 +1457,333 @@ class GrcTuftsFixture {
       'αὐτὴν': _tufts_localJson_grc_grc_tufts_aftin_json__WEBPACK_IMPORTED_MODULE_29__,
       'φυήν': _tufts_localJson_grc_grc_tufts_fyin_json__WEBPACK_IMPORTED_MODULE_32__,
       'τις': _tufts_localJson_grc_grc_tufts_tis_json__WEBPACK_IMPORTED_MODULE_33__,
-      'ὅδε': _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_34__,
+      'τίς': _tufts_localJson_grc_grc_tufts_tis_irreg_json__WEBPACK_IMPORTED_MODULE_34__,
+      'ὅδε': _tufts_localJson_grc_grc_tufts_ode_json__WEBPACK_IMPORTED_MODULE_35__,
       'αὑτῶν': _tufts_localJson_grc_grc_tufts_afton_json__WEBPACK_IMPORTED_MODULE_30__,
-      'τοὺς': _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_35__,
+      'τοὺς': _tufts_localJson_grc_grc_tufts_tous_json__WEBPACK_IMPORTED_MODULE_36__,
       'αὐτοῖς': _tufts_localJson_grc_grc_tufts_aftois_json__WEBPACK_IMPORTED_MODULE_31__,
-      'δύο': _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_36__,
-      'βουλεύῃς': _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_37__,
-      'βουλευέσθων': _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_38__,
-      'βουλεύσω': _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_39__,
-      'ἀγάγοις': _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_40__,
-      'ἀγαγοῦ': _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_41__,
-      'βουλευθῇς': _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_42__,
-      'λελοίπῃ': _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_43__,
-      'γέγραψαι': _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_44__,
-      'μεμνῶμαι': _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_45__,
-      'ἐγέγραψο': _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_46__,
-      'τεθνήξεις': _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_47__,
-      'ἕσταθι': _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_48__,
-      'τέθνατον': _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_49__,
-      'ποιεῖτον': _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_50__,
-      'ἔπλει': _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_51__,
-      'ἐποιοῦ': _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_52__,
-      'ἐδέοντο': _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_53__,
-      'ὁρᾷς': _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_54__,
-      'χρῷμεν': _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_55__,
-      'ἑωρᾶσθον': _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_56__,
-      'χρῷντο': _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_57__,
-      'δηλοῖς': _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_58__,
-      'δηλοῦσθον': _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_59__,
-      'ἐτιθέτην': _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_60__,
-      'τιθέσθων': _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_61__,
-      'ἔθεσαν': _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_62__,
-      'ἐθέμεθα': _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_63__,
-      'ἵην': _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_64__,
-      'ἵεσθον': _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_65__,
-      'διδῷ': _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_66__,
-      'διδοῖο': _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_67__,
-      'ἔδοτον': _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_68__,
-      'δῶται': _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_69__,
-      'ἱστάτην': _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_70__,
-      'ἵσταται': _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_71__,
-      'ἐστήτην': _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_72__,
-      'ἐδύνατο': _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_73__,
-      'ἐπίστησθε': _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_74__,
-      'ἐδείκνῠτε': _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_75__,
-      'δείκνῠται': _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_76__,
-      'ἔστων': _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_77__,
-      'ἴτων': _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_78__,
-      'φαίης': _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_79__,
-      'βήτω': _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_80__,
-      'γνῶτον': _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_81__,
-      'δῦθι': _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_82__,
-      'ᾔδεις': _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_83__,
-      'ἄγοντος': _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_84__,
-      'μενοῦν': _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_85__,
-      'ὁρώσᾱ': _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_86__,
-      'λιπόν': _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_87__,
-      'ἱστάντε': _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_88__,
-      'λύσαντᾰ': _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_89__,
-      'λυθέντος': _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_90__,
-      'διδόντοιν': _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_91__,
-      'δεικνύντᾰ': _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_92__,
-      'λελοιπότων': _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_93__,
-      'ἑστῶσαι': _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_94__,
-      'πεμπομένους': _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_95__,
-      'γεγραμμένοιν': _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_96__,
-      'ζώνη': _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_97__,
-      'συνδέει': _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_98__,
-      'με': _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_99__,
-      'συνεχής': _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_100__,
-      'ταῖν': _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_101__,
-      'ἐμαυτοῦ': _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_102__,
-      'ἄγων': _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_103__,
-      'ἄνθρωπος': _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_104__,
-      'ἑστάτην': _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_105__,
-      'λελύσθαι': _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_106__,
-      'ἐλελύκη': _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_107__,
-      'ἀγάγηται': _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_108__,
+      'δύο': _tufts_localJson_grc_grc_tufts_dyo_json__WEBPACK_IMPORTED_MODULE_37__,
+      'βουλεύῃς': _tufts_localJson_grc_grc_tufts_voulevis_json__WEBPACK_IMPORTED_MODULE_38__,
+      'βουλευέσθων': _tufts_localJson_grc_grc_tufts_voulevesthon_json__WEBPACK_IMPORTED_MODULE_39__,
+      'βουλεύσω': _tufts_localJson_grc_grc_tufts_voulevefso_json__WEBPACK_IMPORTED_MODULE_40__,
+      'ἀγάγοις': _tufts_localJson_grc_grc_tufts_agagois_json__WEBPACK_IMPORTED_MODULE_41__,
+      'ἀγαγοῦ': _tufts_localJson_grc_grc_tufts_agagou_json__WEBPACK_IMPORTED_MODULE_42__,
+      'βουλευθῇς': _tufts_localJson_grc_grc_tufts_voulefthis_json__WEBPACK_IMPORTED_MODULE_43__,
+      'λελοίπῃ': _tufts_localJson_grc_grc_tufts_leloipi_json__WEBPACK_IMPORTED_MODULE_44__,
+      'γέγραψαι': _tufts_localJson_grc_grc_tufts_gegrapsai_json__WEBPACK_IMPORTED_MODULE_45__,
+      'μεμνῶμαι': _tufts_localJson_grc_grc_tufts_memnomai_json__WEBPACK_IMPORTED_MODULE_46__,
+      'ἐγέγραψο': _tufts_localJson_grc_grc_tufts_egegrapso_json__WEBPACK_IMPORTED_MODULE_47__,
+      'τεθνήξεις': _tufts_localJson_grc_grc_tufts_tethnixeis_json__WEBPACK_IMPORTED_MODULE_48__,
+      'ἕσταθι': _tufts_localJson_grc_grc_tufts_estathi_json__WEBPACK_IMPORTED_MODULE_49__,
+      'τέθνατον': _tufts_localJson_grc_grc_tufts_tethnaton_json__WEBPACK_IMPORTED_MODULE_50__,
+      'ποιεῖτον': _tufts_localJson_grc_grc_tufts_poieiton_json__WEBPACK_IMPORTED_MODULE_51__,
+      'ἔπλει': _tufts_localJson_grc_grc_tufts_eplei_json__WEBPACK_IMPORTED_MODULE_52__,
+      'ἐποιοῦ': _tufts_localJson_grc_grc_tufts_epoiou_json__WEBPACK_IMPORTED_MODULE_53__,
+      'ἐδέοντο': _tufts_localJson_grc_grc_tufts_edeonto_json__WEBPACK_IMPORTED_MODULE_54__,
+      'ὁρᾷς': _tufts_localJson_grc_grc_tufts_oras_json__WEBPACK_IMPORTED_MODULE_55__,
+      'χρῷμεν': _tufts_localJson_grc_grc_tufts_chromen_json__WEBPACK_IMPORTED_MODULE_56__,
+      'ἑωρᾶσθον': _tufts_localJson_grc_grc_tufts_eorasthon_json__WEBPACK_IMPORTED_MODULE_57__,
+      'χρῷντο': _tufts_localJson_grc_grc_tufts_chronto_json__WEBPACK_IMPORTED_MODULE_58__,
+      'δηλοῖς': _tufts_localJson_grc_grc_tufts_dilois_json__WEBPACK_IMPORTED_MODULE_59__,
+      'δηλοῦσθον': _tufts_localJson_grc_grc_tufts_dilousthon_json__WEBPACK_IMPORTED_MODULE_60__,
+      'ἐτιθέτην': _tufts_localJson_grc_grc_tufts_etithetin_json__WEBPACK_IMPORTED_MODULE_61__,
+      'τιθέσθων': _tufts_localJson_grc_grc_tufts_tithesthon_json__WEBPACK_IMPORTED_MODULE_62__,
+      'ἔθεσαν': _tufts_localJson_grc_grc_tufts_ethesan_json__WEBPACK_IMPORTED_MODULE_63__,
+      'ἐθέμεθα': _tufts_localJson_grc_grc_tufts_ethemetha_json__WEBPACK_IMPORTED_MODULE_64__,
+      'ἵην': _tufts_localJson_grc_grc_tufts_iin_json__WEBPACK_IMPORTED_MODULE_65__,
+      'ἵεσθον': _tufts_localJson_grc_grc_tufts_iesthon_json__WEBPACK_IMPORTED_MODULE_66__,
+      'διδῷ': _tufts_localJson_grc_grc_tufts_dido_json__WEBPACK_IMPORTED_MODULE_67__,
+      'διδοῖο': _tufts_localJson_grc_grc_tufts_didoio_json__WEBPACK_IMPORTED_MODULE_68__,
+      'ἔδοτον': _tufts_localJson_grc_grc_tufts_edoton_json__WEBPACK_IMPORTED_MODULE_69__,
+      'δῶται': _tufts_localJson_grc_grc_tufts_dotai_json__WEBPACK_IMPORTED_MODULE_70__,
+      'ἱστάτην': _tufts_localJson_grc_grc_tufts_istatin_json__WEBPACK_IMPORTED_MODULE_71__,
+      'ἵσταται': _tufts_localJson_grc_grc_tufts_istatai_json__WEBPACK_IMPORTED_MODULE_72__,
+      'ἐστήτην': _tufts_localJson_grc_grc_tufts_estitin_json__WEBPACK_IMPORTED_MODULE_73__,
+      'ἐδύνατο': _tufts_localJson_grc_grc_tufts_edynato_json__WEBPACK_IMPORTED_MODULE_74__,
+      'ἐπίστησθε': _tufts_localJson_grc_grc_tufts_epististhe_json__WEBPACK_IMPORTED_MODULE_75__,
+      'ἐδείκνῠτε': _tufts_localJson_grc_grc_tufts_edeiknyte_json__WEBPACK_IMPORTED_MODULE_76__,
+      'δείκνῠται': _tufts_localJson_grc_grc_tufts_deiknytai_json__WEBPACK_IMPORTED_MODULE_77__,
+      'ἔστων': _tufts_localJson_grc_grc_tufts_eston_json__WEBPACK_IMPORTED_MODULE_78__,
+      'ἴτων': _tufts_localJson_grc_grc_tufts_iton_json__WEBPACK_IMPORTED_MODULE_79__,
+      'φαίης': _tufts_localJson_grc_grc_tufts_faiis_json__WEBPACK_IMPORTED_MODULE_80__,
+      'βήτω': _tufts_localJson_grc_grc_tufts_vito_json__WEBPACK_IMPORTED_MODULE_81__,
+      'γνῶτον': _tufts_localJson_grc_grc_tufts_gnoton_json__WEBPACK_IMPORTED_MODULE_82__,
+      'δῦθι': _tufts_localJson_grc_grc_tufts_dythi_json__WEBPACK_IMPORTED_MODULE_83__,
+      'ᾔδεις': _tufts_localJson_grc_grc_tufts_ideis_json__WEBPACK_IMPORTED_MODULE_84__,
+      'ἄγοντος': _tufts_localJson_grc_grc_tufts_agontos_json__WEBPACK_IMPORTED_MODULE_85__,
+      'μενοῦν': _tufts_localJson_grc_grc_tufts_menoun_json__WEBPACK_IMPORTED_MODULE_86__,
+      'ὁρώσᾱ': _tufts_localJson_grc_grc_tufts_orosa_json__WEBPACK_IMPORTED_MODULE_87__,
+      'λιπόν': _tufts_localJson_grc_grc_tufts_lipon_json__WEBPACK_IMPORTED_MODULE_88__,
+      'ἱστάντε': _tufts_localJson_grc_grc_tufts_istante_json__WEBPACK_IMPORTED_MODULE_89__,
+      'λύσαντᾰ': _tufts_localJson_grc_grc_tufts_lysanta_json__WEBPACK_IMPORTED_MODULE_90__,
+      'λυθέντος': _tufts_localJson_grc_grc_tufts_lythentos_json__WEBPACK_IMPORTED_MODULE_91__,
+      'διδόντοιν': _tufts_localJson_grc_grc_tufts_didontoin_json__WEBPACK_IMPORTED_MODULE_92__,
+      'δεικνύντᾰ': _tufts_localJson_grc_grc_tufts_deiknynta_json__WEBPACK_IMPORTED_MODULE_93__,
+      'λελοιπότων': _tufts_localJson_grc_grc_tufts_leloipoton_json__WEBPACK_IMPORTED_MODULE_94__,
+      'ἑστῶσαι': _tufts_localJson_grc_grc_tufts_estosai_json__WEBPACK_IMPORTED_MODULE_95__,
+      'πεμπομένους': _tufts_localJson_grc_grc_tufts_pempomenous_json__WEBPACK_IMPORTED_MODULE_96__,
+      'γεγραμμένοιν': _tufts_localJson_grc_grc_tufts_gegrammenoin_json__WEBPACK_IMPORTED_MODULE_97__,
+      'ζώνη': _tufts_localJson_grc_grc_tufts_zoni_json__WEBPACK_IMPORTED_MODULE_98__,
+      'συνδέει': _tufts_localJson_grc_grc_tufts_syndeei_json__WEBPACK_IMPORTED_MODULE_99__,
+      'με': _tufts_localJson_grc_grc_tufts_me_json__WEBPACK_IMPORTED_MODULE_100__,
+      'συνεχής': _tufts_localJson_grc_grc_tufts_synechis_json__WEBPACK_IMPORTED_MODULE_101__,
+      'ταῖν': _tufts_localJson_grc_grc_tufts_tain_json__WEBPACK_IMPORTED_MODULE_102__,
+      'ἐμαυτοῦ': _tufts_localJson_grc_grc_tufts_emaftou_json__WEBPACK_IMPORTED_MODULE_103__,
+      'ἄγων': _tufts_localJson_grc_grc_tufts_agon_json__WEBPACK_IMPORTED_MODULE_104__,
+      'ἄνθρωπος': _tufts_localJson_grc_grc_tufts_anthropos_json__WEBPACK_IMPORTED_MODULE_105__,
+      'ἑστάτην': _tufts_localJson_grc_grc_tufts_estatin_json__WEBPACK_IMPORTED_MODULE_106__,
+      'λελύσθαι': _tufts_localJson_grc_grc_tufts_lelysthai_json__WEBPACK_IMPORTED_MODULE_107__,
+      'ἐλελύκη': _tufts_localJson_grc_grc_tufts_elelyki_json__WEBPACK_IMPORTED_MODULE_108__,
+      'ἀγάγηται': _tufts_localJson_grc_grc_tufts_agagitai_json__WEBPACK_IMPORTED_MODULE_109__,
 
-      'ἐβουλεύθην': _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_109__,
-      'βουλευθῶ': _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_110__,
-      'βουλευθείην': _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_111__,
-      'ἐγράφην': _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_112__,
-      'οἰστροδόνου': _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_113__,
+      'ἐβουλεύθην': _tufts_localJson_grc_grc_tufts_evolefthin_json__WEBPACK_IMPORTED_MODULE_110__,
+      'βουλευθῶ': _tufts_localJson_grc_grc_tufts_vouleftho_json__WEBPACK_IMPORTED_MODULE_111__,
+      'βουλευθείην': _tufts_localJson_grc_grc_tufts_vouleftheiin_json__WEBPACK_IMPORTED_MODULE_112__,
+      'ἐγράφην': _tufts_localJson_grc_grc_tufts_egrafin_json__WEBPACK_IMPORTED_MODULE_113__,
+      'οἰστροδόνου': _tufts_localJson_grc_grc_tufts_oistrodonou_json__WEBPACK_IMPORTED_MODULE_114__,
 
-      'ἔργον': _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_114__,
+      'ἔργον': _tufts_localJson_grc_grc_tufts_ergon_json__WEBPACK_IMPORTED_MODULE_115__,
 
-      'χώρᾱς': _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_115__,
-      'χώραιν': _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_116__,
-      'γνωμῶν': _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_117__,
-      'γνώμην': _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_118__,
+      'χώρᾱς': _tufts_localJson_grc_grc_tufts_choras_json__WEBPACK_IMPORTED_MODULE_116__,
+      'χώραιν': _tufts_localJson_grc_grc_tufts_chorain_json__WEBPACK_IMPORTED_MODULE_117__,
+      'γνωμῶν': _tufts_localJson_grc_grc_tufts_gnomon_json__WEBPACK_IMPORTED_MODULE_118__,
+      'γνώμην': _tufts_localJson_grc_grc_tufts_gnomin_json__WEBPACK_IMPORTED_MODULE_119__,
 
-      'ὑγιείᾳ': _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_119__,
-      'ὑγιείαιν': _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_120__,
-      'θάλαττᾰν': _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_121__,
-      'θαλάττᾱς': _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_122__,
+      'ὑγιείᾳ': _tufts_localJson_grc_grc_tufts_ygieia_json__WEBPACK_IMPORTED_MODULE_120__,
+      'ὑγιείαιν': _tufts_localJson_grc_grc_tufts_ygieiain_json__WEBPACK_IMPORTED_MODULE_121__,
+      'θάλαττᾰν': _tufts_localJson_grc_grc_tufts_thalattan_json__WEBPACK_IMPORTED_MODULE_122__,
+      'θαλάττᾱς': _tufts_localJson_grc_grc_tufts_thalattas_json__WEBPACK_IMPORTED_MODULE_123__,
 
-      'νεανίου': _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_123__,
-      'νεανίαιν': _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_124__,
-      'στρατιώτην': _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_125__,
-      'στρατιώταις': _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_126__,
+      'νεανίου': _tufts_localJson_grc_grc_tufts_neaniou_json__WEBPACK_IMPORTED_MODULE_124__,
+      'νεανίαιν': _tufts_localJson_grc_grc_tufts_neaniain_json__WEBPACK_IMPORTED_MODULE_125__,
+      'στρατιώτην': _tufts_localJson_grc_grc_tufts_stratiotin_json__WEBPACK_IMPORTED_MODULE_126__,
+      'στρατιώταις': _tufts_localJson_grc_grc_tufts_stratiotais_json__WEBPACK_IMPORTED_MODULE_127__,
 
-      'ξηρή': _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_127__,
+      'ξηρή': _tufts_localJson_grc_grc_tufts_xiri_json__WEBPACK_IMPORTED_MODULE_128__,
 
-      'κλώψ': _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_128__,
-      'κλῶπε': _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_129__,
-      'φυλάκων': _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_130__,
-      'φύλαξ': _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_131__,
+      'κλώψ': _tufts_localJson_grc_grc_tufts_klops_json__WEBPACK_IMPORTED_MODULE_129__,
+      'κλῶπε': _tufts_localJson_grc_grc_tufts_klope_json__WEBPACK_IMPORTED_MODULE_130__,
+      'φυλάκων': _tufts_localJson_grc_grc_tufts_fylakon_json__WEBPACK_IMPORTED_MODULE_131__,
+      'φύλαξ': _tufts_localJson_grc_grc_tufts_fylax_json__WEBPACK_IMPORTED_MODULE_132__,
 
-      'χάρις': _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_132__,
-      'χάριτες': _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_133__,
-      'ἀσπίδοιν': _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_134__,
-      'ἀσπίδᾰς': _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_135__,
-      'Ἑλλάδᾰ': _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_136__,
-      'Ἑλλάδοιν': _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_137__,
+      'χάρις': _tufts_localJson_grc_grc_tufts_charis_json__WEBPACK_IMPORTED_MODULE_133__,
+      'χάριτες': _tufts_localJson_grc_grc_tufts_charites_json__WEBPACK_IMPORTED_MODULE_134__,
+      'ἀσπίδοιν': _tufts_localJson_grc_grc_tufts_aspidoin_json__WEBPACK_IMPORTED_MODULE_135__,
+      'ἀσπίδᾰς': _tufts_localJson_grc_grc_tufts_aspidas_json__WEBPACK_IMPORTED_MODULE_136__,
+      'Ἑλλάδᾰ': _tufts_localJson_grc_grc_tufts_ellada_json__WEBPACK_IMPORTED_MODULE_137__,
+      'Ἑλλάδοιν': _tufts_localJson_grc_grc_tufts_elladoin_json__WEBPACK_IMPORTED_MODULE_138__,
 
-      'γέροντος': _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_138__,
-      'γερόντων': _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_139__,
-      'γίγαντᾰ': _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_140__,
-      'γιγάντων': _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_141__,
-      'ὀδόντοιν': _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_142__,
-      'ὀδόντος': _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_143__,
+      'γέροντος': _tufts_localJson_grc_grc_tufts_gerontos_json__WEBPACK_IMPORTED_MODULE_139__,
+      'γερόντων': _tufts_localJson_grc_grc_tufts_geronton_json__WEBPACK_IMPORTED_MODULE_140__,
+      'γίγαντᾰ': _tufts_localJson_grc_grc_tufts_giganta_json__WEBPACK_IMPORTED_MODULE_141__,
+      'γιγάντων': _tufts_localJson_grc_grc_tufts_giganton_json__WEBPACK_IMPORTED_MODULE_142__,
+      'ὀδόντοιν': _tufts_localJson_grc_grc_tufts_odontoin_json__WEBPACK_IMPORTED_MODULE_143__,
+      'ὀδόντος': _tufts_localJson_grc_grc_tufts_odontos_json__WEBPACK_IMPORTED_MODULE_144__,
 
-      'πράγματος': _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_144__,
-      'πραγμάτοιν': _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_145__,
-      'τέρατι': _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_146__,
-      'τεράτων': _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_147__,
+      'πράγματος': _tufts_localJson_grc_grc_tufts_pragmatos_json__WEBPACK_IMPORTED_MODULE_145__,
+      'πραγμάτοιν': _tufts_localJson_grc_grc_tufts_pragmatoin_json__WEBPACK_IMPORTED_MODULE_146__,
+      'τέρατι': _tufts_localJson_grc_grc_tufts_terati_json__WEBPACK_IMPORTED_MODULE_147__,
+      'τεράτων': _tufts_localJson_grc_grc_tufts_teraton_json__WEBPACK_IMPORTED_MODULE_148__,
 
-      'ῥήτορος': _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_148__,
-      'ῥήτορες': _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_149__,
-      'δαῖμον': _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_150__,
-      'δαίμονᾰς': _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_151__,
-      'ἀγῶνᾰ': _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_152__,
-      'ἀγώνων': _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_153__,
-      'ἁλί': _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_154__,
-      'ἁλοῖν': _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_155__,
+      'ῥήτορος': _tufts_localJson_grc_grc_tufts_ritoros_json__WEBPACK_IMPORTED_MODULE_149__,
+      'ῥήτορες': _tufts_localJson_grc_grc_tufts_ritores_json__WEBPACK_IMPORTED_MODULE_150__,
+      'δαῖμον': _tufts_localJson_grc_grc_tufts_daimon_json__WEBPACK_IMPORTED_MODULE_151__,
+      'δαίμονᾰς': _tufts_localJson_grc_grc_tufts_daimonas_json__WEBPACK_IMPORTED_MODULE_152__,
+      'ἀγῶνᾰ': _tufts_localJson_grc_grc_tufts_agona_json__WEBPACK_IMPORTED_MODULE_153__,
+      'ἀγώνων': _tufts_localJson_grc_grc_tufts_agonon_json__WEBPACK_IMPORTED_MODULE_154__,
+      'ἁλί': _tufts_localJson_grc_grc_tufts_ali_json__WEBPACK_IMPORTED_MODULE_155__,
+      'ἁλοῖν': _tufts_localJson_grc_grc_tufts_aloin_json__WEBPACK_IMPORTED_MODULE_156__,
 
-      'πατρί': _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_156__,
-      'πατέροιν': _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_157__,
-      'μητέρᾰ': _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_158__,
-      'μητέρων': _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_159__,
-      'θυγατέρᾰ': _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_160__,
-      'θυγατέροιν': _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_161__,
-      'ἀνδρί': _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_162__,
-      'ἀνδρῶν': _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_163__,
+      'πατρί': _tufts_localJson_grc_grc_tufts_patri_json__WEBPACK_IMPORTED_MODULE_157__,
+      'πατέροιν': _tufts_localJson_grc_grc_tufts_pateroin_json__WEBPACK_IMPORTED_MODULE_158__,
+      'μητέρᾰ': _tufts_localJson_grc_grc_tufts_mitera_json__WEBPACK_IMPORTED_MODULE_159__,
+      'μητέρων': _tufts_localJson_grc_grc_tufts_miteron_json__WEBPACK_IMPORTED_MODULE_160__,
+      'θυγατέρᾰ': _tufts_localJson_grc_grc_tufts_thygatera_json__WEBPACK_IMPORTED_MODULE_161__,
+      'θυγατέροιν': _tufts_localJson_grc_grc_tufts_thygateroin_json__WEBPACK_IMPORTED_MODULE_162__,
+      'ἀνδρί': _tufts_localJson_grc_grc_tufts_andri_json__WEBPACK_IMPORTED_MODULE_163__,
+      'ἀνδρῶν': _tufts_localJson_grc_grc_tufts_andron_json__WEBPACK_IMPORTED_MODULE_164__,
 
-      'τριήρους': _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_164__,
-      'τριήρεις': _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_165__,
-      'γένει': _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_166__,
-      'γένη': _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_167__,
-      'γέρᾱ': _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_168__,
-      'γερῶν': _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_169__,
+      'τριήρους': _tufts_localJson_grc_grc_tufts_triirous_json__WEBPACK_IMPORTED_MODULE_165__,
+      'τριήρεις': _tufts_localJson_grc_grc_tufts_triireis_json__WEBPACK_IMPORTED_MODULE_166__,
+      'γένει': _tufts_localJson_grc_grc_tufts_genei_json__WEBPACK_IMPORTED_MODULE_167__,
+      'γένη': _tufts_localJson_grc_grc_tufts_geni_json__WEBPACK_IMPORTED_MODULE_168__,
+      'γέρᾱ': _tufts_localJson_grc_grc_tufts_gera_json__WEBPACK_IMPORTED_MODULE_169__,
+      'γερῶν': _tufts_localJson_grc_grc_tufts_geron_json__WEBPACK_IMPORTED_MODULE_170__,
 
-      'γυναικί': _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_170__,
-      'γυναῖκας': _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_171__,
-      'χεῖρε': _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_172__,
-      'χεῖρᾰς': _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_173__,
-      'ὑέος': _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_174__,
-      'υἱέος': _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_175__,
-      'υἱοῖν': _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_176__,
+      'γυναικί': _tufts_localJson_grc_grc_tufts_gynaiki_json__WEBPACK_IMPORTED_MODULE_171__,
+      'γυναῖκας': _tufts_localJson_grc_grc_tufts_gynaikas_json__WEBPACK_IMPORTED_MODULE_172__,
+      'χεῖρε': _tufts_localJson_grc_grc_tufts_cheire_json__WEBPACK_IMPORTED_MODULE_173__,
+      'χεῖρᾰς': _tufts_localJson_grc_grc_tufts_cheiras_json__WEBPACK_IMPORTED_MODULE_174__,
+      'ὑέος': _tufts_localJson_grc_grc_tufts_yeos_json__WEBPACK_IMPORTED_MODULE_175__,
+      'υἱέος': _tufts_localJson_grc_grc_tufts_yieos_json__WEBPACK_IMPORTED_MODULE_176__,
+      'υἱοῖν': _tufts_localJson_grc_grc_tufts_yioin_json__WEBPACK_IMPORTED_MODULE_177__,
 
-      'πόλεως': _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_177__,
-      'πολέοιν': _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_178__,
-      'πῆχυν': _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_179__,
-      'πήχεων': _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_180__,
-      'ἄστει': _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_181__,
-      'ἄστεων': _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_182__,
-      'ἰχθύος': _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_183__,
-      'ἰχθύες': _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_184__,
+      'πόλεως': _tufts_localJson_grc_grc_tufts_poleos_json__WEBPACK_IMPORTED_MODULE_178__,
+      'πολέοιν': _tufts_localJson_grc_grc_tufts_poleoin_json__WEBPACK_IMPORTED_MODULE_179__,
+      'πῆχυν': _tufts_localJson_grc_grc_tufts_pichyn_json__WEBPACK_IMPORTED_MODULE_180__,
+      'πήχεων': _tufts_localJson_grc_grc_tufts_picheon_json__WEBPACK_IMPORTED_MODULE_181__,
+      'ἄστει': _tufts_localJson_grc_grc_tufts_astei_json__WEBPACK_IMPORTED_MODULE_182__,
+      'ἄστεων': _tufts_localJson_grc_grc_tufts_asteon_json__WEBPACK_IMPORTED_MODULE_183__,
+      'ἰχθύος': _tufts_localJson_grc_grc_tufts_ichthyos_json__WEBPACK_IMPORTED_MODULE_184__,
+      'ἰχθύες': _tufts_localJson_grc_grc_tufts_ichthyes_json__WEBPACK_IMPORTED_MODULE_185__,
 
-      'ἱππέως': _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_185__,
-      'ἱππέοιν': _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_186__,
-      'γραῦν': _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_187__,
-      'γρᾱοῖν': _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_188__,
-      'ναῦν': _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_189__,
-      'νεῶν': _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_190__,
-      'βοῦν': _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_191__,
-      'βοῶν': _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_192__,
+      'ἱππέως': _tufts_localJson_grc_grc_tufts_ippeos_json__WEBPACK_IMPORTED_MODULE_186__,
+      'ἱππέοιν': _tufts_localJson_grc_grc_tufts_ippeoin_json__WEBPACK_IMPORTED_MODULE_187__,
+      'γραῦν': _tufts_localJson_grc_grc_tufts_gravn_json__WEBPACK_IMPORTED_MODULE_188__,
+      'γρᾱοῖν': _tufts_localJson_grc_grc_tufts_graoin_json__WEBPACK_IMPORTED_MODULE_189__,
+      'ναῦν': _tufts_localJson_grc_grc_tufts_navn_json__WEBPACK_IMPORTED_MODULE_190__,
+      'νεῶν': _tufts_localJson_grc_grc_tufts_neon_json__WEBPACK_IMPORTED_MODULE_191__,
+      'βοῦν': _tufts_localJson_grc_grc_tufts_voun_json__WEBPACK_IMPORTED_MODULE_192__,
+      'βοῶν': _tufts_localJson_grc_grc_tufts_voon_json__WEBPACK_IMPORTED_MODULE_193__,
 
-      'νοῦ': _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_193__,
-      'νοῖν': _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_194__,
-      'κανοῦ': _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_195__,
-      'κανοῖν': _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_196__,
+      'νοῦ': _tufts_localJson_grc_grc_tufts_nou_json__WEBPACK_IMPORTED_MODULE_194__,
+      'νοῖν': _tufts_localJson_grc_grc_tufts_noin_json__WEBPACK_IMPORTED_MODULE_195__,
+      'κανοῦ': _tufts_localJson_grc_grc_tufts_kanou_json__WEBPACK_IMPORTED_MODULE_196__,
+      'κανοῖν': _tufts_localJson_grc_grc_tufts_kanoin_json__WEBPACK_IMPORTED_MODULE_197__,
 
-      'γῆς': _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_197__,
-      'γῆν': _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_198__,
-      'συκῆς': _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_199__,
-      'συκαῖ': _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_200__,
-      'μνᾶς': _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_201__,
-      'μναῖς': _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_202__,
-      'Ἑρμῆν': _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_203__,
-      'Ἑρμᾶς': _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_204__,
+      'γῆς': _tufts_localJson_grc_grc_tufts_gis_json__WEBPACK_IMPORTED_MODULE_198__,
+      'γῆν': _tufts_localJson_grc_grc_tufts_gin_json__WEBPACK_IMPORTED_MODULE_199__,
+      'συκῆς': _tufts_localJson_grc_grc_tufts_sykis_json__WEBPACK_IMPORTED_MODULE_200__,
+      'συκαῖ': _tufts_localJson_grc_grc_tufts_sykai_json__WEBPACK_IMPORTED_MODULE_201__,
+      'μνᾶς': _tufts_localJson_grc_grc_tufts_mnas_json__WEBPACK_IMPORTED_MODULE_202__,
+      'μναῖς': _tufts_localJson_grc_grc_tufts_mnais_json__WEBPACK_IMPORTED_MODULE_203__,
+      'Ἑρμῆν': _tufts_localJson_grc_grc_tufts_ermin_json__WEBPACK_IMPORTED_MODULE_204__,
+      'Ἑρμᾶς': _tufts_localJson_grc_grc_tufts_ermas_json__WEBPACK_IMPORTED_MODULE_205__,
 
-      'νεώ': _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_205__,
-      'νεῴς': _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_206__,
-      'λεών': _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_207__,
-      'λεώς': _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_208__,
-      'λαγώ': _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_209__,
-      'λαγώς': _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_210__,
+      'νεώ': _tufts_localJson_grc_grc_tufts_neo_json__WEBPACK_IMPORTED_MODULE_206__,
+      'νεῴς': _tufts_localJson_grc_grc_tufts_neos_json__WEBPACK_IMPORTED_MODULE_207__,
+      'λεών': _tufts_localJson_grc_grc_tufts_leon_json__WEBPACK_IMPORTED_MODULE_208__,
+      'λεώς': _tufts_localJson_grc_grc_tufts_leos_json__WEBPACK_IMPORTED_MODULE_209__,
+      'λαγώ': _tufts_localJson_grc_grc_tufts_lago_json__WEBPACK_IMPORTED_MODULE_210__,
+      'λαγώς': _tufts_localJson_grc_grc_tufts_lagos_json__WEBPACK_IMPORTED_MODULE_211__,
 
-      'ἕως': _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_211__,
-      'ἕω': _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_212__,
+      'ἕως': _tufts_localJson_grc_grc_tufts_eos_json__WEBPACK_IMPORTED_MODULE_212__,
+      'ἕω': _tufts_localJson_grc_grc_tufts_eo_json__WEBPACK_IMPORTED_MODULE_213__,
 
-      'αἰδοῦς': _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_213__,
-      'αἰδώς': _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_214__,
-      'ἥρωᾰ': _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_215__,
-      'ἡρώων': _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_216__,
+      'αἰδοῦς': _tufts_localJson_grc_grc_tufts_aidous_json__WEBPACK_IMPORTED_MODULE_214__,
+      'αἰδώς': _tufts_localJson_grc_grc_tufts_aidos_json__WEBPACK_IMPORTED_MODULE_215__,
+      'ἥρωᾰ': _tufts_localJson_grc_grc_tufts_iroa_json__WEBPACK_IMPORTED_MODULE_216__,
+      'ἡρώων': _tufts_localJson_grc_grc_tufts_iroon_json__WEBPACK_IMPORTED_MODULE_217__,
 
-      'ἀξίου': _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_217__,
-      'ἀξίοιν': _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_218__,
-      'ἀξίους': _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_219__,
+      'ἀξίου': _tufts_localJson_grc_grc_tufts_axiou_json__WEBPACK_IMPORTED_MODULE_218__,
+      'ἀξίοιν': _tufts_localJson_grc_grc_tufts_axioin_json__WEBPACK_IMPORTED_MODULE_219__,
+      'ἀξίους': _tufts_localJson_grc_grc_tufts_axious_json__WEBPACK_IMPORTED_MODULE_220__,
 
-      'ἀξίᾱν': _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_220__,
-      'ἀξίων': _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_221__,
+      'ἀξίᾱν': _tufts_localJson_grc_grc_tufts_axian_json__WEBPACK_IMPORTED_MODULE_221__,
+      'ἀξίων': _tufts_localJson_grc_grc_tufts_axion_json__WEBPACK_IMPORTED_MODULE_222__,
 
-      'ἀξίω': _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_222__,
-      'ἀξίοις': _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_223__,
+      'ἀξίω': _tufts_localJson_grc_grc_tufts_axio_json__WEBPACK_IMPORTED_MODULE_223__,
+      'ἀξίοις': _tufts_localJson_grc_grc_tufts_axiois_json__WEBPACK_IMPORTED_MODULE_224__,
 
-      'ἀγαθοῦ': _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_224__,
-      'ἀγαθοῖν': _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_225__,
+      'ἀγαθοῦ': _tufts_localJson_grc_grc_tufts_agathou_json__WEBPACK_IMPORTED_MODULE_225__,
+      'ἀγαθοῖν': _tufts_localJson_grc_grc_tufts_agathoin_json__WEBPACK_IMPORTED_MODULE_226__,
 
-      'ἀγαθήν': _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_226__,
-      'ἀγαθῶν': _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_227__,
-      'ἀγαθῷ': _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_228__,
-      'ἀγαθά': _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_229__,
+      'ἀγαθήν': _tufts_localJson_grc_grc_tufts_agathin_json__WEBPACK_IMPORTED_MODULE_227__,
+      'ἀγαθῶν': _tufts_localJson_grc_grc_tufts_agathon_json__WEBPACK_IMPORTED_MODULE_228__,
+      'ἀγαθῷ': _tufts_localJson_grc_grc_tufts_agatho_json__WEBPACK_IMPORTED_MODULE_229__,
+      'ἀγαθά': _tufts_localJson_grc_grc_tufts_agatha_json__WEBPACK_IMPORTED_MODULE_230__,
 
-      'ἀδίκου': _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_230__,
-      'ἀδίκων': _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_231__,
-      'ἀδίκοιν': _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_232__,
-      'ἄδικᾰ': _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_233__,
+      'ἀδίκου': _tufts_localJson_grc_grc_tufts_adikou_json__WEBPACK_IMPORTED_MODULE_231__,
+      'ἀδίκων': _tufts_localJson_grc_grc_tufts_adikon_json__WEBPACK_IMPORTED_MODULE_232__,
+      'ἀδίκοιν': _tufts_localJson_grc_grc_tufts_adikoin_json__WEBPACK_IMPORTED_MODULE_233__,
+      'ἄδικᾰ': _tufts_localJson_grc_grc_tufts_adika_json__WEBPACK_IMPORTED_MODULE_234__,
 
-      'ἀληθοῦς': _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_234__,
-      'ἀληθεῖς': _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_235__,
-      'ἀληθές': _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_236__,
-      'ἀληθοῖν': _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_237__,
-      'σώφρων': _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_238__,
-      'σώφρονᾰς': _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_239__,
-      'σώφρονε': _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_240__,
-      'σώφρονᾰ': _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_241__,
+      'ἀληθοῦς': _tufts_localJson_grc_grc_tufts_alithous_json__WEBPACK_IMPORTED_MODULE_235__,
+      'ἀληθεῖς': _tufts_localJson_grc_grc_tufts_alitheis_json__WEBPACK_IMPORTED_MODULE_236__,
+      'ἀληθές': _tufts_localJson_grc_grc_tufts_alithes_json__WEBPACK_IMPORTED_MODULE_237__,
+      'ἀληθοῖν': _tufts_localJson_grc_grc_tufts_alithoin_json__WEBPACK_IMPORTED_MODULE_238__,
+      'σώφρων': _tufts_localJson_grc_grc_tufts_sofron_json__WEBPACK_IMPORTED_MODULE_239__,
+      'σώφρονᾰς': _tufts_localJson_grc_grc_tufts_sofronas_json__WEBPACK_IMPORTED_MODULE_240__,
+      'σώφρονε': _tufts_localJson_grc_grc_tufts_sofrone_json__WEBPACK_IMPORTED_MODULE_241__,
+      'σώφρονᾰ': _tufts_localJson_grc_grc_tufts_sofrona_json__WEBPACK_IMPORTED_MODULE_242__,
 
-      'ἡδέος': _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_242__,
-      'ἡδέοιν': _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_243__,
-      'ἡδεῖᾰν': _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_244__,
-      'ἡδείαις': _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_245__,
-      'ἡδύ': _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_246__,
+      'ἡδέος': _tufts_localJson_grc_grc_tufts_ideos_json__WEBPACK_IMPORTED_MODULE_243__,
+      'ἡδέοιν': _tufts_localJson_grc_grc_tufts_ideoin_json__WEBPACK_IMPORTED_MODULE_244__,
+      'ἡδεῖᾰν': _tufts_localJson_grc_grc_tufts_ideian_json__WEBPACK_IMPORTED_MODULE_245__,
+      'ἡδείαις': _tufts_localJson_grc_grc_tufts_ideiais_json__WEBPACK_IMPORTED_MODULE_246__,
+      'ἡδύ': _tufts_localJson_grc_grc_tufts_idy_json__WEBPACK_IMPORTED_MODULE_247__,
 
-      'ἡδέᾰ': _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_247__,
+      'ἡδέᾰ': _tufts_localJson_grc_grc_tufts_idea_json__WEBPACK_IMPORTED_MODULE_248__,
 
-      'μέλανι': _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_248__,
-      'μελάνοιν': _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_249__,
-      'μελαίνης': _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_250__,
-      'μελαίναις': _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_251__,
-      'μέλαν': _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_252__,
-      'μέλανᾰ': _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_253__,
+      'μέλανι': _tufts_localJson_grc_grc_tufts_melani_json__WEBPACK_IMPORTED_MODULE_249__,
+      'μελάνοιν': _tufts_localJson_grc_grc_tufts_melanoin_json__WEBPACK_IMPORTED_MODULE_250__,
+      'μελαίνης': _tufts_localJson_grc_grc_tufts_melainis_json__WEBPACK_IMPORTED_MODULE_251__,
+      'μελαίναις': _tufts_localJson_grc_grc_tufts_melainais_json__WEBPACK_IMPORTED_MODULE_252__,
+      'μέλαν': _tufts_localJson_grc_grc_tufts_melan_json__WEBPACK_IMPORTED_MODULE_253__,
+      'μέλανᾰ': _tufts_localJson_grc_grc_tufts_melana_json__WEBPACK_IMPORTED_MODULE_254__,
 
-      'χαρίεντος': _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_254__,
-      'χαρίεντε': _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_255__,
-      'χαριέσσαιν': _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_256__,
-      'χαριέσσαις': _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_257__,
-      'χαρίεντι': _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_258__,
-      'χαρίεντᾰ': _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_259__,
+      'χαρίεντος': _tufts_localJson_grc_grc_tufts_charientos_json__WEBPACK_IMPORTED_MODULE_255__,
+      'χαρίεντε': _tufts_localJson_grc_grc_tufts_chariente_json__WEBPACK_IMPORTED_MODULE_256__,
+      'χαριέσσαιν': _tufts_localJson_grc_grc_tufts_chariessain_json__WEBPACK_IMPORTED_MODULE_257__,
+      'χαριέσσαις': _tufts_localJson_grc_grc_tufts_chariessas_json__WEBPACK_IMPORTED_MODULE_258__,
+      'χαρίεντι': _tufts_localJson_grc_grc_tufts_charienti_json__WEBPACK_IMPORTED_MODULE_259__,
+      'χαρίεντᾰ': _tufts_localJson_grc_grc_tufts_charienta_json__WEBPACK_IMPORTED_MODULE_260__,
 
-      'πᾶς': _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_260__,
-      'πάντες': _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_261__,
+      'πᾶς': _tufts_localJson_grc_grc_tufts_pas_json__WEBPACK_IMPORTED_MODULE_261__,
+      'πάντες': _tufts_localJson_grc_grc_tufts_pantes_json__WEBPACK_IMPORTED_MODULE_262__,
       'πάσῃ': _tufts_localJson_grc_grc_tufts_pasi_json__WEBPACK_IMPORTED_MODULE_28__,
-      'πάσᾱς': _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_262__,
-      'παντί': _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_263__,
-      'πάντᾰ': _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_264__,
+      'πάσᾱς': _tufts_localJson_grc_grc_tufts_pasas_json__WEBPACK_IMPORTED_MODULE_263__,
+      'παντί': _tufts_localJson_grc_grc_tufts_panti_json__WEBPACK_IMPORTED_MODULE_264__,
+      'πάντᾰ': _tufts_localJson_grc_grc_tufts_panta_json__WEBPACK_IMPORTED_MODULE_265__,
 
-      'χρυσοῦ': _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_265__,
-      'χρυσοῖν': _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_266__,
-      'χρυσῆν': _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_267__,
-      'χρυσαῖς': _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_268__,
-      'χρυσῷ': _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_269__,
-      'χρυσᾶ': _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_270__,
+      'χρυσοῦ': _tufts_localJson_grc_grc_tufts_chrysou_json__WEBPACK_IMPORTED_MODULE_266__,
+      'χρυσοῖν': _tufts_localJson_grc_grc_tufts_chrysoin_json__WEBPACK_IMPORTED_MODULE_267__,
+      'χρυσῆν': _tufts_localJson_grc_grc_tufts_chrysin_json__WEBPACK_IMPORTED_MODULE_268__,
+      'χρυσαῖς': _tufts_localJson_grc_grc_tufts_chrysais_json__WEBPACK_IMPORTED_MODULE_269__,
+      'χρυσῷ': _tufts_localJson_grc_grc_tufts_chryso_json__WEBPACK_IMPORTED_MODULE_270__,
+      'χρυσᾶ': _tufts_localJson_grc_grc_tufts_chrysa_json__WEBPACK_IMPORTED_MODULE_271__,
 
-      'ἀργυροῦς': _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_271__,
-      'ἀργυροῖν': _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_272__,
-      'ἀργυρᾶς': _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_273__,
-      'ἀργυρῶν': _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_274__,
-      'ἀργυροῦν': _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_275__,
-      'ἀργυρᾶ': _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_276__,
+      'ἀργυροῦς': _tufts_localJson_grc_grc_tufts_argyrous_json__WEBPACK_IMPORTED_MODULE_272__,
+      'ἀργυροῖν': _tufts_localJson_grc_grc_tufts_argyroin_json__WEBPACK_IMPORTED_MODULE_273__,
+      'ἀργυρᾶς': _tufts_localJson_grc_grc_tufts_argyras_json__WEBPACK_IMPORTED_MODULE_274__,
+      'ἀργυρῶν': _tufts_localJson_grc_grc_tufts_argyron_json__WEBPACK_IMPORTED_MODULE_275__,
+      'ἀργυροῦν': _tufts_localJson_grc_grc_tufts_argyroun_json__WEBPACK_IMPORTED_MODULE_276__,
+      'ἀργυρᾶ': _tufts_localJson_grc_grc_tufts_argyra_json__WEBPACK_IMPORTED_MODULE_277__,
 
-      'εὔνους': _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_277__,
-      'εὔνοιν': _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_278__,
-      'εὔνοις': _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_279__,
-      'εὔνῳ': _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_280__,
+      'εὔνους': _tufts_localJson_grc_grc_tufts_evnous_json__WEBPACK_IMPORTED_MODULE_278__,
+      'εὔνοιν': _tufts_localJson_grc_grc_tufts_evnoin_json__WEBPACK_IMPORTED_MODULE_279__,
+      'εὔνοις': _tufts_localJson_grc_grc_tufts_evnois_json__WEBPACK_IMPORTED_MODULE_280__,
+      'εὔνῳ': _tufts_localJson_grc_grc_tufts_evno_json__WEBPACK_IMPORTED_MODULE_281__,
 
-      'ἁπλοῦ': _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_281__,
-      'ἁπλοῖν': _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_282__,
-      'ἁπλῶν': _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_283__,
-      'ἁπλῆς': _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_284__,
-      'ἁπλοῦν': _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_285__,
-      'ἁπλόᾰ': _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_286__,
+      'ἁπλοῦ': _tufts_localJson_grc_grc_tufts_aplou_json__WEBPACK_IMPORTED_MODULE_282__,
+      'ἁπλοῖν': _tufts_localJson_grc_grc_tufts_aploin_json__WEBPACK_IMPORTED_MODULE_283__,
+      'ἁπλῶν': _tufts_localJson_grc_grc_tufts_aplon_json__WEBPACK_IMPORTED_MODULE_284__,
+      'ἁπλῆς': _tufts_localJson_grc_grc_tufts_aplis_json__WEBPACK_IMPORTED_MODULE_285__,
+      'ἁπλοῦν': _tufts_localJson_grc_grc_tufts_aploun_json__WEBPACK_IMPORTED_MODULE_286__,
+      'ἁπλόᾰ': _tufts_localJson_grc_grc_tufts_aploa_json__WEBPACK_IMPORTED_MODULE_287__,
 
-      'ἵλεως': _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_287__,
-      'ἵλεω': _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_288__,
-      'ἵλεων': _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_289__,
-      'ἵλεᾰ': _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_290__,
+      'ἵλεως': _tufts_localJson_grc_grc_tufts_ileos_json__WEBPACK_IMPORTED_MODULE_288__,
+      'ἵλεω': _tufts_localJson_grc_grc_tufts_ileo_json__WEBPACK_IMPORTED_MODULE_289__,
+      'ἵλεων': _tufts_localJson_grc_grc_tufts_ileon_json__WEBPACK_IMPORTED_MODULE_290__,
+      'ἵλεᾰ': _tufts_localJson_grc_grc_tufts_ilea_json__WEBPACK_IMPORTED_MODULE_291__,
 
-      'πλέω': _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_291__,
-      'πλέῳς': _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_292__,
-      'πλέᾳ': _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_293__,
-      'πλέαιν': _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_294__,
-      'πλέων': _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_295__,
-      'πλέᾰ': _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_296__,
+      'πλέω': _tufts_localJson_grc_grc_tufts_pleo_json__WEBPACK_IMPORTED_MODULE_292__,
+      'πλέῳς': _tufts_localJson_grc_grc_tufts_pleos_json__WEBPACK_IMPORTED_MODULE_293__,
+      'πλέᾳ': _tufts_localJson_grc_grc_tufts_plea_json__WEBPACK_IMPORTED_MODULE_294__,
+      'πλέαιν': _tufts_localJson_grc_grc_tufts_pleain_json__WEBPACK_IMPORTED_MODULE_295__,
+      'πλέων': _tufts_localJson_grc_grc_tufts_pleon_json__WEBPACK_IMPORTED_MODULE_296__,
+      'πλέᾰ': _tufts_localJson_grc_grc_tufts_plea2_json__WEBPACK_IMPORTED_MODULE_297__,
 
-      'τοῦ': _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_297__,
-      'τήν': _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_298__,
-      'τοῖν': _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_299__,
-      'τοῖς': _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_300__,
-      'αἱ': _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_301__,
-      'τά': _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_302__,
+      'τοῦ': _tufts_localJson_grc_grc_tufts_tou_json__WEBPACK_IMPORTED_MODULE_298__,
+      'τήν': _tufts_localJson_grc_grc_tufts_tin_json__WEBPACK_IMPORTED_MODULE_299__,
+      'τοῖν': _tufts_localJson_grc_grc_tufts_toin_json__WEBPACK_IMPORTED_MODULE_300__,
+      'τοῖς': _tufts_localJson_grc_grc_tufts_tois_json__WEBPACK_IMPORTED_MODULE_301__,
+      'αἱ': _tufts_localJson_grc_grc_tufts_ai_json__WEBPACK_IMPORTED_MODULE_302__,
+      'τά': _tufts_localJson_grc_grc_tufts_ta_json__WEBPACK_IMPORTED_MODULE_303__,
 
-      'ἐμοῦ': _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_303__,
-      'νῷν': _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_304__,
-      'ἡμῖν': _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_305__,
-      'σοί': _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_306__,
-      'σφῷν': _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_307__,
-      'ὑμᾶς': _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_308__,
-      'σου': _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_309__,
-      'μύες': _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_310__,
-      'μῦθος': _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_311__,
-      'εἷκα': _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_312__,
-      'ἑά̄λων': _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_313__,
-      'εἷμαι': _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_314__,
-      'ἐπτάμην': _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_315__
+      'ἐμοῦ': _tufts_localJson_grc_grc_tufts_emou_json__WEBPACK_IMPORTED_MODULE_304__,
+      'νῷν': _tufts_localJson_grc_grc_tufts_non_json__WEBPACK_IMPORTED_MODULE_305__,
+      'ἡμῖν': _tufts_localJson_grc_grc_tufts_imin_json__WEBPACK_IMPORTED_MODULE_306__,
+      'σοί': _tufts_localJson_grc_grc_tufts_soi_json__WEBPACK_IMPORTED_MODULE_307__,
+      'σφῷν': _tufts_localJson_grc_grc_tufts_sfon_json__WEBPACK_IMPORTED_MODULE_308__,
+      'ὑμᾶς': _tufts_localJson_grc_grc_tufts_ymas_json__WEBPACK_IMPORTED_MODULE_309__,
+      'σου': _tufts_localJson_grc_grc_tufts_sou_json__WEBPACK_IMPORTED_MODULE_310__,
+      'μύες': _tufts_localJson_grc_grc_tufts_mues_json__WEBPACK_IMPORTED_MODULE_311__,
+      'μῦθος': _tufts_localJson_grc_grc_tufts_muthos_json__WEBPACK_IMPORTED_MODULE_312__,
+      'εἷκα': _tufts_localJson_grc_grc_tufts_eika_json__WEBPACK_IMPORTED_MODULE_313__,
+      'ἑά̄λων': _tufts_localJson_grc_grc_tufts_eagon_json__WEBPACK_IMPORTED_MODULE_314__,
+      'εἷμαι': _tufts_localJson_grc_grc_tufts_eimai_json__WEBPACK_IMPORTED_MODULE_315__,
+      'ἐπτάμην': _tufts_localJson_grc_grc_tufts_eptamen_json__WEBPACK_IMPORTED_MODULE_316__
     }
   }
 }
@@ -4974,6 +4978,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:τήν:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-02-03T01:34:44.663325\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:τήν\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102673283264\"},\"Body\":{\"about\":\"urn:uuid:idm140102673283264\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ὁ\"},\"pofs\":{\"order\":0,\"$\":\"article\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"τήν\"}},\"pofs\":{\"order\":0,\"$\":\"article\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic epic Ionic\"},\"stemtype\":{\"$\":\"article\"},\"morph\":{\"$\":\"indeclform\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-tis-irreg.json":
+/*!******************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-tis-irreg.json ***!
+  \******************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:τίς:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-11T13:29:27.394437\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:τίς\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140705328454824\"},{\"resource\":\"urn:uuid:idm140705325788616\"}],\"Body\":[{\"about\":\"urn:uuid:idm140705328454824\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"τίς\"},\"pofs\":{\"order\":0,\"$\":\"irregular\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"τίς\"}},\"pofs\":{\"order\":0,\"$\":\"irregular\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"indecl\"},\"morph\":{\"$\":\"indeclform\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"τίς\"}},\"pofs\":{\"order\":0,\"$\":\"irregular\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"indecl\"},\"morph\":{\"$\":\"indeclform\"}}]}}},{\"about\":\"urn:uuid:idm140705325788616\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"τις\"},\"pofs\":{\"order\":5,\"$\":\"pronoun\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"τίς\"}},\"pofs\":{\"order\":5,\"$\":\"pronoun\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"indef\"},\"morph\":{\"$\":\"enclitic indeclform\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"τίς\"}},\"pofs\":{\"order\":5,\"$\":\"pronoun\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"feminine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"indef\"},\"morph\":{\"$\":\"enclitic indeclform\"}}]}}}]}}}");
 
 /***/ }),
 
