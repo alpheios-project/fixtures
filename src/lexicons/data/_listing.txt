@@ -14,3 +14,4 @@ curl -o lat-ls-full-n28019.xml "https://repos1.alpheios.net/exist/rest/db/xq/lex
 
 curl -o lat-ls-full-n28116.xml "https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=ls&lg=lat&out=html&n=n28116"
 
+curl -o lat-ls-full-n6614.xml "https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=ls&lg=lat&out=html&n=n6614"

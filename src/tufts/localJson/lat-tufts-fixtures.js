@@ -90,6 +90,7 @@ import LatTuftsOrontea from '@/tufts/localJson/lat/lat-tufts-Orontea.json'
 import LatTuftsPerfundere from '@/tufts/localJson/lat/lat-tufts-perfundere.json'
 
 import LatTuftsMale from '@/tufts/localJson/lat/lat-tufts-male.json'
+import LatTuftsBene from '@/tufts/localJson/lat/lat-tufts-bene.json'
 
 export default class LatTuftsFixture {
   static get library () {
@@ -151,7 +152,8 @@ export default class LatTuftsFixture {
       'adsit': LatTuftsAdsit,
       'Orontea': LatTuftsOrontea,
       'perfundere': LatTuftsPerfundere,
-      'male': LatTuftsMale
+      'male': LatTuftsMale,
+      'bene': LatTuftsBene
     }
   }
 }

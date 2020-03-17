@@ -545,3 +545,4 @@ curl -o grc-tufts-sfon.json "https://morph.alpheios.net/api/v1/analysis/word?wor
 curl -o grc-tufts-ymas.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BD%91%CE%BC%E1%BE%B6%CF%82&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 curl -o grc-tufts-sou.json "https://morph.alpheios.net/api/v1/analysis/word?word=%CF%83%CE%BF%CF%85&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
 
+curl -o lat-tufts-bene.json "https://morph.alpheios.net/api/v1/analysis/word?word=bene&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
