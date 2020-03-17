@@ -11,6 +11,8 @@ import GrcLsjFullN69531 from '@/lexicons/data/xml/grc-lsj-full-n69531.xml'
 
 import LatLsFullN28019 from '@/lexicons/data/xml/lat-ls-full-n28019.xml'
 import LatLsFullN28116 from '@/lexicons/data/xml/lat-ls-full-n28116.xml'
+import LatLsFullN6614 from '@/lexicons/data/xml/lat-ls-full-n6614.xml'
+
 
 let lexFullData = {}
 let lexData = {}
@@ -20,6 +22,8 @@ lexFullData['https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=lsj&lg=
 
 lexFullData['https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=ls&lg=lat&out=html&n=n28019'] = LatLsFullN28019
 lexFullData['https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=ls&lg=lat&out=html&n=n28116'] = LatLsFullN28116
+
+lexFullData['https://repos1.alpheios.net/exist/rest/db/xq/lexi-get.xq?lx=ls&lg=lat&out=html&n=n6614'] = LatLsFullN6614
 
 export default class LexiconsFixture {
   static get libUrls () {
