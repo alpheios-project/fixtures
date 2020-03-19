@@ -12,6 +12,8 @@
     "alpheios-node-build": "github:alpheios-project/node-build"
   },
   "dependencies": {
-    "webpack": "^4.41.4"
+    "papaparse": "^5.1.1",
+    "raw-loader": "^4.0.0",
+    "webpack": "^4.42.0"
   }
 }
