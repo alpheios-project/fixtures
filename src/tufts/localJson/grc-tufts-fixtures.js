@@ -373,6 +373,7 @@ import GrcTuftsEagon from '@/tufts/localJson/grc/grc-tufts-eagon.json'
 import GrcTuftsEimai from '@/tufts/localJson/grc/grc-tufts-eimai.json'
 import GrcTuftsEptamen from '@/tufts/localJson/grc/grc-tufts-eptamen.json'
 import GrcTuftsTinos from '@/tufts/localJson/grc/grc-tufts-tinos.json'
+import GrcTuftsAtta from '@/tufts/localJson/grc/grc-tufts-atta.json'
 
 
 
@@ -740,7 +741,8 @@ export default class GrcTuftsFixture {
       'ἑά̄λων': GrcTuftsEagon,
       'εἷμαι': GrcTuftsEimai,
       'ἐπτάμην': GrcTuftsEptamen,
-      'τίνος': GrcTuftsTinos
+      'τίνος': GrcTuftsTinos,
+      'ἀττα': GrcTuftsAtta
     }
   }
 }
