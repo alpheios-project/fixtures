@@ -10208,6 +10208,9 @@ var _tufts_localJson_grc_grc_tufts_gegoipa_json__WEBPACK_IMPORTED_MODULE_318___n
 var _tufts_localJson_grc_grc_tufts_geguka_json__WEBPACK_IMPORTED_MODULE_319___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geguka.json */ "./tufts/localJson/grc/grc-tufts-geguka.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-desdai.json */ "./tufts/localJson/grc/grc-tufts-desdai.json");
 var _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-desdai.json */ "./tufts/localJson/grc/grc-tufts-desdai.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_esesdai_json__WEBPACK_IMPORTED_MODULE_321__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-esesdai.json */ "./tufts/localJson/grc/grc-tufts-esesdai.json");
+var _tufts_localJson_grc_grc_tufts_esesdai_json__WEBPACK_IMPORTED_MODULE_321___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-esesdai.json */ "./tufts/localJson/grc/grc-tufts-esesdai.json", 1);
+
 
 
 
@@ -10953,7 +10956,8 @@ class GrcTuftsFixture {
       'τίνος': _tufts_localJson_grc_grc_tufts_tinos_json__WEBPACK_IMPORTED_MODULE_317__,
       'λέλοιπα': _tufts_localJson_grc_grc_tufts_gegoipa_json__WEBPACK_IMPORTED_MODULE_318__,
       'λέλυκα': _tufts_localJson_grc_grc_tufts_geguka_json__WEBPACK_IMPORTED_MODULE_319__,
-      'θέσθαι': _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320__
+      'θέσθαι': _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320__,
+      'ἔσεσθαι': _tufts_localJson_grc_grc_tufts_esesdai_json__WEBPACK_IMPORTED_MODULE_321__
     }
   }
 }
@@ -12300,6 +12304,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:Ἑρμῆν:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-28T11:46:11.928939\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:Ἑρμῆν\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102667237424\"},\"Body\":{\"about\":\"urn:uuid:idm140102667237424\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"Ἑρμῆς\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"gend\":{\"$\":\"masculine\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"Ἑρμ\"},\"suff\":{\"$\":\"ῆν\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic epic Ionic\"},\"stemtype\":{\"$\":\"ehs_eou\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"Ἑρμ\"},\"suff\":{\"$\":\"ῆν\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"dial\":{\"$\":\"epic Doric\"},\"stemtype\":{\"$\":\"ehs_eou\"},\"morph\":{\"$\":\"contr\"}}]}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-esesdai.json":
+/*!****************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-esesdai.json ***!
+  \****************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἔσεσθαι:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-26T20:54:59.769208\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἔσεσθαι\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140705325145624\"},\"Body\":{\"about\":\"urn:uuid:idm140705325145624\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"εἰμί\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐς\"},\"suff\":{\"$\":\"εσθαι\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"infinitive\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"middle\"},\"stemtype\":{\"$\":\"reg_fut\"}}}}}}}}");
 
 /***/ }),
 
