@@ -10206,6 +10206,9 @@ var _tufts_localJson_grc_grc_tufts_tinos_json__WEBPACK_IMPORTED_MODULE_317___nam
 var _tufts_localJson_grc_grc_tufts_gegoipa_json__WEBPACK_IMPORTED_MODULE_318___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-gegoipa.json */ "./tufts/localJson/grc/grc-tufts-gegoipa.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_geguka_json__WEBPACK_IMPORTED_MODULE_319__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-geguka.json */ "./tufts/localJson/grc/grc-tufts-geguka.json");
 var _tufts_localJson_grc_grc_tufts_geguka_json__WEBPACK_IMPORTED_MODULE_319___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-geguka.json */ "./tufts/localJson/grc/grc-tufts-geguka.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-desdai.json */ "./tufts/localJson/grc/grc-tufts-desdai.json");
+var _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-desdai.json */ "./tufts/localJson/grc/grc-tufts-desdai.json", 1);
+
 
 
 
@@ -10950,6 +10953,7 @@ class GrcTuftsFixture {
       'τίνος': _tufts_localJson_grc_grc_tufts_tinos_json__WEBPACK_IMPORTED_MODULE_317__,
       'λέλοιπα': _tufts_localJson_grc_grc_tufts_gegoipa_json__WEBPACK_IMPORTED_MODULE_318__,
       'λέλυκα': _tufts_localJson_grc_grc_tufts_geguka_json__WEBPACK_IMPORTED_MODULE_319__,
+      'θέσθαι': _tufts_localJson_grc_grc_tufts_desdai_json__WEBPACK_IMPORTED_MODULE_320__
     }
   }
 }
@@ -11889,6 +11893,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:δείκνῠται:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2019-12-23T12:51:27.831725\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:δείκνῠται\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140440209326664\"},\"Body\":{\"about\":\"urn:uuid:idm140440209326664\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"δείκνυμι\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"δεικν\"},\"suff\":{\"$\":\"υται\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"mediopassive\"},\"stemtype\":{\"$\":\"umi_pr\"},\"derivtype\":{\"$\":\"numi\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-desdai.json":
+/*!***************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-desdai.json ***!
+  \***************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:θέσθαι:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-26T20:10:33.788790\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:θέσθαι\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm139871699521504\"},\"Body\":{\"about\":\"urn:uuid:idm139871699521504\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"τίθημι\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"θ\"},\"suff\":{\"$\":\"έσθαι\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"infinitive\"},\"tense\":{\"$\":\"aorist\"},\"voice\":{\"$\":\"mediopassive\"},\"stemtype\":{\"$\":\"emi_aor\"}}}}}}}}");
 
 /***/ }),
 
