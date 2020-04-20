@@ -10308,6 +10308,9 @@ var _tufts_localJson_grc_grc_tufts_etheke_json__WEBPACK_IMPORTED_MODULE_323___na
 var _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-titheito.json */ "./tufts/localJson/grc/grc-tufts-titheito.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-balw.json */ "./tufts/localJson/grc/grc-tufts-balw.json");
 var _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-balw.json */ "./tufts/localJson/grc/grc-tufts-balw.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_estai_json__WEBPACK_IMPORTED_MODULE_326__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-estai.json */ "./tufts/localJson/grc/grc-tufts-estai.json");
+var _tufts_localJson_grc_grc_tufts_estai_json__WEBPACK_IMPORTED_MODULE_326___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-estai.json */ "./tufts/localJson/grc/grc-tufts-estai.json", 1);
+
 
 
 
@@ -11063,7 +11066,8 @@ class GrcTuftsFixture {
       'ἔθηκα': _tufts_localJson_grc_grc_tufts_etheka_json__WEBPACK_IMPORTED_MODULE_322__,
       'ἔθηκε': _tufts_localJson_grc_grc_tufts_etheke_json__WEBPACK_IMPORTED_MODULE_323__,
       'τιθεῖτο': _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324__,
-      'βαλῶ': _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325__
+      'βαλῶ': _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325__,
+      'ἔσται': _tufts_localJson_grc_grc_tufts_estai_json__WEBPACK_IMPORTED_MODULE_326__
 
     }
   }
@@ -12433,6 +12437,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἔσεσθαι:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-03-26T20:54:59.769208\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἔσεσθαι\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140705325145624\"},\"Body\":{\"about\":\"urn:uuid:idm140705325145624\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"εἰμί\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐς\"},\"suff\":{\"$\":\"εσθαι\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"infinitive\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"middle\"},\"stemtype\":{\"$\":\"reg_fut\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-estai.json":
+/*!**************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-estai.json ***!
+  \**************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἔσται:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-04-20T17:51:39.002312\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἔσται\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm139961316634704\"},\"Body\":{\"about\":\"urn:uuid:idm139961316634704\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"εἰμί\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἐσται\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"middle\"},\"stemtype\":{\"$\":\"reg_fut\"}}}}}}}}");
 
 /***/ }),
 
