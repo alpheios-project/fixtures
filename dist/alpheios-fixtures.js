@@ -10216,6 +10216,9 @@ var _tufts_localJson_grc_grc_tufts_etheka_json__WEBPACK_IMPORTED_MODULE_322___na
 var _tufts_localJson_grc_grc_tufts_etheke_json__WEBPACK_IMPORTED_MODULE_323___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-etheke.json */ "./tufts/localJson/grc/grc-tufts-etheke.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-titheito.json */ "./tufts/localJson/grc/grc-tufts-titheito.json");
 var _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-titheito.json */ "./tufts/localJson/grc/grc-tufts-titheito.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-balw.json */ "./tufts/localJson/grc/grc-tufts-balw.json");
+var _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-balw.json */ "./tufts/localJson/grc/grc-tufts-balw.json", 1);
+
 
 
 
@@ -10969,7 +10972,9 @@ class GrcTuftsFixture {
       'ἔσεσθαι': _tufts_localJson_grc_grc_tufts_esesdai_json__WEBPACK_IMPORTED_MODULE_321__,
       'ἔθηκα': _tufts_localJson_grc_grc_tufts_etheka_json__WEBPACK_IMPORTED_MODULE_322__,
       'ἔθηκε': _tufts_localJson_grc_grc_tufts_etheke_json__WEBPACK_IMPORTED_MODULE_323__,
-      'τιθεῖτο': _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324__
+      'τιθεῖτο': _tufts_localJson_grc_grc_tufts_titheito_json__WEBPACK_IMPORTED_MODULE_324__,
+      'βαλῶ': _tufts_localJson_grc_grc_tufts_balw_json__WEBPACK_IMPORTED_MODULE_325__
+
     }
   }
 }
@@ -11579,6 +11584,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἀξίους:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-30T03:40:00.517775\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἀξίους\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140102666283024\"},{\"resource\":\"urn:uuid:idm140102666169520\"}],\"Body\":[{\"about\":\"urn:uuid:idm140102666283024\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἄξιος\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀξι\"},\"suff\":{\"$\":\"ους\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"plural\"},\"stemtype\":{\"$\":\"os_h_on\"}}}}},{\"about\":\"urn:uuid:idm140102666169520\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἀξιόω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀξι\"},\"suff\":{\"$\":\"ους\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Doric Aeolic\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἀξι\"},\"suff\":{\"$\":\"ους\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"imperfect\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Homeric Ionic\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr unaugmented\"}}]}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-balw.json":
+/*!*************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-balw.json ***!
+  \*************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:βαλῶ:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-04-20T15:06:38.161685\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:βαλῶ\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm139961314111984\"},{\"resource\":\"urn:uuid:idm139961313092976\"}],\"Body\":[{\"about\":\"urn:uuid:idm139961314111984\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"βάλλω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"βαλ\"},\"suff\":{\"$\":\"ῶ\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"future\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"Attic epic Doric\"},\"stemtype\":{\"$\":\"ew_fut\"},\"derivtype\":{\"$\":\"allw\"},\"morph\":{\"$\":\"contr\"}}}}},{\"about\":\"urn:uuid:idm139961313092976\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"βηλός\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"gend\":{\"$\":\"masculine\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"βᾱλ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"2nd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Doric Aeolic\"},\"stemtype\":{\"$\":\"os_ou\"}}}}}]}}}");
 
 /***/ }),
 
