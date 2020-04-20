@@ -9176,7 +9176,7 @@ module.exports = JSON.parse("{\"metadata\":{\"version\":20191029,\"revision\":1,
 /*!******************!*\
   !*** ./index.js ***!
   \******************/
-/*! exports provided: Fixture, CedictFixture, ArethusaFixture, LexiconsFixture */
+/*! exports provided: Fixture, CedictFixture, ArethusaFixture, LexiconsFixture, TranslationsFixture */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
 "use strict";
@@ -9192,6 +9192,10 @@ __webpack_require__.r(__webpack_exports__);
 
 /* harmony import */ var _lexicons_lexicons_fixture_js__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/lexicons/lexicons-fixture.js */ "./lexicons/lexicons-fixture.js");
 /* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "LexiconsFixture", function() { return _lexicons_lexicons_fixture_js__WEBPACK_IMPORTED_MODULE_3__["default"]; });
+
+/* harmony import */ var _translations_translations_fixture_js__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @/translations/translations-fixture.js */ "./translations/translations-fixture.js");
+/* harmony reexport (safe) */ __webpack_require__.d(__webpack_exports__, "TranslationsFixture", function() { return _translations_translations_fixture_js__WEBPACK_IMPORTED_MODULE_4__["default"]; });
+
 
 
 
@@ -9427,6 +9431,92 @@ class LexiconsFixture {
       }
     }
     return data
+  }
+}
+
+
+/***/ }),
+
+/***/ "./translations/data/lat-all-langs.json":
+/*!**********************************************!*\
+  !*** ./translations/data/lat-all-langs.json ***!
+  \**********************************************/
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, 7, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"lang\":\"cat\",\"uri\":\"https://ats.alpheios.net/lat/cat\"},{\"lang\":\"eng\",\"uri\":\"https://ats.alpheios.net/lat/eng\"},{\"lang\":\"fre\",\"uri\":\"https://ats.alpheios.net/lat/fre\"},{\"lang\":\"ger\",\"uri\":\"https://ats.alpheios.net/lat/ger\"},{\"lang\":\"glg\",\"uri\":\"https://ats.alpheios.net/lat/glg\"},{\"lang\":\"ita\",\"uri\":\"https://ats.alpheios.net/lat/ita\"},{\"lang\":\"por\",\"uri\":\"https://ats.alpheios.net/lat/por\"},{\"lang\":\"spa\",\"uri\":\"https://ats.alpheios.net/lat/spa\"}]");
+
+/***/ }),
+
+/***/ "./translations/data/lat-fre-male.json":
+/*!*********************************************!*\
+  !*** ./translations/data/lat-fre-male.json ***!
+  \*********************************************/
+/*! exports provided: 0, 1, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"in\":\"malus\",\"map\":\"malus\",\"translations\":[\"mauvais (comp. peior, sup. : pessimus -umus)\"]},{\"in\":\"male\",\"map\":\"male\",\"translations\":[\"mal, vilainement\"]}]");
+
+/***/ }),
+
+/***/ "./translations/data/lat-spa-cepit.json":
+/*!**********************************************!*\
+  !*** ./translations/data/lat-spa-cepit.json ***!
+  \**********************************************/
+/*! exports provided: 0, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"in\":\"capio\",\"map\":\"capio\",\"translations\":[\"coger, tomar, capturar, elegir\"]}]");
+
+/***/ }),
+
+/***/ "./translations/data/lat-spa-mare.json":
+/*!*********************************************!*\
+  !*** ./translations/data/lat-spa-mare.json ***!
+  \*********************************************/
+/*! exports provided: 0, 1, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("[{\"in\":\"mare\",\"map\":\"mare\",\"translations\":[\"mar\"]},{\"in\":\"mas\",\"map\":\"mas\",\"translations\":[\"varón, macho; varonil, viril\"]}]");
+
+/***/ }),
+
+/***/ "./translations/translations-fixture.js":
+/*!**********************************************!*\
+  !*** ./translations/translations-fixture.js ***!
+  \**********************************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+__webpack_require__.r(__webpack_exports__);
+/* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return TranslationsFixture; });
+/* harmony import */ var _translations_data_lat_fre_male_json__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/translations/data/lat-fre-male.json */ "./translations/data/lat-fre-male.json");
+var _translations_data_lat_fre_male_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/translations/data/lat-fre-male.json */ "./translations/data/lat-fre-male.json", 1);
+/* harmony import */ var _translations_data_lat_spa_mare_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/translations/data/lat-spa-mare.json */ "./translations/data/lat-spa-mare.json");
+var _translations_data_lat_spa_mare_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/translations/data/lat-spa-mare.json */ "./translations/data/lat-spa-mare.json", 1);
+/* harmony import */ var _translations_data_lat_spa_cepit_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/translations/data/lat-spa-cepit.json */ "./translations/data/lat-spa-cepit.json");
+var _translations_data_lat_spa_cepit_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/translations/data/lat-spa-cepit.json */ "./translations/data/lat-spa-cepit.json", 1);
+/* harmony import */ var _translations_data_lat_all_langs_json__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/translations/data/lat-all-langs.json */ "./translations/data/lat-all-langs.json");
+var _translations_data_lat_all_langs_json__WEBPACK_IMPORTED_MODULE_3___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/translations/data/lat-all-langs.json */ "./translations/data/lat-all-langs.json", 1);
+
+
+
+
+
+
+
+class TranslationsFixture {
+  static get allLangs () {
+    return _translations_data_lat_all_langs_json__WEBPACK_IMPORTED_MODULE_3__
+  }
+
+  static get library () {
+    return {
+        'lat-fre-male': _translations_data_lat_fre_male_json__WEBPACK_IMPORTED_MODULE_0__,
+        'lat-spa-mare': _translations_data_lat_spa_mare_json__WEBPACK_IMPORTED_MODULE_1__,
+        'lat-spa-cepit': _translations_data_lat_spa_cepit_json__WEBPACK_IMPORTED_MODULE_2__
+    }
   }
 }
 
