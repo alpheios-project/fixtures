@@ -549,3 +549,5 @@ curl -o lat-tufts-bene.json "https://morph.alpheios.net/api/v1/analysis/word?wor
 
 curl -o lat-tufts-regemque.json "https://morph.alpheios.net/api/v1/analysis/word?word=regemque&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
 curl -o lat-tufts-magno.json "https://morph.alpheios.net/api/v1/analysis/word?word=magno&engine=whitakerLat&lang=lat&clientId=embed-lib-index-demo"
+
+curl -o grc-tufts-atta.json "https://morph.alpheios.net/api/v1/analysis/word?word=%E1%BC%80%CF%84%CF%84%CE%B1&engine=morpheusgrc&lang=grc&clientId=embed-lib-index-demo"
