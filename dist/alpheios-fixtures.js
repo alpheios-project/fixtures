@@ -3600,7 +3600,7 @@ exports.callbackify = callbackify;
 
 var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/* @license
 Papa Parse
-v5.2.0
+v5.1.1
 https://github.com/mholt/PapaParse
 License: MIT
 */
@@ -4234,7 +4234,7 @@ License: MIT
 				xhr.onerror = bindFunction(this._chunkError, this);
 			}
 
-			xhr.open(this._config.downloadRequestBody ? 'POST' : 'GET', this._input, !IS_WORKER);
+			xhr.open('GET', this._input, !IS_WORKER);
 			// Headers can only be set when once the request state is OPENED
 			if (this._config.downloadRequestHeaders)
 			{
@@ -4253,7 +4253,7 @@ License: MIT
 			}
 
 			try {
-				xhr.send(this._config.downloadRequestBody);
+				xhr.send();
 			}
 			catch (err) {
 				this._chunkError(err.message);
@@ -4598,7 +4598,7 @@ License: MIT
 		// One goal is to minimize the use of regular expressions...
 		var MAX_FLOAT = Math.pow(2, 53);
 		var MIN_FLOAT = -MAX_FLOAT;
-		var FLOAT = /^\s*-?(\d+\.?|\.\d+|\d+\.\d+)(e[-+]?\d+)?\s*$/;
+		var FLOAT = /^\s*-?(\d*\.?\d+|\d+\.?\d*)(e[-+]?\d+)?\s*$/i;
 		var ISO_DATE = /(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d\.\d+([+-][0-2]\d:[0-5]\d|Z))|(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d([+-][0-2]\d:[0-5]\d|Z))|(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d([+-][0-2]\d:[0-5]\d|Z))/;
 		var self = this;
 		var _stepCounter = 0;	// Number of times step was called (number of rows parsed)
@@ -4707,7 +4707,7 @@ License: MIT
 			} else {
 				// Bugfix: #636 In case the processing hasn't halted yet
 				// wait for it to halt in order to resume
-				setTimeout(self.resume, 3);
+				setTimeout(this.resume, 3);
 			}
 		};
 
@@ -15705,6 +15705,9 @@ __webpack_require__.r(__webpack_exports__);
 var _tufts_localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/tufts-default.json */ "./tufts/localJson/tufts-default.json", 1);
 /* harmony import */ var _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/tufts/localJson/syr/syr-tufts-speak.json */ "./tufts/localJson/syr/syr-tufts-speak.json");
 var _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/syr/syr-tufts-speak.json */ "./tufts/localJson/syr/syr-tufts-speak.json", 1);
+/* harmony import */ var _tufts_localJson_syr_syr_tufts_feather_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/tufts/localJson/syr/syr-tufts-feather.json */ "./tufts/localJson/syr/syr-tufts-feather.json");
+var _tufts_localJson_syr_syr_tufts_feather_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/syr/syr-tufts-feather.json */ "./tufts/localJson/syr/syr-tufts-feather.json", 1);
+
 
 
 
@@ -15712,10 +15715,23 @@ class SyrTuftsFixture {
   static get library () {
     return {
       default: _tufts_localJson_tufts_default_json__WEBPACK_IMPORTED_MODULE_0__,
-      'ܘܐܡܪܝܢ': _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1__
+      'ܘܐܡܪܝܢ': _tufts_localJson_syr_syr_tufts_speak_json__WEBPACK_IMPORTED_MODULE_1__,
+      'ܐܒܪܐ': _tufts_localJson_syr_syr_tufts_feather_json__WEBPACK_IMPORTED_MODULE_2__
     }
   }
 }
+
+
+/***/ }),
+
+/***/ "./tufts/localJson/syr/syr-tufts-feather.json":
+/*!****************************************************!*\
+  !*** ./tufts/localJson/syr/syr-tufts-feather.json ***!
+  \****************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ܐܒܪܐ:sedra\",\"creator\":{\"Agent\":{\"about\":\"sedra@bethmardutho.org\"}},\"created\":{\"$\":\"2020-05-12T17:16:01.010662\"},\"rights\":{\"$\":\"Morphology provided by Sedra from the Beth Mardutho Project at The Syriac Institute.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ܐܒܪܐ\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm139961320792096\"},{\"resource\":\"urn:uuid:idm139961324572400\"},{\"resource\":\"urn:uuid:idm139961312271872\"}],\"Body\":[{\"about\":\"urn:uuid:idm139961320792096\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܒܪܐ\"}}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܒܪܐ\"},\"src\":[{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 2 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 2 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 10 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Bar Bahlul, Bar Bahlul ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"}]},\"mean\":[{\"lang\":\"ara\",\"$\":\"رصاص\"},{\"lang\":\"eng\",\"$\":\"lead.\"},{\"lang\":\"fre\",\"$\":\"plomb\"}]}}},{\"about\":\"urn:uuid:idm139961324572400\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܒܪܐ\"}}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܒܪܐ\"},\"src\":[{\"$\":\"J. Payne Smith (Mrs. Margoliouth), A Compendious Syriac Dictionary (Oxford: The Clarendon Press, 1903) p. 2 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Sebastian P. Brock & George A. Kiraz, Gorgias Concise Syriac-English, English-Syriac Dictionary (Piscataway, NJ: Gorgias Press, 2015) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"J. Payne Smith (Mrs. Margoliouth), Supplement to the Thesaurus Syriacus of R. Payne Smith (Oxford: The Clarendon Press, 1927) p. 2 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Awgīn Manna, <span style=\\\"font-style: normal;\\\">كتاب الأصول الجليلة في نحو اللغة الآرامية على مذهبي الشرقيين والغربيين</span> [Kitāb al-ʾuṣūl al-jalīla fī naḥw al-luğa al-ʾārāmiyya ʿalā kilā maḏhabayy al-šarqiyyīn wal-ğarbiyyīn] / Cours de Langue Araméenne selon deux dialects Syriaque et Chaldaique (Mosul: Imprimerie des Pères Dominicains, 1886; transcribed and edited into West Syriac by Dayroyo Zaytoun Saome, 2015) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Robert Payne Smith, Thesaurus Syriacus (Oxford: The Calerndon Press, 1879) Vol 1, p. 10 [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"},{\"$\":\"Louis Costaz, S. J., Dictionnaire Syriaque-Français / Syriac-English Dictionary / قاموس سرياني عربي (Beirut: Dar al-Machreq; transcribed into tables by the American Foundation for Syriac Studies, NJ) ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"}]},\"mean\":[{\"lang\":\"ara\",\"$\":\"ريشة\"},{\"lang\":\"ara\",\"$\":\"جناح\"},{\"lang\":\"ara\",\"$\":\"عضو\"},{\"lang\":\"eng\",\"$\":\"<span class=\\\"selectableFont\\\">ܐܶܒܪ̈ܶܐ</span> wings.\"},{\"lang\":\"eng\",\"$\":\"feather\"},{\"lang\":\"fre\",\"$\":\"plume\"},{\"lang\":\"fre\",\"$\":\"membre\"},{\"lang\":\"fre\",\"$\":\"aile\"}]}}},{\"about\":\"urn:uuid:idm139961312271872\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"syr\",\"stem\":{\"$\":\"ܐܒܪܐ\"}}},\"dict\":{\"hdwd\":{\"lang\":\"syr\",\"$\":\"ܐܒܪܐ\"},\"src\":{\"$\":\"Bar Bahlul, Bar Bahlul ܐܒܪܐ [from sedra.bethmardutho.org, accessed on May. 12, 2020]\"}}}}}]}}}");
 
 /***/ }),
 
