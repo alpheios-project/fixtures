@@ -1,11 +1,13 @@
 import Aberis from '@/arethusa/data/1-1.json'
+import Participle from '@/arethusa/data/1-2.json'
 
 export default class ArethusaFixture {
   static get library () {
     return {
       'http://example.org': {
         '1' : {
-          '1' : Aberis
+          '1' : Aberis,
+          '2' : Participle 
         }
       }
     }
