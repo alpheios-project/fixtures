@@ -14840,6 +14840,9 @@ var _tufts_localJson_lat_lat_tufts_bene_json__WEBPACK_IMPORTED_MODULE_58___names
 var _tufts_localJson_lat_lat_tufts_regemque_json__WEBPACK_IMPORTED_MODULE_59___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-regemque.json */ "./tufts/localJson/lat/lat-tufts-regemque.json", 1);
 /* harmony import */ var _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-magno.json */ "./tufts/localJson/lat/lat-tufts-magno.json");
 var _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-magno.json */ "./tufts/localJson/lat/lat-tufts-magno.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-esse.json */ "./tufts/localJson/lat/lat-tufts-esse.json");
+var _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-esse.json */ "./tufts/localJson/lat/lat-tufts-esse.json", 1);
+
 
 
 
@@ -15000,10 +15003,12 @@ class LatTuftsFixture {
       'male': _tufts_localJson_lat_lat_tufts_male_json__WEBPACK_IMPORTED_MODULE_57__,
       'bene': _tufts_localJson_lat_lat_tufts_bene_json__WEBPACK_IMPORTED_MODULE_58__,
       'regemque': _tufts_localJson_lat_lat_tufts_regemque_json__WEBPACK_IMPORTED_MODULE_59__,
-      'magno': _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60__
+      'magno': _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60__,
+      'esse': _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__
     }
   }
 }
+
 
 /***/ }),
 
@@ -15191,6 +15196,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ego:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T06:23:35.260474\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ego\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140440213319880\"},\"Body\":{\"about\":\"urn:uuid:idm140440213319880\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ego\"}},\"pofs\":{\"$\":\"pronoun\"},\"decl\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"common\"}},\"dict\":{\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"I, me (PERS); myself (REFLEX);\"}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-esse.json":
+/*!*************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-esse.json ***!
+  \*************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:esse:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-07-24T19:43:52.771270\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:esse\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140103430022624\"},{\"resource\":\"urn:uuid:idm140103431154000\"},{\"resource\":\"urn:uuid:idm140103429847328\"}],\"Body\":[{\"about\":\"urn:uuid:idm140103430022624\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"ess\"},\"suff\":{\"$\":\"e\"}},\"pofs\":{\"$\":\"verb participle\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"masculine\"},\"tense\":{\"$\":\"perfect\"},\"voice\":{\"$\":\"passive\"},\"mood\":{\"$\":\"participle\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"edo, edere, edi, essus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"kind\":{\"$\":\"transitive\"},\"freq\":{\"order\":4,\"$\":\"common\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}}}}},{\"about\":\"urn:uuid:idm140103431154000\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"es\"},\"suff\":{\"$\":\"se\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"7th\"},\"var\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"infinitive\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"edo, esse, -, -\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"kind\":{\"$\":\"transitive\"},\"freq\":{\"order\":4,\"$\":\"common\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food\"}}}},{\"about\":\"urn:uuid:idm140103429847328\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"suff\":{\"$\":\"esse\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"infinitive\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"sum, esse, fui, futurus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL\"}}}}]}}}");
 
 /***/ }),
 

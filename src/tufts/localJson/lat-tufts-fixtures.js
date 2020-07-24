@@ -94,6 +94,7 @@ import LatTuftsBene from '@/tufts/localJson/lat/lat-tufts-bene.json'
 
 import LatTuftsRegemque from '@/tufts/localJson/lat/lat-tufts-regemque.json'
 import LatTuftsMagno from '@/tufts/localJson/lat/lat-tufts-magno.json'
+import LatTuftsEsse from '@/tufts/localJson/lat/lat-tufts-esse.json'
 
 export default class LatTuftsFixture {
   static get library () {
@@ -158,7 +159,8 @@ export default class LatTuftsFixture {
       'male': LatTuftsMale,
       'bene': LatTuftsBene,
       'regemque': LatTuftsRegemque,
-      'magno': LatTuftsMagno
+      'magno': LatTuftsMagno,
+      'esse': LatTuftsEsse
     }
   }
 }
