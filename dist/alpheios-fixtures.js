@@ -14842,6 +14842,12 @@ var _tufts_localJson_lat_lat_tufts_regemque_json__WEBPACK_IMPORTED_MODULE_59___n
 var _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-magno.json */ "./tufts/localJson/lat/lat-tufts-magno.json", 1);
 /* harmony import */ var _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-esse.json */ "./tufts/localJson/lat/lat-tufts-esse.json");
 var _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-esse.json */ "./tufts/localJson/lat/lat-tufts-esse.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_es_json__WEBPACK_IMPORTED_MODULE_62__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-es.json */ "./tufts/localJson/lat/lat-tufts-es.json");
+var _tufts_localJson_lat_lat_tufts_es_json__WEBPACK_IMPORTED_MODULE_62___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-es.json */ "./tufts/localJson/lat/lat-tufts-es.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-fer.json */ "./tufts/localJson/lat/lat-tufts-fer.json");
+var _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-fer.json */ "./tufts/localJson/lat/lat-tufts-fer.json", 1);
+
+
 
 
 
@@ -15004,7 +15010,9 @@ class LatTuftsFixture {
       'bene': _tufts_localJson_lat_lat_tufts_bene_json__WEBPACK_IMPORTED_MODULE_58__,
       'regemque': _tufts_localJson_lat_lat_tufts_regemque_json__WEBPACK_IMPORTED_MODULE_59__,
       'magno': _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60__,
-      'esse': _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__
+      'esse': _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__,
+      'es': _tufts_localJson_lat_lat_tufts_es_json__WEBPACK_IMPORTED_MODULE_62__,
+      'fer': _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63__
     }
   }
 }
@@ -15199,6 +15207,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/lat/lat-tufts-es.json":
+/*!***********************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-es.json ***!
+  \***********************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:es:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-07-28T20:52:56.830703\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:es\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140103424552608\"},{\"resource\":\"urn:uuid:idm140103436223728\"}],\"Body\":[{\"about\":\"urn:uuid:idm140103424552608\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"es\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"7th\"},\"var\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"es\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"7th\"},\"var\":{\"$\":\"3rd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"imperative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"edo, esse, -, -\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"kind\":{\"$\":\"transitive\"},\"freq\":{\"order\":4,\"$\":\"common\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"eat/consume/devour; eat away (fire/water/disease); destroy; spend money on food\"}}}},{\"about\":\"urn:uuid:idm140103436223728\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"suff\":{\"$\":\"es\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"indicative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},{\"term\":{\"lang\":\"lat\",\"suff\":{\"$\":\"es\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"5th\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"imperative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"sum, esse, fui, futurus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"be; exist; (also used to form verb perfect passive tenses) with NOM PERF PPL\"}}}}]}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/lat/lat-tufts-esse.json":
 /*!*************************************************!*\
   !*** ./tufts/localJson/lat/lat-tufts-esse.json ***!
@@ -15229,6 +15248,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:facili:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-01-22T10:10:32.842712\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:facili\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140102679092080\"},\"Body\":{\"about\":\"urn:uuid:idm140102679092080\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"facil\"},\"suff\":{\"$\":\"i\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":5,\"$\":\"dative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"all\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"facil\"},\"suff\":{\"$\":\"i\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"all\"},\"comp\":{\"$\":\"positive\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"facilis, facile, facilior -or -us, facillimus -a -um\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"easy, easy to do, without difficulty, ready, quick, good natured, courteous;\"}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-fer.json":
+/*!************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-fer.json ***!
+  \************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:fer:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-07-28T20:53:25.702074\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:fer\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140103429777936\"},{\"resource\":\"urn:uuid:idm140103427942816\"},{\"resource\":\"urn:uuid:idm140103436083344\"}],\"Body\":[{\"about\":\"urn:uuid:idm140103429777936\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"f\"},\"suff\":{\"$\":\"er\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"mood\":{\"$\":\"subjunctive\"},\"pers\":{\"$\":\"1st\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"for, fari, fatus sum\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"kind\":{\"$\":\"deponent\"},\"freq\":{\"order\":5,\"$\":\"frequent\"}},\"mean\":{\"$\":\"speak, talk; say;\"}}}},{\"about\":\"urn:uuid:idm140103427942816\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"fer\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"9th\"},\"var\":{\"$\":\"8th\"},\"gend\":{\"$\":\"feminine\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"fer., abb.\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"gend\":{\"$\":\"feminine\"},\"age\":{\"order\":6,\"$\":\"medieval\"},\"freq\":{\"order\":2,\"$\":\"uncommon\"},\"src\":{\"$\":\"Eccles.Latin\"}},\"mean\":{\"$\":\"weekday; abb. of feria; [(w/ordinals) quintus feria => fifth day/Thursday];\"}}}},{\"about\":\"urn:uuid:idm140103436083344\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"fer\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"imperative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"fero, ferre, tuli, latus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"bring, bear; tell/speak of; consider; carry off, win, receive, produce; get;\"}}}}]}}}");
 
 /***/ }),
 
