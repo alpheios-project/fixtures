@@ -97,6 +97,8 @@ import LatTuftsMagno from '@/tufts/localJson/lat/lat-tufts-magno.json'
 import LatTuftsEsse from '@/tufts/localJson/lat/lat-tufts-esse.json'
 import LatTuftsEs from '@/tufts/localJson/lat/lat-tufts-es.json'
 import LatTuftsFer from '@/tufts/localJson/lat/lat-tufts-fer.json'
+import LatTuftsMelior from '@/tufts/localJson/lat/lat-tufts-melior.json'
+import LatTuftsLevissimus from '@/tufts/localJson/lat/lat-tufts-levissimus.json'
 
 export default class LatTuftsFixture {
   static get library () {
@@ -164,7 +166,9 @@ export default class LatTuftsFixture {
       'magno': LatTuftsMagno,
       'esse': LatTuftsEsse,
       'es': LatTuftsEs,
-      'fer': LatTuftsFer
+      'fer': LatTuftsFer,
+      'melior': LatTuftsMelior,
+      'levissimus': LatTuftsLevissimus
     }
   }
 }

@@ -14846,6 +14846,12 @@ var _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61___names
 var _tufts_localJson_lat_lat_tufts_es_json__WEBPACK_IMPORTED_MODULE_62___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-es.json */ "./tufts/localJson/lat/lat-tufts-es.json", 1);
 /* harmony import */ var _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-fer.json */ "./tufts/localJson/lat/lat-tufts-fer.json");
 var _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-fer.json */ "./tufts/localJson/lat/lat-tufts-fer.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_melior_json__WEBPACK_IMPORTED_MODULE_64__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-melior.json */ "./tufts/localJson/lat/lat-tufts-melior.json");
+var _tufts_localJson_lat_lat_tufts_melior_json__WEBPACK_IMPORTED_MODULE_64___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-melior.json */ "./tufts/localJson/lat/lat-tufts-melior.json", 1);
+/* harmony import */ var _tufts_localJson_lat_lat_tufts_levissimus_json__WEBPACK_IMPORTED_MODULE_65__ = __webpack_require__(/*! @/tufts/localJson/lat/lat-tufts-levissimus.json */ "./tufts/localJson/lat/lat-tufts-levissimus.json");
+var _tufts_localJson_lat_lat_tufts_levissimus_json__WEBPACK_IMPORTED_MODULE_65___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/lat/lat-tufts-levissimus.json */ "./tufts/localJson/lat/lat-tufts-levissimus.json", 1);
+
+
 
 
 
@@ -15012,7 +15018,9 @@ class LatTuftsFixture {
       'magno': _tufts_localJson_lat_lat_tufts_magno_json__WEBPACK_IMPORTED_MODULE_60__,
       'esse': _tufts_localJson_lat_lat_tufts_esse_json__WEBPACK_IMPORTED_MODULE_61__,
       'es': _tufts_localJson_lat_lat_tufts_es_json__WEBPACK_IMPORTED_MODULE_62__,
-      'fer': _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63__
+      'fer': _tufts_localJson_lat_lat_tufts_fer_json__WEBPACK_IMPORTED_MODULE_63__,
+      'melior': _tufts_localJson_lat_lat_tufts_melior_json__WEBPACK_IMPORTED_MODULE_64__,
+      'levissimus': _tufts_localJson_lat_lat_tufts_levissimus_json__WEBPACK_IMPORTED_MODULE_65__
     }
   }
 }
@@ -15383,6 +15391,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 
 /***/ }),
 
+/***/ "./tufts/localJson/lat/lat-tufts-levissimus.json":
+/*!*******************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-levissimus.json ***!
+  \*******************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:levissimus:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-07-31T15:30:32.257385\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:levissimus\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140103430021344\"},\"Body\":{\"about\":\"urn:uuid:idm140103430021344\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"levissi\"},\"suff\":{\"$\":\"mus\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"3rd\"},\"var\":{\"$\":\"2nd\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"masculine\"},\"comp\":{\"$\":\"superlative\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"levis, leve, levior -or -us, levissimus -a -um\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":5,\"$\":\"frequent\"}},\"mean\":[{\"$\":\"light, thin, trivial, trifling, slight; gentle; fickle, capricious; nimble;\"},{\"$\":\"smooth; slippery, polished, plain; free from coarse hair/harsh sounds;\"}]}}}}}}");
+
+/***/ }),
+
 /***/ "./tufts/localJson/lat/lat-tufts-magno.json":
 /*!**************************************************!*\
   !*** ./tufts/localJson/lat/lat-tufts-magno.json ***!
@@ -15435,6 +15454,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:marita:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2019-12-23T09:04:21.001664\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:marita\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140440213063064\"},{\"resource\":\"urn:uuid:idm140440215513912\"},{\"resource\":\"urn:uuid:idm140440208060104\"}],\"Body\":[{\"about\":\"urn:uuid:idm140440213063064\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"marita, maritae\"},\"pofs\":{\"order\":5,\"$\":\"noun\"},\"decl\":{\"$\":\"1st\"},\"gend\":{\"$\":\"feminine\"},\"freq\":{\"order\":3,\"$\":\"lesser\"}},\"mean\":{\"$\":\"wife;\"}}}},{\"about\":\"urn:uuid:idm140440215513912\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":3,\"$\":\"ablative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"feminine\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"neuter\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"neuter\"},\"comp\":{\"$\":\"positive\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"num\":{\"$\":\"plural\"},\"gend\":{\"$\":\"neuter\"},\"comp\":{\"$\":\"positive\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"maritus, marita, maritum\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"}},\"mean\":{\"$\":\"nuptial; of marriage; married, wedded, united;\"}}}},{\"about\":\"urn:uuid:idm140440208060104\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"marit\"},\"suff\":{\"$\":\"a\"}},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"mood\":{\"$\":\"imperative\"},\"pers\":{\"$\":\"2nd\"},\"num\":{\"$\":\"singular\"}},\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"marito, maritare, maritavi, maritatus\"},\"pofs\":{\"order\":3,\"$\":\"verb\"},\"conj\":{\"$\":\"1st\"},\"freq\":{\"order\":3,\"$\":\"lesser\"}},\"mean\":{\"$\":\"marry, give in marriage;\"}}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/lat/lat-tufts-melior.json":
+/*!***************************************************!*\
+  !*** ./tufts/localJson/lat/lat-tufts-melior.json ***!
+  \***************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:melior:whitakerLat\",\"creator\":{\"Agent\":{\"about\":\"net.alpheios:tools:wordsxml.v1\"}},\"created\":{\"$\":\"2020-07-31T15:30:14.750094\"},\"rights\":{\"$\":\"Short definitions and morphology from Words by William Whitaker, Copyright 1993-2007.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:melior\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140103428266432\"},\"Body\":{\"about\":\"urn:uuid:idm140103428266432\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"infl\":[{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"meli\"},\"suff\":{\"$\":\"or\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"common\"},\"comp\":{\"$\":\"comparative\"}},{\"term\":{\"lang\":\"lat\",\"stem\":{\"$\":\"meli\"},\"suff\":{\"$\":\"or\"}},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st\"},\"var\":{\"$\":\"1st\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"num\":{\"$\":\"singular\"},\"gend\":{\"$\":\"common\"},\"comp\":{\"$\":\"comparative\"}}],\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"bonus, bona -um, melior -or -us, optimus -a -um\"},\"pofs\":{\"order\":4,\"$\":\"adjective\"},\"freq\":{\"order\":6,\"$\":\"very frequent\"},\"src\":{\"$\":\"Ox.Lat.Dict.\"}},\"mean\":{\"$\":\"good, honest, brave, noble, kind, pleasant, right, useful; valid; healthy;\"}}}}}}}");
 
 /***/ }),
 
