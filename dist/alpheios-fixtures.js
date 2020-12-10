@@ -9239,7 +9239,7 @@ module.exports = JSON.parse("{\"https://github.com/alpheios-project/majorplus\":
 /*! exports provided: data, default */
 /***/ (function(module) {
 
-module.exports = JSON.parse("{\"data\":[\"μῦς|mouse or rat\",\"μύω|close, be shut\"]}");
+module.exports = JSON.parse("{\"data\":[\"μῦς|mouse or rat\",\"μύω|close, be shut\",\"πρό|gen. before\",\"ἀπό|gen from\",\"λέγω1|say, speak\",\"ἀπολέγω1|to pick out from\",\"ἀπολέγω2|to decline, refuse\"]}");
 
 /***/ }),
 
@@ -10329,6 +10329,8 @@ var _tufts_localJson_grc_grc_tufts_estai_json__WEBPACK_IMPORTED_MODULE_326___nam
 var _tufts_localJson_grc_grc_tufts_doimen_json__WEBPACK_IMPORTED_MODULE_327___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-doimen.json */ "./tufts/localJson/grc/grc-tufts-doimen.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-atta.json */ "./tufts/localJson/grc/grc-tufts-atta.json");
 var _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-atta.json */ "./tufts/localJson/grc/grc-tufts-atta.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-proapolegw.json */ "./tufts/localJson/grc/grc-tufts-proapolegw.json");
+var _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-proapolegw.json */ "./tufts/localJson/grc/grc-tufts-proapolegw.json", 1);
 
 
 
@@ -11092,7 +11094,8 @@ class GrcTuftsFixture {
       'ἔσται': _tufts_localJson_grc_grc_tufts_estai_json__WEBPACK_IMPORTED_MODULE_326__,
       'δοίμην': _tufts_localJson_grc_grc_tufts_doimen_json__WEBPACK_IMPORTED_MODULE_327__,
 
-      'ἀττα': _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328__
+      'ἀττα': _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328__,
+      'προἀπολέγω': _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329__
     }
   }
 }
@@ -14100,6 +14103,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:πράγματος:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-27T11:00:22.644151\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:πράγματος\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140090967973464\"},\"Body\":{\"about\":\"urn:uuid:idm140090967973464\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"πρᾶγμα\"},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"gend\":{\"$\":\"neuter\"}},\"infl\":{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρᾱγ\"},\"suff\":{\"$\":\"ματος\"}},\"pofs\":{\"order\":3,\"$\":\"noun\"},\"decl\":{\"$\":\"3rd\"},\"case\":{\"order\":6,\"$\":\"genitive\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"ma_matos\"}}}}}}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-proapolegw.json":
+/*!*******************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-proapolegw.json ***!
+  \*******************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:προἀπολέγω:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-12-10T20:56:26.768437\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:προἀπολέγω\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140103423076480\"},{\"resource\":\"urn:uuid:idm140103424507504\"},{\"resource\":\"urn:uuid:idm140103424504576\"}],\"Body\":[{\"about\":\"urn:uuid:idm140103423076480\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"πρό,ἀπό-λέγω1\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"subjunctive\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}}]}}},{\"about\":\"urn:uuid:idm140103424507504\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"πρό-ἀπολέγω1\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"subjunctive\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}}]}}},{\"about\":\"urn:uuid:idm140103424504576\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"πρό-ἀπολέγω2\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"subjunctive\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"πρό,ἀπό:λεγ\"},\"suff\":{\"$\":\"ω\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"indicative\"},\"num\":{\"$\":\"singular\"},\"pers\":{\"$\":\"1st\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"w_stem\"},\"derivtype\":{\"$\":\"reg_conj\"}}]}}}]}}}");
 
 /***/ }),
 
