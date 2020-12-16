@@ -3600,7 +3600,7 @@ exports.callbackify = callbackify;
 
 var __WEBPACK_AMD_DEFINE_FACTORY__, __WEBPACK_AMD_DEFINE_ARRAY__, __WEBPACK_AMD_DEFINE_RESULT__;/* @license
 Papa Parse
-v5.2.0
+v5.1.1
 https://github.com/mholt/PapaParse
 License: MIT
 */
@@ -4234,7 +4234,7 @@ License: MIT
 				xhr.onerror = bindFunction(this._chunkError, this);
 			}
 
-			xhr.open(this._config.downloadRequestBody ? 'POST' : 'GET', this._input, !IS_WORKER);
+			xhr.open('GET', this._input, !IS_WORKER);
 			// Headers can only be set when once the request state is OPENED
 			if (this._config.downloadRequestHeaders)
 			{
@@ -4253,7 +4253,7 @@ License: MIT
 			}
 
 			try {
-				xhr.send(this._config.downloadRequestBody);
+				xhr.send();
 			}
 			catch (err) {
 				this._chunkError(err.message);
@@ -4598,7 +4598,7 @@ License: MIT
 		// One goal is to minimize the use of regular expressions...
 		var MAX_FLOAT = Math.pow(2, 53);
 		var MIN_FLOAT = -MAX_FLOAT;
-		var FLOAT = /^\s*-?(\d+\.?|\.\d+|\d+\.\d+)(e[-+]?\d+)?\s*$/;
+		var FLOAT = /^\s*-?(\d*\.?\d+|\d+\.?\d*)(e[-+]?\d+)?\s*$/i;
 		var ISO_DATE = /(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d\.\d+([+-][0-2]\d:[0-5]\d|Z))|(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d:[0-5]\d([+-][0-2]\d:[0-5]\d|Z))|(\d{4}-[01]\d-[0-3]\dT[0-2]\d:[0-5]\d([+-][0-2]\d:[0-5]\d|Z))/;
 		var self = this;
 		var _stepCounter = 0;	// Number of times step was called (number of rows parsed)
@@ -4707,7 +4707,7 @@ License: MIT
 			} else {
 				// Bugfix: #636 In case the processing hasn't halted yet
 				// wait for it to halt in order to resume
-				setTimeout(self.resume, 3);
+				setTimeout(this.resume, 3);
 			}
 		};
 
@@ -10413,6 +10413,9 @@ var _tufts_localJson_grc_grc_tufts_doimen_json__WEBPACK_IMPORTED_MODULE_327___na
 var _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-atta.json */ "./tufts/localJson/grc/grc-tufts-atta.json", 1);
 /* harmony import */ var _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-proapolegw.json */ "./tufts/localJson/grc/grc-tufts-proapolegw.json");
 var _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-proapolegw.json */ "./tufts/localJson/grc/grc-tufts-proapolegw.json", 1);
+/* harmony import */ var _tufts_localJson_grc_grc_tufts_aplousteros_json__WEBPACK_IMPORTED_MODULE_330__ = __webpack_require__(/*! @/tufts/localJson/grc/grc-tufts-aplousteros.json */ "./tufts/localJson/grc/grc-tufts-aplousteros.json");
+var _tufts_localJson_grc_grc_tufts_aplousteros_json__WEBPACK_IMPORTED_MODULE_330___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/tufts/localJson/grc/grc-tufts-aplousteros.json */ "./tufts/localJson/grc/grc-tufts-aplousteros.json", 1);
+
 
 
 
@@ -11177,7 +11180,9 @@ class GrcTuftsFixture {
       'δοίμην': _tufts_localJson_grc_grc_tufts_doimen_json__WEBPACK_IMPORTED_MODULE_327__,
 
       'ἀττα': _tufts_localJson_grc_grc_tufts_atta_json__WEBPACK_IMPORTED_MODULE_328__,
-      'προἀπολέγω': _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329__
+      'προἀπολέγω': _tufts_localJson_grc_grc_tufts_proapolegw_json__WEBPACK_IMPORTED_MODULE_329__,
+      'ἁπλούστερον': _tufts_localJson_grc_grc_tufts_aplousteros_json__WEBPACK_IMPORTED_MODULE_330__
+
     }
   }
 }
@@ -11600,6 +11605,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorp
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἁπλοῦν:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-01-31T09:27:40.241513\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἁπλοῦν\"}},\"title\":{},\"hasBody\":[{\"resource\":\"urn:uuid:idm140090969303464\"},{\"resource\":\"urn:uuid:idm140090971436808\"}],\"Body\":[{\"about\":\"urn:uuid:idm140090969303464\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἁπλόος\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"ουν\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"oos_oh_oon\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"ουν\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"oos_oh_oon\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"ουν\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"oos_oh_oon\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"ουν\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"dial\":{\"$\":\"Attic\"},\"stemtype\":{\"$\":\"oos_oh_oon\"},\"morph\":{\"$\":\"contr\"}}]}}},{\"about\":\"urn:uuid:idm140090971436808\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἁπλόω\"},\"pofs\":{\"order\":1,\"$\":\"verb\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"οῦν\"}},\"pofs\":{\"order\":0,\"$\":\"verb participle\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"masculine\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"singular\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"οῦν\"}},\"pofs\":{\"order\":0,\"$\":\"verb participle\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"neuter\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"singular\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"οῦν\"}},\"pofs\":{\"order\":0,\"$\":\"verb participle\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"neuter\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"singular\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"οῦν\"}},\"pofs\":{\"order\":0,\"$\":\"verb participle\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"neuter\"},\"mood\":{\"$\":\"participle\"},\"num\":{\"$\":\"singular\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλ\"},\"suff\":{\"$\":\"οῦν\"}},\"pofs\":{\"order\":1,\"$\":\"verb\"},\"mood\":{\"$\":\"infinitive\"},\"tense\":{\"$\":\"present\"},\"voice\":{\"$\":\"active\"},\"dial\":{\"$\":\"epic Doric\"},\"stemtype\":{\"$\":\"ow_pr\"},\"derivtype\":{\"$\":\"ow_denom\"},\"morph\":{\"$\":\"contr\"}}]}}}]}}}");
+
+/***/ }),
+
+/***/ "./tufts/localJson/grc/grc-tufts-aplousteros.json":
+/*!********************************************************!*\
+  !*** ./tufts/localJson/grc/grc-tufts-aplousteros.json ***!
+  \********************************************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:TuftsMorphologyService:ἁπλούστερον:morpheusgrc\",\"creator\":{\"Agent\":{\"about\":\"org.perseus:tools:morpheus.v1\"}},\"created\":{\"$\":\"2020-12-16T19:47:17.260772\"},\"rights\":{\"$\":\"Morphology provided by Morpheus from the Perseus Digital Library at Tufts University.\"},\"hasTarget\":{\"Description\":{\"about\":\"urn:word:ἁπλούστερον\"}},\"title\":{},\"hasBody\":{\"resource\":\"urn:uuid:idm140103423580560\"},\"Body\":{\"about\":\"urn:uuid:idm140103423580560\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"uri\":null,\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἁπλόος\"},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"}},\"infl\":[{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλουστερ\"},\"suff\":{\"$\":\"ον\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"masculine\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_h_on\"},\"morph\":{\"$\":\"irreg_comp\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλουστερ\"},\"suff\":{\"$\":\"ον\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":7,\"$\":\"nominative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_h_on\"},\"morph\":{\"$\":\"irreg_comp\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλουστερ\"},\"suff\":{\"$\":\"ον\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":1,\"$\":\"vocative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_h_on\"},\"morph\":{\"$\":\"irreg_comp\"}},{\"term\":{\"lang\":\"grc\",\"stem\":{\"$\":\"ἁπλουστερ\"},\"suff\":{\"$\":\"ον\"}},\"pofs\":{\"order\":2,\"$\":\"adjective\"},\"decl\":{\"$\":\"1st & 2nd\"},\"case\":{\"order\":4,\"$\":\"accusative\"},\"gend\":{\"$\":\"neuter\"},\"num\":{\"$\":\"singular\"},\"stemtype\":{\"$\":\"os_h_on\"},\"morph\":{\"$\":\"irreg_comp\"}}]}}}}}}");
 
 /***/ }),
 
