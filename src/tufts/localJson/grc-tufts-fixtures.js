@@ -386,6 +386,7 @@ import GrcTuftsDoimen from '@/tufts/localJson/grc/grc-tufts-doimen.json'
 import GrcTuftsAtta from '@/tufts/localJson/grc/grc-tufts-atta.json'
 import GrcTuftsProaplegw from '@/tufts/localJson/grc/grc-tufts-proapolegw.json'
 import GrcTuftsAplousteros from '@/tufts/localJson/grc/grc-tufts-aplousteros.json'
+import GrcTuftsEcwterw from '@/tufts/localJson/grc/grc-tufts-ecwterw.json'
 
 
 export default class GrcTuftsFixture {
@@ -764,7 +765,8 @@ export default class GrcTuftsFixture {
 
       'ἀττα': GrcTuftsAtta,
       'προἀπολέγω': GrcTuftsProaplegw,
-      'ἁπλούστερον': GrcTuftsAplousteros
+      'ἁπλούστερον': GrcTuftsAplousteros,
+      'ἐξωτέρω': GrcTuftsEcwterw
 
     }
   }
