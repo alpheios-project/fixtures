@@ -1,5 +1,6 @@
 import Aberis from '@/arethusa/data/1-1.json'
 import Participle from '@/arethusa/data/1-2.json'
+import Gerundive from '@/arethusa/data/1-3.json'
 
 export default class ArethusaFixture {
   static get library () {
@@ -7,7 +8,8 @@ export default class ArethusaFixture {
       'http://example.org': {
         '1' : {
           '1' : Aberis,
-          '2' : Participle 
+          '2' : Participle,
+          '3' : Gerundive
         }
       }
     }

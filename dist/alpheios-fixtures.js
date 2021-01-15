@@ -9032,6 +9032,9 @@ __webpack_require__.r(__webpack_exports__);
 var _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/arethusa/data/1-1.json */ "./arethusa/data/1-1.json", 1);
 /* harmony import */ var _arethusa_data_1_2_json__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @/arethusa/data/1-2.json */ "./arethusa/data/1-2.json");
 var _arethusa_data_1_2_json__WEBPACK_IMPORTED_MODULE_1___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/arethusa/data/1-2.json */ "./arethusa/data/1-2.json", 1);
+/* harmony import */ var _arethusa_data_1_3_json__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @/arethusa/data/1-3.json */ "./arethusa/data/1-3.json");
+var _arethusa_data_1_3_json__WEBPACK_IMPORTED_MODULE_2___namespace = /*#__PURE__*/__webpack_require__.t(/*! @/arethusa/data/1-3.json */ "./arethusa/data/1-3.json", 1);
+
 
 
 
@@ -9041,7 +9044,8 @@ class ArethusaFixture {
       'http://example.org': {
         '1' : {
           '1' : _arethusa_data_1_1_json__WEBPACK_IMPORTED_MODULE_0__,
-          '2' : _arethusa_data_1_2_json__WEBPACK_IMPORTED_MODULE_1__ 
+          '2' : _arethusa_data_1_2_json__WEBPACK_IMPORTED_MODULE_1__,
+          '3' : _arethusa_data_1_3_json__WEBPACK_IMPORTED_MODULE_2__
         }
       }
     }
@@ -9082,6 +9086,17 @@ module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:abcd
 /***/ (function(module) {
 
 module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:1e17dcc2-c783-411b-9661-81d3ab42f7a3\",\"creator\":{\"Agent\":{\"about\":\"\"}},\"created\":{\"$\":\"\"},\"rights\":{\"$\":\"\"},\"hasTarget\":{\"Description\":{\"about\":\"\"}},\"hasBody\":{\"resource\":\"urn:uuid:10344e3e-2b58-472e-8bb2-f1d887ce4ec2\"},\"Body\":{\"about\":\"urn:uuid:10344e3e-2b58-472e-8bb2-f1d887ce4ec2\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"dict\":{\"hdwd\":{\"lang\":\"grc\",\"$\":\"ἐμπρέπω1\"}},\"infl\":{\"pofs\":{\"$\":\"verb\"},\"num\":{\"$\":\"plural\"},\"tense\":{\"$\":\"present\"},\"mood\":{\"$\":\"participle\"},\"voice\":{\"$\":\"active\"},\"gend\":{\"$\":\"masculine\"},\"case\":{\"$\":\"accusative\"},\"term\":{\"form\":{\"$\":\"ἐμπρέποντας\"}}}}}}}}}");
+
+/***/ }),
+
+/***/ "./arethusa/data/1-3.json":
+/*!********************************!*\
+  !*** ./arethusa/data/1-3.json ***!
+  \********************************/
+/*! exports provided: RDF, default */
+/***/ (function(module) {
+
+module.exports = JSON.parse("{\"RDF\":{\"Annotation\":{\"about\":\"urn:uuid:1e17dcc2-c783-411b-9661-81d3ab42f7a3\",\"creator\":{\"Agent\":{\"about\":\"\"}},\"created\":{\"$\":\"\"},\"rights\":{\"$\":\"\"},\"hasTarget\":{\"Description\":{\"about\":\"\"}},\"hasBody\":{\"resource\":\"urn:uuid:10344e3e-2b58-472e-8bb2-f1d887ce4ec2\"},\"Body\":{\"about\":\"urn:uuid:10344e3e-2b58-472e-8bb2-f1d887ce4ec2\",\"type\":{\"resource\":\"cnt:ContentAsXML\"},\"rest\":{\"entry\":{\"dict\":{\"hdwd\":{\"lang\":\"lat\",\"$\":\"fugio1\"}},\"infl\":{\"pofs\":{\"$\":\"verb\"},\"num\":{\"$\":\"singular\"},\"mood\":{\"$\":\"gerundive\"},\"voice\":{\"$\":\"passive\"},\"gend\":{\"$\":\"neuter\"},\"case\":{\"$\":\"ablative\"},\"term\":{\"form\":{\"$\":\"fugiendo\"}}}}}}}}}");
 
 /***/ }),
 
