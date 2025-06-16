@@ -4,16 +4,18 @@
   "description": "Alpheios Fixtures for remote service",
   "main": "dist/alpheios-fixtures.min.js",
   "scripts": {
-    "build": "node --experimental-modules ./node_modules/alpheios-node-build/dist/build.mjs all all vue config.mjs"
+    "build": "node --experimental-modules ./node_modules/alpheios-node-build/dist/build.mjs -m webpack -M all -p vue -c config.mjs"
   },
   "author": "The Alpheios Project, Ltd.",
   "license": "ISC",
   "devDependencies": {
-    "alpheios-node-build": "github:alpheios-project/node-build"
+    "alpheios-node-build": "github:alpheios-project/node-build#v6"
   },
   "dependencies": {
-    "papaparse": "^5.2.0",
+    "bytes": "^3.1.2",
+    "papaparse": "^5.3.0",
     "raw-loader": "^4.0.1",
-    "webpack": "^4.42.0"
+    "stream": "^0.0.3",
+    "webpack": "^5.72.0"
   }
 }
